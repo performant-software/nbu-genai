@@ -1,0 +1,2036 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>FHL_007548705_ISLETA_BAPTISMS_1</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="translation">
+		<body>
+			<pb facs="#FHL_007548705_IMG_012"/>
+			<div facs="#FHL_007548705_IMG_012_L4 #FHL_007548705_IMG_012_L5" sameAs="#event_1" type="Baptism">
+				<head>{left margin} Bárbara</head>
+				<head>{left margin} María Antonia</head>
+				<p>On <date>the fifth day of the month of March of the year one thousand seven hundred and thirty</date>: I solemnly baptized and placed the holy oils on the following individuals: . . . Also, <persName sameAs="#Bárbara_0001">Bárbara</persName>, adult woman of a gentile nation. Her godfather was <persName sameAs="#LorenzoPanadero_0001">Lorenzo Panadero</persName>. Also, <persName sameAs="#MaríaAntonia_0001">María Antonia</persName>, adult woman of a gentile nation. Her godfather was <persName sameAs="#MiguelIullapuñu_0001">Miguel Iullapuñu</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayPedroMontaño_0001">Fray Pedro Montaño</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_012_R1" sameAs="#event_2" type="Baptism">
+				<head>{left margin} Bárbara</head>
+				<head>{left margin} María Asenciana</head>
+				<p>On <date>the thirtieth day of the month of March of the year one thousand seven hundred and thirty</date>: I solemnly baptized and placed the holy oils on the following individuals: <persName sameAs="#Bárbara_0002">Bárbara</persName>, adult woman of a gentile nation. The godparents were <persName sameAs="#GregoryChiguigui_0001">Gregory Chiguigui</persName> and <persName sameAs="#MaríaQuedap[ILL]_0001">María Quedap[ILL]</persName> <persName sameAs="#MaríaAsenciana_0001">María Asenciana</persName>, legitimate daughter of <persName sameAs="#JoséJusto_0001">José Justo</persName> and <persName sameAs="#AntoniadeJojola_0001">Antonia de Jojola</persName>. Her godparents were <persName sameAs="#Carlos_0001">Carlos</persName> and <persName sameAs="#Agustina_0001">Agustina</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayPedroMontaño_0001">Fray Pedro Montaño</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_013"/>
+			<div facs="#FHL_007548705_IMG_013_L2" sameAs="#event_3" type="Baptism">
+				<head>{left margin} Antonio</head>
+				<p>On <date>the ninth day of the month of July of the year seven hundred and thirty</date>: I solemnly baptized and placed the holy oils on <persName sameAs="#Antonio_0001">Antonio</persName>, legitimate son of <persName sameAs="#AntonioGurulé_0001">Antonio Gurulé</persName> and <persName sameAs="#TeresaGallegos_0001">Teresa Gallegos</persName>. Her godparents were <persName sameAs="#BernabéBaca_0001">Bernabé Baca</persName> and <persName sameAs="#MargaritaMata_0001">Margarita Mata</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayPedroMontaño_0001">Fray Pedro Montaño</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_013_L3 #FHL_007548705_IMG_013_L3CONT" sameAs="#event_4" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>On <date>the fourteenth day of the month of July of the year one thousand seven hundred and thirty</date>: I solemnly baptized and placed the holy oils on <persName sameAs="#Antonia_0001">Antonia</persName>, Jumana, an adult woman. Her godparents were <persName sameAs="#DonAntoniodeChávez_0001">Don Antonio de Chávez</persName> and <persName sameAs="#DoñaAntoniaBaca_0001">Doña Antonia Baca</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayPedroMontaño_0001">Fray Pedro Montaño</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_014"/>
+			<div facs="#FHL_007548705_IMG_014_L2" sameAs="#event_0001" type="Baptism">
+				<head>{left margin} Barbara</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fifteenth day of the month of October of the year one thousand seven hundred and thirty</date>: I solemnly baptized <persName sameAs="#Bárbara_0003">Bárbara</persName>, Apache. Her godmother was <persName sameAs="#Micaela_0001">Micaela</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_014_L3" sameAs="#event_0002" type="Baptism">
+				<head>{left margin} Juan Pedro</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the sixteenth day of the month of October of the year one thousand and thirty</date>: I solemnly baptized <persName sameAs="#JuanPedro_0001">Juan Pedro</persName>, legitimate child of <persName sameAs="#RaymundoJojola_0001">Raymundo Jojola</persName> and <persName sameAs="#Francisca_0001">Francisca</persName>. His godparents were Captain <persName sameAs="#JuanGonzález_0001">Juan González</persName> and <persName sameAs="#DoñaMaríaLópez_0001">Doña María López</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_014_R1" sameAs="#event_0003" type="Baptism">
+				<head>{left margin} Gertrudis</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fourth day of the month of December of the year one thousand seven hundred and thirty</date>: I solemnly baptized <persName sameAs="#Gertrudis_0001">Gertrudis</persName>, Apache. Her godmother was <persName sameAs="#DoñaGertrudis_0001">Doña Gertrudis</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> (rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_014_R2" sameAs="#event_0004" type="Baptism">
+				<head>{left margin} Catalina</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the sixth day of the month of December of the year one thousand seven hundred and thirty</date>: I solemnly baptized <persName sameAs="#Catalina_0001">Catalina</persName>, Apache. Her godfather was <persName sameAs="#FelipeGallegos_0001">Felipe Gallegos</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_016"/>
+			<div facs="#FHL_007548705_IMG_016_L3" sameAs="#event_0005" type="Baptism">
+				<head>{left margin} José</head>
+				<p>In this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the third day of the month of May of the year one thousand seven hundred and thirty-one</date>: I solemnly baptized <persName sameAs="#José_0001">José</persName>, Apache. His godfather was <persName sameAs="#JoséNorey_0001">José Norey</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_020"/>
+			<div facs="#FHL_007548705_IMG_020_L1" sameAs="#event_0006" type="Baptism">
+				<head>{left margin} Juan Isidro</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-ninth day of the month of March of the year one thousand and thirty-two</date>: I solemnly baptized <persName sameAs="#JuanIsidro_0001">Juan Isidro</persName>, legitimate son of <persName sameAs="#Sebastián_0001">Sebastián</persName> and <persName sameAs="#Quiteria_0001">Quiteria</persName>. His godparents were <persName sameAs="#Juanico_0001">Juanico</persName> and <persName sameAs="#Micaela_0002">Micaela</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_020_R2" sameAs="#event_0007" type="Baptism">
+				<head>{left margin} Pedro</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the first of July of the year one thousand seven hundred and thirty-two</date>: I solemnly baptized <persName sameAs="#Pedro_0001">Pedro</persName>, son of unknown parents. His godparents were <persName sameAs="#JoséMariano_0001">José Mariano</persName> and <persName sameAs="#Micaela_0003">Micaela</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_021"/>
+			<div facs="#FHL_007548705_IMG_021_R2" sameAs="#event_0008" type="Baptism">
+				<head>{left margin} María Antonia</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the seventh day of the month of September of the year one thousand seven hundred and thirty-two</date>: I solemnly baptized <persName sameAs="#MaríaAntonia_0002">María Antonia</persName>, Apache. Her godparents were <persName sameAs="#Juan_0001">Juan</persName> and <persName sameAs="#MaríaAntonia_0003">María Antonia</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_021_R3" sameAs="#event_0009" type="Baptism">
+				<head>{left margin} Carlos</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-sixth day of the month of September of the year one thousand seven hundred and thirty-two</date>: I solemnly baptized <persName sameAs="#Carlos_0002">Carlos</persName>, son of gentile parents. His godparents were <persName sameAs="#JoséMariano_0002">José Mariano</persName> and <persName sameAs="#Micaela_0004">Micaela</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_022"/>
+			<div facs="#FHL_007548705_IMG_022_L1" sameAs="#event_0010" type="Baptism">
+				<head>{left margin} Miguel</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-sixth day of the month of September of the year one thousand seven hundred and thirty-two</date>: I solemnly baptized <persName sameAs="#Miguel_0001">Miguel</persName>, son of gentile parents. His godfather was <persName sameAs="#Miguel_0002">Miguel</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_023"/>
+			<div facs="#FHL_007548705_IMG_023_L1" sameAs="#event_0011" type="Baptism">
+				<head>{left margin} Santiago</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twentieth day of the month of December of the year one thousand seven hundred and thirty-two</date>: I baptized and placed the holy oils on <persName sameAs="#Santiago_0001">Santiago</persName>, Apache. His godfather was <persName sameAs="#Javier_0001">Javier</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_024"/>
+			<div facs="#FHL_007548705_IMG_024_L2" sameAs="#event_0012" type="Baptism">
+				<head>{left margin} María de la Concepción</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-fifth day of the month of April of the year one thousand seven hundred and thirty-three</date>: I solemnly baptized <persName sameAs="#MaríadelaConcepción_0001">María de la Concepción</persName>, legitimate daughter of <persName sameAs="#José_0002">José</persName>, the Jumano Indian, and <persName sameAs="#Angelina_0001">Angelina</persName>. Her godparents were <persName sameAs="#Francisco_0001">Francisco</persName> and <persName sameAs="#MaríalaGuchuquiana_0001">María la Guchuquiana</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_L3" sameAs="#event_0013" type="Baptism">
+				<head>{left margin} Juan Ambrosio</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the second day of the month of May of the year one thousand seven hundred and thirty-three</date>: I solemnly baptized <persName sameAs="#JuanAmbrosio_0001">Juan Ambrosio</persName>, son of unknown parents. His godparents were <persName sameAs="#Matías_0001">Matías</persName> and <persName sameAs="#Juana_0001">Juana</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_R1" sameAs="#event_0014" type="Baptism">
+				<head>{left margin} María Dorotea</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twentieth day of the month of May of the year one thousand seven hundred and thirty-three</date>: I solemnly baptized <persName sameAs="#MaríaDorotea_0001">María Dorotea</persName>, legitimate daughter of <persName sameAs="#RaymundoJojola_0002">Raymundo Jojola</persName> and <persName sameAs="#Francisca_0002">Francisca</persName>. Her godparents were <persName sameAs="#Matías_0002">Matías</persName> and <persName sameAs="#Juana_0002">Juana</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_R2" sameAs="#event_0015" type="Baptism">
+				<head>{left margin} María</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-seventh day of the month of May of the yar one thousand seven hundred and thirty-three</date>: I solemnly baptized <persName sameAs="#María_0001">María</persName> in extreme unction, daughter of unknown parents. Her godmother was <persName sameAs="#Micaela_0005">Micaela</persName>, and I signed it for the record, ut supra.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_R3" sameAs="#event_0016" type="Baptism">
+				<head>{left margin} Bárbara</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the thirty-first day of the month of May of the year one thousand seven hundred and thirty-three</date>: I baptized <persName sameAs="#Bárbara_0004">Bárbara</persName> in extreme need, Apache. Her godmother was <persName sameAs="#María_0002">María</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_025"/>
+			<div facs="#FHL_007548705_IMG_025_R1" sameAs="#event_0017" type="Baptism">
+				<head>{left margin} Juan de la Cruz</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twentieth day of the month of July of the year one thousand seven hundred and thirty-three</date>: I solemnly baptized <persName sameAs="#JuandelaCruz_0001">Juan de la Cruz</persName>, son of unknown parents. His godparents were Captain <persName sameAs="#JuanGonzález_0002">Juan González</persName> and <persName sameAs="#DoñaMaríaLópez_0002">Doña María López</persName>, and I signed it for the record, ut supra.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_025_R2" sameAs="#event_0018" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-seventh day of the month of July of the year one thousand seven hundred and thirty-three</date>: I baptized and placed the holy oils on <persName sameAs="#Antonia_0002">Antonia</persName>, Apache. Her godfather was <persName sameAs="#AntonioMontoya_0001">Antonio Montoya</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_027"/>
+			<div facs="#FHL_007548705_IMG_027_L4" sameAs="#event_0019" type="Baptism">
+				<head>{left margin} María Josefa</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fourteenth day of the month of February of the year one thousand seven hundred and thirty-four</date>: I solemnly baptized <persName sameAs="#MaríaJosefa_0001">María Josefa</persName>, Apache. Her godparents were <persName sameAs="#Juanico_0002">Juanico</persName> and <persName sameAs="#Micaela_0006">Micaela</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_030"/>
+			<div facs="#FHL_007548705_IMG_030_R5" sameAs="#event_0020" type="Baptism">
+				<head>{left margin} Tomás</head>
+				<p>On <date>the eighteenth day of the month of September of the year one thousand seven hundred and thirty-five</date>: I solemnly baptized <persName sameAs="#TomásdeVillanueva_0001">Tomás de Villanueva</persName>, legitimate son of <persName sameAs="#JoséFernández_0001">José Fernández</persName> and <persName sameAs="#Angelina_0002">Angelina</persName>. His godparents were <persName sameAs="#FelipeRomero_0001">Felipe Romero</persName> and <persName sameAs="#FranciscaGóngora_0001">Francisca Góngora</persName>, and I signed it for the record on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayManuelZambrano_0001">Fray Manuel Zambrano</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_031"/>
+			<div facs="#FHL_007548705_IMG_031_L10 #FHL_007548705_IMG_031_L10CONT" sameAs="#event_0021" type="Baptism">
+				<head>{left margin} Manuela</head>
+				<p>With permission of the parish priest on <date>the twenty-ninth of March of the year one thousand seven hundred and thirty-three</date>: I solemnly baptized <persName sameAs="#Manuela_0001">Manuela</persName>, an adult Apache woman. Her godmother was <persName sameAs="#María_0003">María</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_031_R2" sameAs="#event_0022" type="Baptism">
+				<head>{left margin} María de los Dolores</head>
+				<p>On <date>the eighth day of the month of April of the year one thousand seven hundred and thirty-six</date>: I solemnly baptized <persName sameAs="#MaríadelosDolores_0001">María de los Dolores</persName>, legitimate daughter of <persName sameAs="#RaymundoJojola_0003">Raymundo Jojola</persName> and <persName sameAs="#Francisca_0003">Francisca</persName>. The godparents were <persName sameAs="#JoséRomero_0001">José Romero</persName> and <persName sameAs="#DoñaAnadeChávez_0001">Doña Ana de Chávez</persName>, and I signed it for the record on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayManuelZambrano_0001">Fray Manuel Zambrano</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_031_R3" sameAs="#event_0023" type="Baptism">
+				<head>{left margin} María Josefa</head>
+				<p>On <date>the twenty-second day of the month of April of the year one thousand seven hundred and thirty-six</date>: I solemnly baptized <persName sameAs="#MaríaJosefa_0002">María Josefa</persName>, daughter of unknown parents. Her godmother was <persName sameAs="#AgustinaJojola_0001">Agustina Jojola</persName>, and I signed it for the record on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayManuelZambrano_0001">Fray Manuel Zambrano</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_031_R7" sameAs="#event_0024" type="Baptism">
+				<head>{left margin} Juan Isidro</head>
+				<p>On <date>the fourteenth day of the month of May of the year one thousand seven hundred and thirty-six</date>: I solemnly baptized <persName sameAs="#JuanIsidro_0002">Juan Isidro</persName>, legitimate son of <persName sameAs="#Bonifacio[Lucero]_0001">Bonifacio [Lucero?]</persName> and <persName sameAs="#BárbaraFeliciano_0001">Bárbara Feliciano</persName>. The godparents were <persName sameAs="#José[Norcí]_0001">José [Norcí?]</persName> and <persName sameAs="#MicaelaMontoya_0001">Micaela Montoya</persName>, and I signed it for the record on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayManuelZambrano_0001">Fray Manuel Zambrano</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_032"/>
+			<div facs="#FHL_007548705_IMG_032_L5" sameAs="#event_0025" type="Baptism">
+				<head>{left margin} María</head>
+				<p>On <date>the twenty-fifth day of the month of November of the year one thousand seven hundred and thirty-six</date>: I baptized and placed the holy oils on <persName sameAs="#María_0004">María</persName>, Apache. Her godmother was <persName sameAs="#JuanaMaría_0001">Juana María</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_032_R2" sameAs="#event_0026" type="Baptism">
+				<head>{left margin} Agustín</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the eighth day of the month of December of the year one thousand seven hundred and thirty-six</date>: I solemnly baptized <persName sameAs="#Agustín_0001">Agustín</persName>, Apache. His godparent was <persName sameAs="#Micaela_0007">Micaela</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_034"/>
+			<div facs="#FHL_007548705_IMG_034_R4 #FHL_007548705_IMG_035CONT" sameAs="#event_0027" type="Baptism">
+				<head>{left margin} José Antonio</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-fourth day of March of the year one thousand seven hundred and thirty-seven</date>: I solemnly baptized <persName sameAs="#JoséAntonio_0001">José Antonio</persName>, legitimate son of <persName sameAs="#Ana_0001">Ana</persName> and <persName sameAs="#Ventura_0001">Ventura</persName>. His godparents were <persName sameAs="#GerónimoJirón_0001">Gerónimo Jirón</persName> and <persName sameAs="#Damiana_0001">Damiana</persName>, and</p>
+				<pb facs="#FHL_007548705_IMG_035_CONT"/>
+				<p>I signed it for the record, as stated above.</p>
+				<p><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</p>
+			</div>
+			<pb facs="#FHL_007548705_IMG_036"/>
+			<div facs="#FHL_007548705_IMG_036_L3" sameAs="#event_0028" type="Baptism">
+				<head>{left margin} Antonio</head>
+				<p>At <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-second day of the month of June of the year one thousand seven hundred and thirty-seven</date>: With permission of the parish priest, I solemnly baptized and placed the holy oils and chrism on <persName sameAs="#Antonio_0002">Antonio</persName>, coyote, son of unknown parents. His godmother was <persName sameAs="#MaríaJémez_0001">María Jémez</persName>, and I signed it for the record at said mission on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayJuanJosédeOronzoro_0001">Fray Juan José de Oronzoro</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_036_L4" sameAs="#event_0029" type="Baptism">
+				<head>{left margin} María de la Asención</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fifth day of the month of July of the year one thousand seven hundred and thirty-seven</date>: I put holy water on <persName sameAs="#MaríadelaAsención_0001">María de la Asención</persName>, Apache, due to her extreme need. Her godparent was <persName sameAs="#RosaHolguín_0001">Rosa Holguín</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_036_R1" sameAs="#event_0030" type="Baptism">
+				<head>{left margin} Santiago</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-sixth day of the month of July of the year one thousand seven hundred and thirty-seven</date>: I solemnly baptized <persName sameAs="#Santiago_0002">Santiago</persName>, legitimate son of <persName sameAs="#Sebastián_0002">Sebastián</persName> and <persName sameAs="#Quiteria_0002">Quiteria</persName>. The godparent was <persName sameAs="#MaríalaGuchiquiana_0001">María la Guchiquiana</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_037"/>
+			<div facs="#FHL_007548705_IMG_037_L1" sameAs="#event_0031" type="Baptism">
+				<head>{left margin} Juan Antonio</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the sixth day of the month of September of the year one thousand seven hundred and thirty-seven</date>: I put holy water on <persName sameAs="#JuanAntonio_0001">Juan Antonio</persName>, Apache, due to extreme need. His godparent was <persName sameAs="#RosadeHolguín_0001">Rosa de Holguín</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_037_L2" sameAs="#event_0032" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fourth day of the month of October of the year one thousand seven hundred and thirty-seven</date>: I solemnly baptized <persName sameAs="#Antonia_0003">Antonia</persName>, Apache. Her godfather was <persName sameAs="#Antonio_0003">Antonio</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_037_R1" sameAs="#event_0033" type="Baptism">
+				<head>{left margin} Agustina and Catarina, Apaches</head>
+				<p>At the town and <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the eighth day of the month of November of the year one thousand seven hundred and thirty-seven</date>: I solemnly baptized and placed the holy oils and chrism on <persName sameAs="#Agustina_0002">Agustina</persName>, adult Apache woman, whose godmother was <persName sameAs="#GertrudisdePeralta_0001">Gertrudis de Peralta</persName>, and <persName sameAs="#Catarina_0001">Catarina</persName>, also an adult Apache woman, whose godmother was <persName sameAs="#Catarina_0002">Catarina</persName>, and I signed it for the record at said town and mission on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayJuanJosédeOronzoro_0001">Fray Juan José de Oronzoro</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_039"/>
+			<div facs="#FHL_007548705_IMG_039_L1" sameAs="#event_0034" type="Baptism">
+				<head>{left margin} Catalina</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the second day of the month of March of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#Catalina_0002">Catalina</persName>, Apache. Her godmother was <persName sameAs="#JuanaMaría_0002">Juana María</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_041"/>
+			<div facs="#FHL_007548705_IMG_041_L3" sameAs="#event_0035" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the second day of August of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#Antonia_0004">Antonia</persName>, Apache. Her godfather was <persName sameAs="#Lorenzo_0001">Lorenzo</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_041_R3" sameAs="#event_0036" type="Baptism">
+				<head>{left margin} Tomás</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twentieth day of the month of September of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#Tomás_0001">Tomás</persName>, legitimate son of <persName sameAs="#RaymundoJojola_0004">Raymundo Jojola</persName> and <persName sameAs="#Francisca_0004">Francisca</persName>. His godparents were <persName sameAs="#DiegoDomingo_0001">Diego Domingo</persName> and <persName sameAs="#DoñaJuanadeChávez_0001">Doña Juana de Chávez</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_041_R4 #FHL_007548705_IMG_042cont" sameAs="#event_0037" type="Baptism">
+				<head>{left margin} Juan José</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fifth day of the month of October of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#JuanJosé_0001">Juan José</persName>, son of unknown parents. His godparent was <persName sameAs="#DoñaIsabelBaca_0001">Doña Isabel Baca</persName>, and I signed it</p>
+				<pb facs="#FHL_007548705_IMG_042"/>
+				<p>for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_L2" sameAs="#event_0038" type="Baptism">
+				<head>{left margin} Maria Rosaura</head>
+				<p>On <date>the nineteenth day of the month of October of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#MaríaRosaura_0001">María Rosaura</persName>, legitimate daughter of <persName sameAs="#Antonio_0004">Antonio</persName> and <persName sameAs="#María_0005">María</persName>, Comanches. Her godparents were <persName sameAs="#Ventura_0002">Ventura</persName> and <persName sameAs="#JacintaBaca_0001">Jacinta Baca</persName>, and I signed it for the record, ut supra.</p>
+				<signed><persName sameAs="#FrayJoséMarianoLópez_0001">Fray José Mariano López</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_L4" sameAs="#event_0039" type="Baptism">
+				<head>{left margin} Crisóstomo</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the seventh day of the month of November of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#JuanCrisóstomo_0001">Juan Crisóstomo</persName>, legitimate son of <persName sameAs="#FranciscoCaraquis_0001">Francisco Caraquis</persName> and <persName sameAs="#María_0006">María</persName>. His godparents were <persName sameAs="#Salvador_0001">Salvador</persName> and <persName sameAs="#María_0007">María</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_R3" sameAs="#event_0040" type="Baptism">
+				<head>{left margin} Maria, Juan Antonio, Cristóbal, Juan, Josefa</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the seventeenth day of the month of November of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized the following individuals: <persName sameAs="#María_0008">María</persName>, <persName sameAs="#JuanAntonio_0002">Juan Antonio</persName>, <persName sameAs="#Cristóbal_0001">Cristóbal</persName>, <persName sameAs="#Juan_0002">Juan</persName>, <persName sameAs="#Josefa_0001">Josefa</persName>, all Apaches. The godfather for all of them was <persName sameAs="#AntoniodeUlibarrí_0001">Antonio de Ulibarrí</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_R4" sameAs="#event_0041" type="Baptism">
+				<head>{left margin} Jacinta Úrsula</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the nineteenth day of the month of November of the year one thousand seven hundred and thirty-eight</date>: I solemnly baptized <persName sameAs="#JacintaÚrsula_0001">Jacinta Úrsula</persName>, legitimate daughter of <persName sameAs="#Bonifacio_0001">Bonifacio</persName> and <persName sameAs="#Bárbara_0005">Bárbara</persName>. Her godparents were <persName sameAs="#Raymundo_0001">Raymundo</persName> and <persName sameAs="#Francisca_0005">Francisca</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_044"/>
+			<div facs="#FHL_007548705_IMG_044_L3" sameAs="#event_0042" type="Baptism">
+				<head>{left margin} Bárbara Antonia</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the seventh day of the month of March of the year one thousand seven hundred and thirty-nine</date>: I solemnly baptized <persName sameAs="#BárbaraAntonia_0001">Bárbara Antonia</persName>, Apache. Her godmother was <persName sameAs="#CatalinaJémez_0001">Catalina Jémez</persName> and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_044_R3" sameAs="#event_0043" type="Baptism">
+				<head>{left margin} Ana María</head>
+				<head>{left margin} Bárbara</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-eighth day of the month of March</date>: I solemnly baptized <persName sameAs="#AnaMaría_0001">Ana María</persName>, Apache. Her godmother was <persName sameAs="#Isabel_0001">Isabel</persName>. Also, I baptized <persName sameAs="#Bárbara_0006">Bárbara</persName>, Apache. Her godmother was <persName sameAs="#MaríaFrancisca_0001">María Francisca</persName>, and I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_045"/>
+			<div facs="#FHL_007548705_IMG_045_R1" sameAs="#event_0044" type="Baptism">
+				<head>{left margin} Antonio de la Trinidad</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-fourth of May of the year one thousand seven hundred and thirty-nine</date>: I solemnly baptized <persName sameAs="#AntoniodelaTrinidad_0001">Antonio de la Trinidad</persName>, Apache. His godfather was <persName sameAs="#Francisco_0002">Francisco</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_046"/>
+			<div facs="#FHL_007548705_IMG_046_L2" sameAs="#event_0045" type="Baptism">
+				<head>{left margin} Santiago, Apache infant</head>
+				<p>On <date>the eighth day of the month of September of the year one thousand seven hundred and thirty-nine</date>: With permission of the parish priest, I solemnly baptized <persName sameAs="#Santiago_0003">Santiago</persName>, Apache infant. His godfather was <persName sameAs="#TadeodeTorres_0001">Tadeo de Torres</persName>, and I signed it for the record on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayManuelZambrano_0001">Fray Manuel Zambrano</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_046_L3" sameAs="#event_0046" type="Baptism">
+				<head>{left margin} Antonia Barbara, Apache infant</head>
+				<p>On the eighth day of <date>the month of September of the year one thousand seven hundred and thirty-eight</date>: With the permission of the parish priest, I solemnly baptized <persName sameAs="#AntoniaBárbara_0001">Antonia Bárbara</persName>, an infant girl of the Apache nation, the daughter of infidel parents. Her godfather was <persName sameAs="#JoséNevárez_0001">José Nevárez</persName>, and I signed it for the record on said day, month, and year.</p>
+				<signed><persName sameAs="#FrayManuelZambrano_0001">Fray Manuel Zambrano</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_046_R4" sameAs="#event_0047" type="Baptism">
+				<head>{left margin} María Tomasa</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the tenth of November of the year one thousand seven hundred and thirty-nine</date>: I solemnly baptized <persName sameAs="#MaríaTomasa_0001">María Tomasa</persName>, legitimate daughter of <persName sameAs="#Ventura_0003">Ventura</persName> and <persName sameAs="#Jacinta_0001">Jacinta</persName>. Her godparents were <persName sameAs="#Carlos_0003">Carlos</persName> and <persName sameAs="#CatalinaJémez_0002">Catalina Jémez</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_047"/>
+			<div facs="#FHL_007548705_IMG_047_R1" sameAs="#event_0048" type="Baptism">
+				<head>{left margin} Asencio Mariano</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on t<date>he twelfth day of the month of December of the year one thousand seven hundred and thirty-nine</date>: I solemnly baptized <persName sameAs="#AsencioMariano_0001">Asencio Mariano</persName>, legitimate son of <persName sameAs="#Antonio_0005">Antonio</persName> and <persName sameAs="#Pascuala_0001">Pascuala</persName>, Indians. His godparents were <persName sameAs="#BernardodeChávez_0001">Bernardo de Chávez</persName> and <persName sameAs="#MaríaMontoya_0001">María Montoya</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_048"/>
+			<div facs="#FHL_007548705_IMG_048_L2" sameAs="#event_0049" type="Baptism">
+				<head>{left margin} Antonio Pascual</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-fourth of April of the year one thousand seven hundred and forty</date>: I solemnly baptized <persName sameAs="#AntonioPascual_0001">Antonio Pascual</persName>, legitimate son of <persName sameAs="#Sebastián_0003">Sebastián</persName> and <persName sameAs="#Quiteria_0003">Quiteria</persName>. The godparents were <persName sameAs="#Antonio_0006">Antonio</persName> and <persName sameAs="#MaríalaChata_0001">María la Chata</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_051"/>
+			<div facs="#FHL_007548705_IMG_051_R1" sameAs="#event_0050" type="Baptism">
+				<head>{left margin} Juana María</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the fourth day of the month of February of the year one thousand seven hundred and forty-one</date>: I solemnly baptized <persName sameAs="#JuanaMaría_0003">Juana María</persName>, legitimate daughter of <persName sameAs="#RaymundoJojola_0005">Raymundo Jojola</persName> and <persName sameAs="#Francisca_0006">Francisca</persName>. Her godparents were <persName sameAs="#Juan[Dirujan]_0001">Juan [Dirujan?]</persName> and <persName sameAs="#María_0009">María</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_053"/>
+			<div facs="#FHL_007548705_IMG_053_L5" sameAs="#event_0051" type="Baptism">
+				<head>{left margin} Rosa María</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the tenth day of the month of July of the year one thousand seven hundred and forty-one</date>: I solemnly baptized <persName sameAs="#RosaMaría_0001">Rosa María</persName>, legitimate daughter of <persName sameAs="#Brianda_0001">Brianda</persName> and <persName sameAs="#Bernardo_0001">Bernardo</persName>. Her godparents were <persName sameAs="#LuisChávez_0001">Luis Chávez</persName> and <persName sameAs="#LaAguilara_0001">La Aguilara</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_053_R1" sameAs="#event_0052" type="Baptism">
+				<head>{left margin} Quiteria</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the eleventh day of the month of July of the year one thousand seven hundred and forty-one</date>: I solemnly baptized <persName sameAs="#Quiteria_0004">Quiteria</persName>, legitimate daughter of <persName sameAs="#Ventura_0004">Ventura</persName> and <persName sameAs="#Ana_0002">Ana</persName>. Her godparents were <persName sameAs="#DiegoPadilla_0001">Diego Padilla</persName> and <persName sameAs="#MaríaLuisa_0001">María Luisa</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_053_R3" sameAs="#event_0053" type="Baptism">
+				<head>{left margin} Rosa</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the thirtieth day of the month of August of the year one thousand seven hundred and forty-one</date>: I solemnly baptized <persName sameAs="#Rosa_0001">Rosa</persName>, an Apache woman (it had been twenty years since <persName sameAs="#DoñaIsabelChávez_0001">Doña Isabel Chávez</persName> had holy water placed on her, but the other ceremonies that our Holy Mother Church orders had not taken place). Her godmother was <persName sameAs="#MaríalaGuchuquiana_0002">María la Guchuquiana</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_054"/>
+			<div facs="#FHL_007548705_IMG_054_R1" sameAs="#event_0054" type="Baptism">
+				<head>{left margin} María de los Dolores, coyota</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the nineteenth day of the month of November of the year one thousand seven hundred and forty-one</date>: I solemnly baptized <persName sameAs="#MaríadelosDolores_0002">María de los Dolores</persName>, legitimate daughter of <persName sameAs="#Quintana">Quintana</persName> and <persName sameAs="#Petrona">Petrona</persName>, coyotes. Her godparents were <persName sameAs="#CayetanoTorres_0001">Cayetano Torres</persName> and <persName sameAs="#MaríaGóngora_0001">María Góngora</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_054_R3" sameAs="#event_0055" type="Baptism">
+				<head>{margin} María Juliana</head>
+				<p>At this <placeName sameAs="#MissionofSanAgustíndelaIsleta_0001">Mission of San Agustín de la Isleta</placeName> on <date>the twenty-sixth day of the month of November of the year one thousand seven hundred and forty-one</date>: I solemnly baptized <persName sameAs="#MaríaJuliana_0001">María Juliana</persName>, legitimate daughter of <persName sameAs="#Ventura_0005">Ventura</persName> and <persName sameAs="#Jacinta_0002">Jacinta</persName>. Her godmother was <persName sameAs="#Micaela_0008">Micaela</persName>. I signed it for the record, as stated above.</p>
+				<signed><persName sameAs="#FrayCarlosDelgado_0001">Fray Carlos Delgado</persName> {rubric}</signed>
+			</div>
+		</body>
+	</text>
+	<standOff xml:id="names">
+		<listPerson>
+			<person xml:id="Bárbara_0001">
+				<persName>Bárbara</persName>
+			</person>
+			<person xml:id="LorenzoPanadero_0001">
+				<persName>Lorenzo Panadero</persName>
+			</person>
+			<person xml:id="MaríaAntonia_0001">
+				<persName>María Antonia</persName>
+			</person>
+			<person xml:id="MiguelIullapuñu_0001">
+				<persName>Miguel Iullapuñu</persName>
+			</person>
+			<person xml:id="FrayPedroMontaño_0001">
+				<persName>Fray Pedro Montaño</persName>
+			</person>
+			<person xml:id="Bárbara_0002">
+				<persName>Bárbara</persName>
+			</person>
+			<person xml:id="GregoryChiguigui_0001">
+				<persName>Gregory Chiguigui</persName>
+			</person>
+			<person xml:id="MaríaQuedap[ILL]_0001">
+				<persName>María Quedap[ILL]</persName>
+			</person>
+			<person xml:id="MaríaAsenciana_0001">
+				<persName>María Asenciana</persName>
+			</person>
+			<person xml:id="JoséJusto_0001">
+				<persName>José Justo</persName>
+			</person>
+			<person xml:id="AntoniadeJojola_0001">
+				<persName>Antonia de Jojola</persName>
+			</person>
+			<person xml:id="Carlos_0001">
+				<persName>Carlos</persName>
+			</person>
+			<person xml:id="Agustina_0001">
+				<persName>Agustina</persName>
+			</person>
+			<person xml:id="Antonio_0001">
+				<persName>Antonio</persName>
+			</person>
+			<person xml:id="AntonioGurulé_0001">
+				<persName>Antonio Gurulé</persName>
+			</person>
+			<person xml:id="TeresaGallegos_0001">
+				<persName>Teresa Gallegos</persName>
+			</person>
+			<person xml:id="BernabéBaca_0001">
+				<persName>Bernabé Baca</persName>
+			</person>
+			<person xml:id="MargaritaMata_0001">
+				<persName>Margarita Mata</persName>
+			</person>
+			<person xml:id="Antonia_0001">
+				<persName>Antonia</persName>
+			</person>
+			<person xml:id="DonAntoniodeChávez_0001">
+				<persName>Don Antonio de Chávez</persName>
+			</person>
+			<person xml:id="DoñaAntoniaBaca_0001">
+				<persName>Doña Antonia Baca</persName>
+			</person>
+			<person xml:id="Bárbara_0003">
+				<persName>Bárbara</persName>
+			</person>
+			<person xml:id="Micaela_0001">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="FrayCarlosDelgado_0001">
+				<persName>Fray Carlos Delgado</persName>
+			</person>
+			<person xml:id="JuanPedro_0001">
+				<persName>Juan Pedro</persName>
+			</person>
+			<person xml:id="RaymundoJojola_0001">
+				<persName>Raymundo Jojola</persName>
+			</person>
+			<person xml:id="Francisca_0001">
+				<persName>Francisca</persName>
+			</person>
+			<person xml:id="JuanGonzález_0001">
+				<persName>Juan González</persName>
+			</person>
+			<person xml:id="DoñaMaríaLópez_0001">
+				<persName>Doña María López</persName>
+			</person>
+			<person xml:id="Gertrudis_0001">
+				<persName>Gertrudis</persName>
+			</person>
+			<person xml:id="DoñaGertrudis_0001">
+				<persName>Doña Gertrudis</persName>
+			</person>
+			<person xml:id="Catalina_0001">
+				<persName>Catalina</persName>
+			</person>
+			<person xml:id="FelipeGallegos_0001">
+				<persName>Felipe Gallegos</persName>
+			</person>
+			<person xml:id="José_0001">
+				<persName>José</persName>
+			</person>
+			<person xml:id="JoséNorey_0001">
+				<persName>José Norey</persName>
+			</person>
+			<person xml:id="JuanIsidro_0001">
+				<persName>Juan Isidro</persName>
+			</person>
+			<person xml:id="Sebastián_0001">
+				<persName>Sebastián</persName>
+			</person>
+			<person xml:id="Quiteria_0001">
+				<persName>Quiteria</persName>
+			</person>
+			<person xml:id="Juanico_0001">
+				<persName>Juanico</persName>
+			</person>
+			<person xml:id="Micaela_0002">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="Pedro_0001">
+				<persName>Pedro</persName>
+			</person>
+			<person xml:id="JoséMariano_0001">
+				<persName>José Mariano</persName>
+			</person>
+			<person xml:id="Micaela_0003">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="MaríaAntonia_0002">
+				<persName>María Antonia</persName>
+			</person>
+			<person xml:id="Juan_0001">
+				<persName>Juan</persName>
+			</person>
+			<person xml:id="MaríaAntonia_0003">
+				<persName>María Antonia</persName>
+			</person>
+			<person xml:id="Carlos_0002">
+				<persName>Carlos</persName>
+			</person>
+			<person xml:id="JoséMariano_0002">
+				<persName>José Mariano</persName>
+			</person>
+			<person xml:id="Micaela_0004">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="Miguel_0001">
+				<persName>Miguel</persName>
+			</person>
+			<person xml:id="Miguel_0002">
+				<persName>Miguel</persName>
+			</person>
+			<person xml:id="Santiago_0001">
+				<persName>Santiago</persName>
+			</person>
+			<person xml:id="Javier_0001">
+				<persName>Javier</persName>
+			</person>
+			<person xml:id="MaríadelaConcepción_0001">
+				<persName>María de la Concepción</persName>
+			</person>
+			<person xml:id="José_0002">
+				<persName>José</persName>
+			</person>
+			<person xml:id="Angelina_0001">
+				<persName>Angelina</persName>
+			</person>
+			<person xml:id="Francisco_0001">
+				<persName>Francisco</persName>
+			</person>
+			<person xml:id="MaríalaGuchuquiana_0001">
+				<persName>María la Guchuquiana</persName>
+			</person>
+			<person xml:id="JuanAmbrosio_0001">
+				<persName>Juan Ambrosio</persName>
+			</person>
+			<person xml:id="Matías_0001">
+				<persName>Matías</persName>
+			</person>
+			<person xml:id="Juana_0001">
+				<persName>Juana</persName>
+			</person>
+			<person xml:id="MaríaDorotea_0001">
+				<persName>María Dorotea</persName>
+			</person>
+			<person xml:id="RaymundoJojola_0002">
+				<persName>Raymundo Jojola</persName>
+			</person>
+			<person xml:id="Francisca_0002">
+				<persName>Francisca</persName>
+			</person>
+			<person xml:id="Matías_0002">
+				<persName>Matías</persName>
+			</person>
+			<person xml:id="Juana_0002">
+				<persName>Juana</persName>
+			</person>
+			<person xml:id="María_0001">
+				<persName>María</persName>
+			</person>
+			<person xml:id="Micaela_0005">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="Bárbara_0004">
+				<persName>Bárbara</persName>
+			</person>
+			<person xml:id="María_0002">
+				<persName>María</persName>
+			</person>
+			<person xml:id="JuandelaCruz_0001">
+				<persName>Juan de la Cruz</persName>
+			</person>
+			<person xml:id="JuanGonzález_0002">
+				<persName>Juan González</persName>
+			</person>
+			<person xml:id="DoñaMaríaLópez_0002">
+				<persName>Doña María López</persName>
+			</person>
+			<person xml:id="Antonia_0002">
+				<persName>Antonia</persName>
+			</person>
+			<person xml:id="AntonioMontoya_0001">
+				<persName>Antonio Montoya</persName>
+			</person>
+			<person xml:id="MaríaJosefa_0001">
+				<persName>María Josefa</persName>
+			</person>
+			<person xml:id="Juanico_0002">
+				<persName>Juanico</persName>
+			</person>
+			<person xml:id="Micaela_0006">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="TomásdeVillanueva_0001">
+				<persName>Tomás de Villanueva</persName>
+			</person>
+			<person xml:id="JoséFernández_0001">
+				<persName>José Fernández</persName>
+			</person>
+			<person xml:id="Angelina_0002">
+				<persName>Angelina</persName>
+			</person>
+			<person xml:id="FelipeRomero_0001">
+				<persName>Felipe Romero</persName>
+			</person>
+			<person xml:id="FranciscaGóngora_0001">
+				<persName>Francisca Góngora</persName>
+			</person>
+			<person xml:id="FrayManuelZambrano_0001">
+				<persName>Fray Manuel Zambrano</persName>
+			</person>
+			<person xml:id="Manuela_0001">
+				<persName>Manuela</persName>
+			</person>
+			<person xml:id="María_0003">
+				<persName>María</persName>
+			</person>
+			<person xml:id="MaríadelosDolores_0001">
+				<persName>María de los Dolores</persName>
+			</person>
+			<person xml:id="RaymundoJojola_0003">
+				<persName>Raymundo Jojola</persName>
+			</person>
+			<person xml:id="Francisca_0003">
+				<persName>Francisca</persName>
+			</person>
+			<person xml:id="JoséRomero_0001">
+				<persName>José Romero</persName>
+			</person>
+			<person xml:id="DoñaAnadeChávez_0001">
+				<persName>Doña Ana de Chávez</persName>
+			</person>
+			<person xml:id="MaríaJosefa_0002">
+				<persName>María Josefa</persName>
+			</person>
+			<person xml:id="AgustinaJojola_0001">
+				<persName>Agustina Jojola</persName>
+			</person>
+			<person xml:id="JuanIsidro_0002">
+				<persName>Juan Isidro</persName>
+			</person>
+			<person xml:id="Bonifacio[Lucero]_0001">
+				<persName>Bonifacio [Lucero?]</persName>
+			</person>
+			<person xml:id="BárbaraFeliciano_0001">
+				<persName>Bárbara Feliciano</persName>
+			</person>
+			<person xml:id="José[Norcí]_0001">
+				<persName>José [Norcí?]</persName>
+			</person>
+			<person xml:id="MicaelaMontoya_0001">
+				<persName>Micaela Montoya</persName>
+			</person>
+			<person xml:id="María_0004">
+				<persName>María</persName>
+			</person>
+			<person xml:id="JuanaMaría_0001">
+				<persName>Juana María</persName>
+			</person>
+			<person xml:id="Agustín_0001">
+				<persName>Agustín</persName>
+			</person>
+			<person xml:id="Micaela_0007">
+				<persName>Micaela</persName>
+			</person>
+			<person xml:id="JoséAntonio_0001">
+				<persName>José Antonio</persName>
+			</person>
+			<person xml:id="Ana_0001">
+				<persName>Ana</persName>
+			</person>
+			<person xml:id="Ventura_0001">
+				<persName>Ventura</persName>
+			</person>
+			<person xml:id="GerónimoJirón_0001">
+				<persName>Gerónimo Jirón</persName>
+			</person>
+			<person xml:id="Damiana_0001">
+				<persName>Damiana</persName>
+			</person>
+			<person xml:id="Antonio_0002">
+				<persName>Antonio</persName>
+			</person>
+			<person xml:id="MaríaJémez_0001">
+				<persName>María Jémez</persName>
+			</person>
+			<person xml:id="FrayJuanJosédeOronzoro_0001">
+				<persName>Fray Juan José de Oronzoro</persName>
+			</person>
+			<person xml:id="MaríadelaAsención_0001">
+				<persName>María de la Asención</persName>
+			</person>
+			<person xml:id="RosaHolguín_0001">
+				<persName>Rosa Holguín</persName>
+			</person>
+			<person xml:id="Santiago_0002">
+				<persName>Santiago</persName>
+			</person>
+			<person xml:id="Sebastián_0002">
+				<persName>Sebastián</persName>
+			</person>
+			<person xml:id="Quiteria_0002">
+				<persName>Quiteria</persName>
+			</person>
+			<person xml:id="MaríalaGuchiquiana_0001">
+				<persName>María la Guchiquiana</persName>
+			</person>
+			<person xml:id="JuanAntonio_0001">
+				<persName>Juan Antonio</persName>
+			</person>
+			<person xml:id="RosadeHolguín_0001">
+				<persName>Rosa de Holguín</persName>
+			</person>
+			<person xml:id="Antonia_0003">
+				<persName>Antonia</persName>
+			</person>
+			<person xml:id="Antonio_0003">
+				<persName>Antonio</persName>
+			</person>
+			<person xml:id="Agustina_0002">
+				<persName>Agustina</persName>
+			</person>
+			<person xml:id="GertrudisdePeralta_0001">
+				<persName>Gertrudis de Peralta</persName>
+			</person>
+			<person xml:id="Catarina_0001">
+				<persName>Catarina</persName>
+			</person>
+			<person xml:id="Catarina_0002">
+				<persName>Catarina</persName>
+			</person>
+			<person xml:id="Catalina_0002">
+				<persName>Catalina</persName>
+			</person>
+			<person xml:id="JuanaMaría_0002">
+				<persName>Juana María</persName>
+			</person>
+			<person xml:id="Antonia_0004">
+				<persName>Antonia</persName>
+			</person>
+			<person xml:id="Lorenzo_0001">
+				<persName>Lorenzo</persName>
+			</person>
+			<person xml:id="Tomás_0001">
+				<persName>Tomás</persName>
+			</person>
+			<person xml:id="RaymundoJojola_0004">
+				<persName>Raymundo Jojola</persName>
+			</person>
+			<person xml:id="Francisca_0004">
+				<persName>Francisca</persName>
+			</person>
+			<person xml:id="DiegoDomingo_0001">
+				<persName>Diego Domingo</persName>
+			</person>
+			<person xml:id="DoñaJuanadeChávez_0001">
+				<persName>Doña Juana de Chávez</persName>
+			</person>
+			<person xml:id="JuanJosé_0001">
+				<persName>Juan José</persName>
+			</person>
+			<person xml:id="DoñaIsabelBaca_0001">
+				<persName>Doña Isabel Baca</persName>
+			</person>
+			<person xml:id="MaríaRosaura_0001">
+				<persName>María Rosaura</persName>
+			</person>
+			<person xml:id="Antonio_0004">
+				<persName>Antonio</persName>
+			</person>
+			<person xml:id="María_0005">
+				<persName>María</persName>
+			</person>
+			<person xml:id="Ventura_0002">
+				<persName>Ventura</persName>
+			</person>
+			<person xml:id="JacintaBaca_0001">
+				<persName>Jacinta Baca</persName>
+			</person>
+			<person xml:id="FrayJoséMarianoLópez_0001">
+				<persName>Fray José Mariano López</persName>
+			</person>
+			<person xml:id="JuanCrisóstomo_0001">
+				<persName>Juan Crisóstomo</persName>
+			</person>
+			<person xml:id="FranciscoCaraquis_0001">
+				<persName>Francisco Caraquis</persName>
+			</person>
+			<person xml:id="María_0006">
+				<persName>María</persName>
+			</person>
+			<person xml:id="Salvador_0001">
+				<persName>Salvador</persName>
+			</person>
+			<person xml:id="María_0007">
+				<persName>María</persName>
+			</person>
+			<person xml:id="María_0008">
+				<persName>María</persName>
+			</person>
+			<person xml:id="JuanAntonio_0002">
+				<persName>Juan Antonio</persName>
+			</person>
+			<person xml:id="Cristóbal_0001">
+				<persName>Cristóbal</persName>
+			</person>
+			<person xml:id="Juan_0002">
+				<persName>Juan</persName>
+			</person>
+			<person xml:id="Josefa_0001">
+				<persName>Josefa</persName>
+			</person>
+			<person xml:id="AntoniodeUlibarrí_0001">
+				<persName>Antonio de Ulibarrí</persName>
+			</person>
+			<person xml:id="JacintaÚrsula_0001">
+				<persName>Jacinta Úrsula</persName>
+			</person>
+			<person xml:id="Bonifacio_0001">
+				<persName>Bonifacio</persName>
+			</person>
+			<person xml:id="Bárbara_0005">
+				<persName>Bárbara</persName>
+			</person>
+			<person xml:id="Raymundo_0001">
+				<persName>Raymundo</persName>
+			</person>
+			<person xml:id="Francisca_0005">
+				<persName>Francisca</persName>
+			</person>
+			<person xml:id="BárbaraAntonia_0001">
+				<persName>Bárbara Antonia</persName>
+			</person>
+			<person xml:id="CatalinaJémez_0001">
+				<persName>Catalina Jémez</persName>
+			</person>
+			<person xml:id="AnaMaría_0001">
+				<persName>Ana María</persName>
+			</person>
+			<person xml:id="Isabel_0001">
+				<persName>Isabel</persName>
+			</person>
+			<person xml:id="Bárbara_0006">
+				<persName>Bárbara</persName>
+			</person>
+			<person xml:id="MaríaFrancisca_0001">
+				<persName>María Francisca</persName>
+			</person>
+			<person xml:id="AntoniodelaTrinidad_0001">
+				<persName>Antonio de la Trinidad</persName>
+			</person>
+			<person xml:id="Francisco_0002">
+				<persName>Francisco</persName>
+			</person>
+			<person xml:id="Santiago_0003">
+				<persName>Santiago</persName>
+			</person>
+			<person xml:id="TadeodeTorres_0001">
+				<persName>Tadeo de Torres</persName>
+			</person>
+			<person xml:id="AntoniaBárbara_0001">
+				<persName>Antonia Bárbara</persName>
+			</person>
+			<person xml:id="JoséNevárez_0001">
+				<persName>José Nevárez</persName>
+			</person>
+			<person xml:id="MaríaTomasa_0001">
+				<persName>María Tomasa</persName>
+			</person>
+			<person xml:id="Ventura_0003">
+				<persName>Ventura</persName>
+			</person>
+			<person xml:id="Jacinta_0001">
+				<persName>Jacinta</persName>
+			</person>
+			<person xml:id="Carlos_0003">
+				<persName>Carlos</persName>
+			</person>
+			<person xml:id="CatalinaJémez_0002">
+				<persName>Catalina Jémez</persName>
+			</person>
+			<person xml:id="AsencioMariano_0001">
+				<persName>Asencio Mariano</persName>
+			</person>
+			<person xml:id="Antonio_0005">
+				<persName>Antonio</persName>
+			</person>
+			<person xml:id="Pascuala_0001">
+				<persName>Pascuala</persName>
+			</person>
+			<person xml:id="BernardodeChávez_0001">
+				<persName>Bernardo de Chávez</persName>
+			</person>
+			<person xml:id="MaríaMontoya_0001">
+				<persName>María Montoya</persName>
+			</person>
+			<person xml:id="AntonioPascual_0001">
+				<persName>Antonio Pascual</persName>
+			</person>
+			<person xml:id="Sebastián_0003">
+				<persName>Sebastián</persName>
+			</person>
+			<person xml:id="Quiteria_0003">
+				<persName>Quiteria</persName>
+			</person>
+			<person xml:id="Antonio_0006">
+				<persName>Antonio</persName>
+			</person>
+			<person xml:id="MaríalaChata_0001">
+				<persName>María la Chata</persName>
+			</person>
+			<person xml:id="JuanaMaría_0003">
+				<persName>Juana María</persName>
+			</person>
+			<person xml:id="RaymundoJojola_0005">
+				<persName>Raymundo Jojola</persName>
+			</person>
+			<person xml:id="Francisca_0006">
+				<persName>Francisca</persName>
+			</person>
+			<person xml:id="Juan[Dirujan]_0001">
+				<persName>Juan [Dirujan?]</persName>
+			</person>
+			<person xml:id="María_0009">
+				<persName>María</persName>
+			</person>
+			<person xml:id="RosaMaría_0001">
+				<persName>Rosa María</persName>
+			</person>
+			<person xml:id="Brianda_0001">
+				<persName>Brianda</persName>
+			</person>
+			<person xml:id="Bernardo_0001">
+				<persName>Bernardo</persName>
+			</person>
+			<person xml:id="LuisChávez_0001">
+				<persName>Luis Chávez</persName>
+			</person>
+			<person xml:id="LaAguilara_0001">
+				<persName>La Aguilara</persName>
+			</person>
+			<person xml:id="Quiteria_0004">
+				<persName>Quiteria</persName>
+			</person>
+			<person xml:id="Ventura_0004">
+				<persName>Ventura</persName>
+			</person>
+			<person xml:id="Ana_0002">
+				<persName>Ana</persName>
+			</person>
+			<person xml:id="DiegoPadilla_0001">
+				<persName>Diego Padilla</persName>
+			</person>
+			<person xml:id="MaríaLuisa_0001">
+				<persName>María Luisa</persName>
+			</person>
+			<person xml:id="Rosa_0001">
+				<persName>Rosa</persName>
+			</person>
+			<person xml:id="DoñaIsabelChávez_0001">
+				<persName>Doña Isabel Chávez</persName>
+			</person>
+			<person xml:id="MaríalaGuchuquiana_0002">
+				<persName>María la Guchuquiana</persName>
+			</person>
+			<person xml:id="MaríadelosDolores_0002">
+				<persName>María de los Dolores</persName>
+			</person>
+			<person xml:id="Quintana">
+				<persName>Quintana</persName>
+			</person>
+			<person xml:id="Petrona">
+				<persName>Petrona</persName>
+			</person>
+			<person xml:id="CayetanoTorres_0001">
+				<persName>Cayetano Torres</persName>
+			</person>
+			<person xml:id="MaríaGóngora_0001">
+				<persName>María Góngora</persName>
+			</person>
+			<person xml:id="MaríaJuliana_0001">
+				<persName>María Juliana</persName>
+			</person>
+			<person xml:id="Ventura_0005">
+				<persName>Ventura</persName>
+			</person>
+			<person xml:id="Jacinta_0002">
+				<persName>Jacinta</persName>
+			</person>
+			<person xml:id="Micaela_0008">
+				<persName>Micaela</persName>
+			</person>
+		</listPerson>
+		<listPlace>
+			<place xml:id="MissionofSanAgustíndelaIsleta_0001">
+				<placeName>Mission of San Agustín de la Isleta</placeName>
+			</place>
+		</listPlace>
+		<listEvent>
+			<event xml:id="event_1" type="Baptism" when="the fifth day of the month of March of the year one thousand seven hundred and thirty">
+				<desc>Baptism attended by Bárbara, Lorenzo Panadero, María Antonia, Miguel Iullapuñu, Fray Pedro Montaño</desc>
+			</event>
+			<event xml:id="event_2" type="Baptism" when="the thirtieth day of the month of March of the year one thousand seven hundred and thirty">
+				<desc>Baptism attended by Bárbara, Gregory Chiguigui, María Quedap[ILL], María Asenciana, José Justo, Antonia de Jojola, Carlos, Agustina, Fray Pedro Montaño</desc>
+			</event>
+			<event xml:id="event_3" type="Baptism" when="the ninth day of the month of July of the year seven hundred and thirty">
+				<desc>Baptism attended by Antonio, Antonio Gurulé, Teresa Gallegos, Bernabé Baca, Margarita Mata, Fray Pedro Montaño</desc>
+			</event>
+			<event xml:id="event_4" type="Baptism" when="the fourteenth day of the month of July of the year one thousand seven hundred and thirty">
+				<desc>Baptism attended by Antonia, Don Antonio de Chávez, Doña Antonia Baca, Fray Pedro Montaño</desc>
+			</event>
+			<event xml:id="event_0001" type="Baptism" when="the fifteenth day of the month of October of the year one thousand seven hundred and thirty" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Bárbara, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0002" type="Baptism" when="the sixteenth day of the month of October of the year one thousand and thirty" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan Pedro, Raymundo Jojola, Francisca, Juan González, Doña María López, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0003" type="Baptism" when="the fourth day of the month of December of the year one thousand seven hundred and thirty" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Gertrudis, Doña Gertrudis, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0004" type="Baptism" when="the sixth day of the month of December of the year one thousand seven hundred and thirty" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Catalina, Felipe Gallegos, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0005" type="Baptism" when="the third day of the month of May of the year one thousand seven hundred and thirty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by José, José Norey, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0006" type="Baptism" when="the twenty-ninth day of the month of March of the year one thousand and thirty-two" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan Isidro, Sebastián, Quiteria, Juanico, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0007" type="Baptism" when="the first of July of the year one thousand seven hundred and thirty-two" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Pedro, José Mariano, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0008" type="Baptism" when="the seventh day of the month of September of the year one thousand seven hundred and thirty-two" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María Antonia, Juan, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0009" type="Baptism" when="the twenty-sixth day of the month of September of the year one thousand seven hundred and thirty-two" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Carlos, José Mariano, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0010" type="Baptism" when="the twenty-sixth day of the month of September of the year one thousand seven hundred and thirty-two" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Miguel, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0011" type="Baptism" when="the twentieth day of the month of December of the year one thousand seven hundred and thirty-two" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Santiago, Javier, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0012" type="Baptism" when="the twenty-fifth day of the month of April of the year one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María de la Concepción, José, Angelina, Francisco, María la Guchuquiana, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0013" type="Baptism" when="the second day of the month of May of the year one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan Ambrosio, Matías, Juana, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0014" type="Baptism" when="the twentieth day of the month of May of the year one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María Dorotea, Raymundo Jojola, Francisca, Matías, Juana, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0015" type="Baptism" when="the twenty-seventh day of the month of May of the yar one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0016" type="Baptism" when="the thirty-first day of the month of May of the year one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Bárbara, María, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0017" type="Baptism" when="the twentieth day of the month of July of the year one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan de la Cruz, Juan González, Doña María López, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0018" type="Baptism" when="the twenty-seventh day of the month of July of the year one thousand seven hundred and thirty-three" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Antonia, Antonio Montoya, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0019" type="Baptism" when="the fourteenth day of the month of February of the year one thousand seven hundred and thirty-four" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María Josefa, Juanico, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0020" type="Baptism" when="the eighteenth day of the month of September of the year one thousand seven hundred and thirty-five">
+				<desc>Baptism attended by Tomás de Villanueva, José Fernández, Angelina, Felipe Romero, Francisca Góngora, Fray Manuel Zambrano</desc>
+			</event>
+			<event xml:id="event_0021" type="Baptism" when="the twenty-ninth of March of the year one thousand seven hundred and thirty-three">
+				<desc>Baptism attended by Manuela, María, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0022" type="Baptism" when="the eighth day of the month of April of the year one thousand seven hundred and thirty-six">
+				<desc>Baptism attended by María de los Dolores, Raymundo Jojola, Francisca, José Romero, Doña Ana de Chávez, Fray Manuel Zambrano</desc>
+			</event>
+			<event xml:id="event_0023" type="Baptism" when="the twenty-second day of the month of April of the year one thousand seven hundred and thirty-six">
+				<desc>Baptism attended by María Josefa, Agustina Jojola, Fray Manuel Zambrano</desc>
+			</event>
+			<event xml:id="event_0024" type="Baptism" when="the fourteenth day of the month of May of the year one thousand seven hundred and thirty-six">
+				<desc>Baptism attended by Juan Isidro, Bonifacio [Lucero?], Bárbara Feliciano, José [Norcí?], Micaela Montoya, Fray Manuel Zambrano</desc>
+			</event>
+			<event xml:id="event_0025" type="Baptism" when="the twenty-fifth day of the month of November of the year one thousand seven hundred and thirty-six">
+				<desc>Baptism attended by María, Juana María, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0026" type="Baptism" when="the eighth day of the month of December of the year one thousand seven hundred and thirty-six" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Agustín, Micaela, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0027" type="Baptism" when="the twenty-fourth day of March of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by José Antonio, Ana, Ventura, Gerónimo Jirón, Damiana, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0028" type="Baptism" when="the twenty-second day of the month of June of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Antonio, María Jémez, Fray Juan José de Oronzoro</desc>
+			</event>
+			<event xml:id="event_0029" type="Baptism" when="the fifth day of the month of July of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María de la Asención, Rosa Holguín, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0030" type="Baptism" when="the twenty-sixth day of the month of July of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Santiago, Sebastián, Quiteria, María la Guchiquiana, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0031" type="Baptism" when="the sixth day of the month of September of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan Antonio, Rosa de Holguín, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0032" type="Baptism" when="the fourth day of the month of October of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Antonia, Antonio, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0033" type="Baptism" when="the eighth day of the month of November of the year one thousand seven hundred and thirty-seven" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Agustina, Gertrudis de Peralta, Catarina, Fray Juan José de Oronzoro</desc>
+			</event>
+			<event xml:id="event_0034" type="Baptism" when="the second day of the month of March of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Catalina, Juana María, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0035" type="Baptism" when="the second day of August of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Antonia, Lorenzo, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0036" type="Baptism" when="the twentieth day of the month of September of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Tomás, Raymundo Jojola, Francisca, Diego Domingo, Doña Juana de Chávez, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0037" type="Baptism" when="the fifth day of the month of October of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan José, Doña Isabel Baca, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0038" type="Baptism" when="the nineteenth day of the month of October of the year one thousand seven hundred and thirty-eight">
+				<desc>Baptism attended by María Rosaura, Antonio, María, Ventura, Jacinta Baca, Fray José Mariano López</desc>
+			</event>
+			<event xml:id="event_0039" type="Baptism" when="the seventh day of the month of November of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juan Crisóstomo, Francisco Caraquis, María, Salvador, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0040" type="Baptism" when="the seventeenth day of the month of November of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María, Juan Antonio, Cristóbal, Juan, Josefa, Antonio de Ulibarrí, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0041" type="Baptism" when="the nineteenth day of the month of November of the year one thousand seven hundred and thirty-eight" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Jacinta Úrsula, Bonifacio, Bárbara, Raymundo, Francisca, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0042" type="Baptism" when="the seventh day of the month of March of the year one thousand seven hundred and thirty-nine" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Bárbara Antonia, Catalina Jémez, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0043" type="Baptism" when="the twenty-eighth day of the month of March" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Ana María, Isabel, Bárbara, María Francisca, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0044" type="Baptism" when="the twenty-fourth of May of the year one thousand seven hundred and thirty-nine" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Antonio de la Trinidad, Francisco, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0045" type="Baptism" when="the eighth day of the month of September of the year one thousand seven hundred and thirty-nine">
+				<desc>Baptism attended by Santiago, Tadeo de Torres, Fray Manuel Zambrano</desc>
+			</event>
+			<event xml:id="event_0046" type="Baptism" when="the month of September of the year one thousand seven hundred and thirty-eight">
+				<desc>Baptism attended by Antonia Bárbara, José Nevárez, Fray Manuel Zambrano</desc>
+			</event>
+			<event xml:id="event_0047" type="Baptism" when="the tenth of November of the year one thousand seven hundred and thirty-nine" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María Tomasa, Ventura, Jacinta, Carlos, Catalina Jémez, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0048" type="Baptism" when="he twelfth day of the month of December of the year one thousand seven hundred and thirty-nine" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Asencio Mariano, Antonio, Pascuala, Bernardo de Chávez, María Montoya, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0049" type="Baptism" when="the twenty-fourth of April of the year one thousand seven hundred and forty" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Antonio Pascual, Sebastián, Quiteria, Antonio, María la Chata, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0050" type="Baptism" when="the fourth day of the month of February of the year one thousand seven hundred and forty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Juana María, Raymundo Jojola, Francisca, Juan [Dirujan?], María, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0051" type="Baptism" when="the tenth day of the month of July of the year one thousand seven hundred and forty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Rosa María, Brianda, Bernardo, Luis Chávez, La Aguilara, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0052" type="Baptism" when="the eleventh day of the month of July of the year one thousand seven hundred and forty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Quiteria, Ventura, Ana, Diego Padilla, María Luisa, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0053" type="Baptism" when="the thirtieth day of the month of August of the year one thousand seven hundred and forty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by Rosa, Doña Isabel Chávez, María la Guchuquiana, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0054" type="Baptism" when="the nineteenth day of the month of November of the year one thousand seven hundred and forty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María de los Dolores, Quintana, Petrona, Cayetano Torres, María Góngora, Fray Carlos Delgado</desc>
+			</event>
+			<event xml:id="event_0055" type="Baptism" when="the twenty-sixth day of the month of November of the year one thousand seven hundred and forty-one" where="#MissionofSanAgustíndelaIsleta_0001">
+				<desc>Baptism attended by María Juliana, Ventura, Jacinta, Micaela, Fray Carlos Delgado</desc>
+			</event>
+		</listEvent>
+		<listRelation>
+			<relation active="#Bárbara_0001 #LorenzoPanadero_0001 #MaríaAntonia_0001 #MiguelIullapuñu_0001 #FrayPedroMontaño_0001" name="participant" passive="#event_1">
+				<desc/>
+			</relation>
+			<relation active="#Bárbara_0002 #GregoryChiguigui_0001 #MaríaQuedap[ILL]_0001 #MaríaAsenciana_0001 #JoséJusto_0001 #AntoniadeJojola_0001 #Carlos_0001 #Agustina_0001 #FrayPedroMontaño_0001" name="participant" passive="#event_2">
+				<desc/>
+			</relation>
+			<relation active="#Antonio_0001 #AntonioGurulé_0001 #TeresaGallegos_0001 #BernabéBaca_0001 #MargaritaMata_0001 #FrayPedroMontaño_0001" name="participant" passive="#event_3">
+				<desc/>
+			</relation>
+			<relation active="#Antonia_0001 #DonAntoniodeChávez_0001 #DoñaAntoniaBaca_0001 #FrayPedroMontaño_0001" name="participant" passive="#event_4">
+				<desc/>
+			</relation>
+			<relation active="#Bárbara_0003 #Micaela_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0001">
+				<desc/>
+			</relation>
+			<relation active="#JuanPedro_0001 #RaymundoJojola_0001 #Francisca_0001 #JuanGonzález_0001 #DoñaMaríaLópez_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0002">
+				<desc/>
+			</relation>
+			<relation active="#Gertrudis_0001 #DoñaGertrudis_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0003">
+				<desc/>
+			</relation>
+			<relation active="#Catalina_0001 #FelipeGallegos_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0004">
+				<desc/>
+			</relation>
+			<relation active="#José_0001 #JoséNorey_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0005">
+				<desc/>
+			</relation>
+			<relation active="#JuanIsidro_0001 #Sebastián_0001 #Quiteria_0001 #Juanico_0001 #Micaela_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0006">
+				<desc/>
+			</relation>
+			<relation active="#Pedro_0001 #JoséMariano_0001 #Micaela_0003 #FrayCarlosDelgado_0001" name="participant" passive="#event_0007">
+				<desc/>
+			</relation>
+			<relation active="#MaríaAntonia_0002 #Juan_0001 #MaríaAntonia_0003 #FrayCarlosDelgado_0001" name="participant" passive="#event_0008">
+				<desc/>
+			</relation>
+			<relation active="#Carlos_0002 #JoséMariano_0002 #Micaela_0004 #FrayCarlosDelgado_0001" name="participant" passive="#event_0009">
+				<desc/>
+			</relation>
+			<relation active="#Miguel_0001 #Miguel_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0010">
+				<desc/>
+			</relation>
+			<relation active="#Santiago_0001 #Javier_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0011">
+				<desc/>
+			</relation>
+			<relation active="#MaríadelaConcepción_0001 #José_0002 #Angelina_0001 #Francisco_0001 #MaríalaGuchuquiana_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0012">
+				<desc/>
+			</relation>
+			<relation active="#JuanAmbrosio_0001 #Matías_0001 #Juana_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0013">
+				<desc/>
+			</relation>
+			<relation active="#MaríaDorotea_0001 #RaymundoJojola_0002 #Francisca_0002 #Matías_0002 #Juana_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0014">
+				<desc/>
+			</relation>
+			<relation active="#María_0001 #Micaela_0005 #FrayCarlosDelgado_0001" name="participant" passive="#event_0015">
+				<desc/>
+			</relation>
+			<relation active="#Bárbara_0004 #María_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0016">
+				<desc/>
+			</relation>
+			<relation active="#JuandelaCruz_0001 #JuanGonzález_0002 #DoñaMaríaLópez_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0017">
+				<desc/>
+			</relation>
+			<relation active="#Antonia_0002 #AntonioMontoya_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0018">
+				<desc/>
+			</relation>
+			<relation active="#MaríaJosefa_0001 #Juanico_0002 #Micaela_0006 #FrayCarlosDelgado_0001" name="participant" passive="#event_0019">
+				<desc/>
+			</relation>
+			<relation active="#TomásdeVillanueva_0001 #JoséFernández_0001 #Angelina_0002 #FelipeRomero_0001 #FranciscaGóngora_0001 #FrayManuelZambrano_0001" name="participant" passive="#event_0020">
+				<desc/>
+			</relation>
+			<relation active="#Manuela_0001 #María_0003 #FrayCarlosDelgado_0001" name="participant" passive="#event_0021">
+				<desc/>
+			</relation>
+			<relation active="#MaríadelosDolores_0001 #RaymundoJojola_0003 #Francisca_0003 #JoséRomero_0001 #DoñaAnadeChávez_0001 #FrayManuelZambrano_0001" name="participant" passive="#event_0022">
+				<desc/>
+			</relation>
+			<relation active="#MaríaJosefa_0002 #AgustinaJojola_0001 #FrayManuelZambrano_0001" name="participant" passive="#event_0023">
+				<desc/>
+			</relation>
+			<relation active="#JuanIsidro_0002 #Bonifacio[Lucero]_0001 #BárbaraFeliciano_0001 #José[Norcí]_0001 #MicaelaMontoya_0001 #FrayManuelZambrano_0001" name="participant" passive="#event_0024">
+				<desc/>
+			</relation>
+			<relation active="#María_0004 #JuanaMaría_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0025">
+				<desc/>
+			</relation>
+			<relation active="#Agustín_0001 #Micaela_0007 #FrayCarlosDelgado_0001" name="participant" passive="#event_0026">
+				<desc/>
+			</relation>
+			<relation active="#JoséAntonio_0001 #Ana_0001 #Ventura_0001 #GerónimoJirón_0001 #Damiana_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0027">
+				<desc/>
+			</relation>
+			<relation active="#Antonio_0002 #MaríaJémez_0001 #FrayJuanJosédeOronzoro_0001" name="participant" passive="#event_0028">
+				<desc/>
+			</relation>
+			<relation active="#MaríadelaAsención_0001 #RosaHolguín_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0029">
+				<desc/>
+			</relation>
+			<relation active="#Santiago_0002 #Sebastián_0002 #Quiteria_0002 #MaríalaGuchiquiana_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0030">
+				<desc/>
+			</relation>
+			<relation active="#JuanAntonio_0001 #RosadeHolguín_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0031">
+				<desc/>
+			</relation>
+			<relation active="#Antonia_0003 #Antonio_0003 #FrayCarlosDelgado_0001" name="participant" passive="#event_0032">
+				<desc/>
+			</relation>
+			<relation active="#Agustina_0002 #GertrudisdePeralta_0001 #Catarina_0001 #Catarina_0002 #FrayJuanJosédeOronzoro_0001" name="participant" passive="#event_0033">
+				<desc/>
+			</relation>
+			<relation active="#Catalina_0002 #JuanaMaría_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0034">
+				<desc/>
+			</relation>
+			<relation active="#Antonia_0004 #Lorenzo_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0035">
+				<desc/>
+			</relation>
+			<relation active="#Tomás_0001 #RaymundoJojola_0004 #Francisca_0004 #DiegoDomingo_0001 #DoñaJuanadeChávez_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0036">
+				<desc/>
+			</relation>
+			<relation active="#JuanJosé_0001 #DoñaIsabelBaca_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0037">
+				<desc/>
+			</relation>
+			<relation active="#MaríaRosaura_0001 #Antonio_0004 #María_0005 #Ventura_0002 #JacintaBaca_0001 #FrayJoséMarianoLópez_0001" name="participant" passive="#event_0038">
+				<desc/>
+			</relation>
+			<relation active="#JuanCrisóstomo_0001 #FranciscoCaraquis_0001 #María_0006 #Salvador_0001 #María_0007 #FrayCarlosDelgado_0001" name="participant" passive="#event_0039">
+				<desc/>
+			</relation>
+			<relation active="#María_0008 #JuanAntonio_0002 #Cristóbal_0001 #Juan_0002 #Josefa_0001 #AntoniodeUlibarrí_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0040">
+				<desc/>
+			</relation>
+			<relation active="#JacintaÚrsula_0001 #Bonifacio_0001 #Bárbara_0005 #Raymundo_0001 #Francisca_0005 #FrayCarlosDelgado_0001" name="participant" passive="#event_0041">
+				<desc/>
+			</relation>
+			<relation active="#BárbaraAntonia_0001 #CatalinaJémez_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0042">
+				<desc/>
+			</relation>
+			<relation active="#AnaMaría_0001 #Isabel_0001 #Bárbara_0006 #MaríaFrancisca_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0043">
+				<desc/>
+			</relation>
+			<relation active="#AntoniodelaTrinidad_0001 #Francisco_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0044">
+				<desc/>
+			</relation>
+			<relation active="#Santiago_0003 #TadeodeTorres_0001 #FrayManuelZambrano_0001" name="participant" passive="#event_0045">
+				<desc/>
+			</relation>
+			<relation active="#AntoniaBárbara_0001 #JoséNevárez_0001 #FrayManuelZambrano_0001" name="participant" passive="#event_0046">
+				<desc/>
+			</relation>
+			<relation active="#MaríaTomasa_0001 #Ventura_0003 #Jacinta_0001 #Carlos_0003 #CatalinaJémez_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0047">
+				<desc/>
+			</relation>
+			<relation active="#AsencioMariano_0001 #Antonio_0005 #Pascuala_0001 #BernardodeChávez_0001 #MaríaMontoya_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0048">
+				<desc/>
+			</relation>
+			<relation active="#AntonioPascual_0001 #Sebastián_0003 #Quiteria_0003 #Antonio_0006 #MaríalaChata_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0049">
+				<desc/>
+			</relation>
+			<relation active="#JuanaMaría_0003 #RaymundoJojola_0005 #Francisca_0006 #Juan[Dirujan]_0001 #María_0009 #FrayCarlosDelgado_0001" name="participant" passive="#event_0050">
+				<desc/>
+			</relation>
+			<relation active="#RosaMaría_0001 #Brianda_0001 #Bernardo_0001 #LuisChávez_0001 #LaAguilara_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0051">
+				<desc/>
+			</relation>
+			<relation active="#Quiteria_0004 #Ventura_0004 #Ana_0002 #DiegoPadilla_0001 #MaríaLuisa_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0052">
+				<desc/>
+			</relation>
+			<relation active="#Rosa_0001 #DoñaIsabelChávez_0001 #MaríalaGuchuquiana_0002 #FrayCarlosDelgado_0001" name="participant" passive="#event_0053">
+				<desc/>
+			</relation>
+			<relation active="#MaríadelosDolores_0002 #Quintana #Petrona #CayetanoTorres_0001 #MaríaGóngora_0001 #FrayCarlosDelgado_0001" name="participant" passive="#event_0054">
+				<desc/>
+			</relation>
+			<relation active="#MaríaJuliana_0001 #Ventura_0005 #Jacinta_0002 #Micaela_0008 #FrayCarlosDelgado_0001" name="participant" passive="#event_0055">
+				<desc/>
+			</relation>
+		</listRelation>
+	</standOff>
+	<facsimile sameAs="https://admin.nativeboundunbound.org/public/29bace80-af0e-013b-6a36-5e810cf25fdc/manifest?visit_id=1.80846725689143" xml:id="images">
+		<surface xml:id="FHL_007548705_IMG_012" ulx="0" uly="0" lrx="3558" lry="2926" sameAs="https://c5c214ac-01c7-403e-8045-dd9cbfd3521a/canvas/p1">
+			<label>012</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kv92h4i3wvnpyyfserlswojzdtr0;1"/>
+			<zone xml:id="FHL_007548705_IMG_012_L4" ulx="147.70188903808594" uly="1904.311279296875" lrx="1741.326904296875" lry="2197.322998046875"/>
+			<zone xml:id="FHL_007548705_IMG_012_L5" ulx="174.6111297607422" uly="2197.322998046875" lrx="1732.357177734375" lry="2612.92138671875"/>
+			<zone xml:id="FHL_007548705_IMG_012_R1" ulx="1814.2808837890625" uly="295.138671875" lrx="3437.80517578125" lry="1305.7301025390625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_013" ulx="0" uly="0" lrx="3549" lry="2908" sameAs="https://6d780b6d-7f42-4361-a906-6d123f25d23a/canvas/p3">
+			<label>013</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xrj22ql7aobhujk93iqenk67m9ar;1"/>
+			<zone xml:id="FHL_007548705_IMG_013_L2" ulx="180.13401794433594" uly="1385.406005859375" lrx="1798.9554443359375" lry="2148.888427734375"/>
+			<zone xml:id="FHL_007548705_IMG_013_L3" ulx="212.3435821533203" uly="2133.9765625" lrx="1781.0614013671875" lry="2611.153076171875"/>
+			<zone xml:id="FHL_007548705_IMG_013_L3CONT" ulx="1849.0592041015625" uly="240.182373046875" lrx="3438.6533203125" lry="559.294189453125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_014" ulx="0" uly="0" lrx="3573" lry="2889" sameAs="https://74e0be35-c5f3-4b29-a334-5544082f66b5/canvas/p5">
+			<label>014</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/16roppp0br2pm7w080tfo5we1d3b;1"/>
+			<zone xml:id="FHL_007548705_IMG_014_L2" ulx="167.44488525390625" uly="819.1945190429688" lrx="1843.94873046875" lry="1426.8236083984375"/>
+			<zone xml:id="FHL_007548705_IMG_014_L3" ulx="188.89804077148438" uly="1398.76220703125" lrx="1846.068115234375" lry="2181.314697265625"/>
+			<zone xml:id="FHL_007548705_IMG_014_R1" ulx="1847.2955322265625" uly="535.8062744140625" lrx="3449.2265625" lry="1078.98974609375"/>
+			<zone xml:id="FHL_007548705_IMG_014_R2" ulx="1841.1578369140625" uly="1083.2861328125" lrx="3424.676025390625" lry="1721.603515625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_016" ulx="0" uly="0" lrx="3512" lry="2925" sameAs="https://6447c738-9be8-4458-be3b-d8d75d9b84c0/canvas/p7">
+			<label>016</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/88uodcpxjld0alsqsixvsys6li1j;1"/>
+			<zone xml:id="FHL_007548705_IMG_016_L3" ulx="188.29037475585938" uly="1845.5736083984375" lrx="1793.7760009765625" lry="2403.36181640625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_020" ulx="0" uly="0" lrx="3546" lry="2924" sameAs="https://005e5cf3-a94c-42e9-8815-54c66a651539/canvas/p9">
+			<label>020</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/5hod1cxp7txarotd48cp8s1flqij;1"/>
+			<zone xml:id="FHL_007548705_IMG_020_L1" ulx="182.41107177734375" uly="251.58700561523438" lrx="1817.7265625" lry="1070.6424560546875"/>
+			<zone xml:id="FHL_007548705_IMG_020_R2" ulx="1814.93115234375" uly="1294.8343505859375" lrx="3419.4970703125" lry="1865.0982666015625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_021" ulx="0" uly="0" lrx="3556" lry="2878" sameAs="https://99b28fff-2d7f-462d-b8fd-ebb56d5f1ec3/canvas/p11">
+			<label>021</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/6s90i48qe49ojji7xjhjtc1x5uqp;1"/>
+			<zone xml:id="FHL_007548705_IMG_021_R2" ulx="1821.6280517578125" uly="1137.188232421875" lrx="3429.298583984375" lry="1866.317626953125"/>
+			<zone xml:id="FHL_007548705_IMG_021_R3" ulx="1839.5576171875" uly="1848.98583984375" lrx="3420.333984375" lry="2557.197509765625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_022" ulx="0" uly="0" lrx="3603" lry="2929" sameAs="https://211fe076-54e3-4562-82e1-33b0aab12ac6/canvas/p13">
+			<label>022</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/wzzvk65uyn362qa1kmt5bcyc61o5;1"/>
+			<zone xml:id="FHL_007548705_IMG_022_L1" ulx="196.99044799804688" uly="254.81741333007812" lrx="1877.105224609375" lry="896.0612182617188"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_023" ulx="0" uly="0" lrx="3519" lry="2897" sameAs="https://ffdc9c1a-2078-4a95-b2e4-02b3f275ef19/canvas/p15">
+			<label>023</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/is28z2zi1fjc7fcitsstx8s5euxn;1"/>
+			<zone xml:id="FHL_007548705_IMG_023_L1" ulx="169.73985290527344" uly="236.07144165039062" lrx="1793.2113037109375" lry="910.300048828125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_024" ulx="0" uly="0" lrx="3609" lry="2942" sameAs="https://5d86cd21-78e1-4ffb-ad8b-05b6bf6c814a/canvas/p17">
+			<label>024</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qmsemci902mtdqa0k1eqxpolk40x;1"/>
+			<zone xml:id="FHL_007548705_IMG_024_L2" ulx="231.6793212890625" uly="1181.2938232421875" lrx="1840.9241943359375" lry="1946.5791015625"/>
+			<zone xml:id="FHL_007548705_IMG_024_L3" ulx="190.96371459960938" uly="1824.111083984375" lrx="1825.9564208984375" lry="2635.17041015625"/>
+			<zone xml:id="FHL_007548705_IMG_024_R1" ulx="1868.86962890625" uly="280.1587219238281" lrx="3473.822998046875" lry="923.8566284179688"/>
+			<zone xml:id="FHL_007548705_IMG_024_R2" ulx="1843.1217041015625" uly="880.9434204101562" lrx="3516.736328125" lry="1507.47607421875"/>
+			<zone xml:id="FHL_007548705_IMG_024_R3" ulx="1804.4998779296875" uly="1408.7757568359375" lrx="3508.153564453125" lry="2069.638916015625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_025" ulx="0" uly="0" lrx="3663" lry="3049" sameAs="https://98a5fef7-5846-41d4-aae2-69e29b1b7e47/canvas/p19">
+			<label>025</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yxnl2zuh8jltt1oxcb5p28e5k1ci;1"/>
+			<zone xml:id="FHL_007548705_IMG_025_R1" ulx="1888.367919921875" uly="310.5867919921875" lrx="3511.293212890625" lry="997.3773193359375"/>
+			<zone xml:id="FHL_007548705_IMG_025_R2" ulx="1862.12109375" uly="940.50927734375" lrx="3528.791015625" lry="1474.193603515625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_027" ulx="0" uly="0" lrx="3554" lry="2925" sameAs="https://852ebfa3-23ec-46b9-b4c8-09f5bf9f862b/canvas/p21">
+			<label>027</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xsmnqih7zr5ic9qf6trdkjl2veef;1"/>
+			<zone xml:id="FHL_007548705_IMG_027_L4" ulx="194.2758331298828" uly="2080.974609375" lrx="1858.988037109375" lry="2686.97265625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_030" ulx="0" uly="0" lrx="3585" lry="2891" sameAs="https://ba59f71d-2521-4e34-bc96-811e84d4ac1c/canvas/p23">
+			<label>030</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/odljeo9q8hfr5rcsmkkz4o9l8798;1"/>
+			<zone xml:id="FHL_007548705_IMG_030_R5" ulx="1828.6988525390625" uly="1090.89892578125" lrx="3475.569580078125" lry="1392.945068359375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_031" ulx="0" uly="0" lrx="3589" lry="2926" sameAs="https://860a0cf5-eb5b-49f7-9372-2f69a7143519/canvas/p25">
+			<label>031</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/1ie9xqsrqse1yx3c3ws7hnc2yt4q;1"/>
+			<zone xml:id="FHL_007548705_IMG_031_L10" ulx="207.7843780517578" uly="2273.001953125" lrx="1835.24560546875" lry="2669.3857421875"/>
+			<zone xml:id="FHL_007548705_IMG_031_L10CONT" ulx="1801.111572265625" uly="203.20944213867188" lrx="3443.818359375" lry="508.1202087402344"/>
+			<zone xml:id="FHL_007548705_IMG_031_R2" ulx="1802.7384033203125" uly="658.2504272460938" lrx="3462.3681640625" lry="920.3885498046875"/>
+			<zone xml:id="FHL_007548705_IMG_031_R3" ulx="1797.7666015625" uly="888.83203125" lrx="3481.00634765625" lry="1080.488037109375"/>
+			<zone xml:id="FHL_007548705_IMG_031_R7" ulx="1837.6973876953125" uly="1684.387451171875" lrx="3490.005126953125" lry="1965.1717529296875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_032" ulx="0" uly="0" lrx="3569" lry="2846" sameAs="https://aca5bc4c-aa63-4de7-9752-06c75db3fa1a/canvas/p27">
+			<label>032</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/b8z5saxfgfr0fobktqob7gamgsk0;1"/>
+			<zone xml:id="FHL_007548705_IMG_032_L5" ulx="141.3997039794922" uly="1764.8651123046875" lrx="1831.03662109375" lry="2538.0888671875"/>
+			<zone xml:id="FHL_007548705_IMG_032_R2" ulx="1791.6595458984375" uly="737.47998046875" lrx="3466.9775390625" lry="1199.266357421875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_034" ulx="0" uly="0" lrx="3605" lry="2996" sameAs="https://ddec06c5-db7b-47a5-bd54-68e40964ab4a/canvas/p29">
+			<label>034</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/tni6t8hhqwxr7bpavex923frwr4n;1"/>
+			<zone xml:id="FHL_007548705_IMG_034_R4" ulx="1813.3475341796875" uly="2128.96533203125" lrx="3483.869140625" lry="2725.580322265625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_035_CONT" ulx="0" uly="0" lrx="3712" lry="3094" sameAs="https://38c85579-c061-4b75-a4a9-2289f7b4b837/canvas/p1">
+			<label>035</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/s637nvv7r38rm2a4zaulxqsu1ivx;1"/>
+			<zone xml:id="FHL_007548705_IMG_035CONT" ulx="361.5943908691406" uly="239.3950653076172" lrx="1953.934326171875" lry="634.7596435546875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_036" ulx="0" uly="0" lrx="3655" lry="2926" sameAs="https://9d4ccff3-832d-4559-b7c6-667fdb87f3f2/canvas/p31">
+			<label>036</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qldjf7x86vdc9g5e84o8r1ndfbhu;1"/>
+			<zone xml:id="FHL_007548705_IMG_036_L3" ulx="199.79689025878906" uly="1292.5311279296875" lrx="1911.81787109375" lry="1728.7847900390625"/>
+			<zone xml:id="FHL_007548705_IMG_036_L4" ulx="174.13490295410156" uly="1710.454833984375" lrx="1875.157958984375" lry="2286.0166015625"/>
+			<zone xml:id="FHL_007548705_IMG_036_R1" ulx="1849.4959716796875" uly="475.0135192871094" lrx="3517.525146484375" lry="1021.2472534179688"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_037" ulx="0" uly="0" lrx="3725" lry="3087" sameAs="https://25df72f6-34bd-4778-98b5-be7706b7c48a/canvas/p33">
+			<label>037</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/p7scdsagvmtfmeon2t8asln5xafa;1"/>
+			<zone xml:id="FHL_007548705_IMG_037_L1" ulx="270.8751220703125" uly="1268.8885498046875" lrx="1918.54296875" lry="1862.9456787109375"/>
+			<zone xml:id="FHL_007548705_IMG_037_L2" ulx="240.98544311523438" uly="1743.3870849609375" lrx="1877.4447021484375" lry="2516.7822265625"/>
+			<zone xml:id="FHL_007548705_IMG_037_R1" ulx="1974.586181640625" uly="372.1985778808594" lrx="3573.683349609375" lry="786.917724609375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_039" ulx="0" uly="0" lrx="3624" lry="2939" sameAs="https://dccc39f7-a324-4fe1-a8db-581ffc36f7d5/canvas/p35">
+			<label>039</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/8yxi97lmbqzw46qnp6mpnbvftry5;1"/>
+			<zone xml:id="FHL_007548705_IMG_039_L1" ulx="223.54664611816406" uly="257.25927734375" lrx="1844.7142333984375" lry="867.9232788085938"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_041" ulx="0" uly="0" lrx="3630" lry="2923" sameAs="https://450f664f-ce6f-4dec-9313-9041d2df14f3/canvas/p37">
+			<label>041</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/7m3kmkphwvtlun707t8so7thqbfx;1"/>
+			<zone xml:id="FHL_007548705_IMG_041_L3" ulx="249.40318298339844" uly="1197.532958984375" lrx="1913.3048095703125" lry="1841.976318359375"/>
+			<zone xml:id="FHL_007548705_IMG_041_R3" ulx="1913.3048095703125" uly="1437.8338623046875" lrx="3511.669677734375" lry="2122.327392578125"/>
+			<zone xml:id="FHL_007548705_IMG_041_R4" ulx="1889.6387939453125" uly="2115.04541015625" lrx="3506.208251953125" lry="2613.851806640625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_042" ulx="0" uly="0" lrx="3658" lry="2898" sameAs="https://19e478c1-f434-4934-8871-73cfc606e0d8/canvas/p39">
+			<label>042</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qdevxwwc78e2bd2zemyahnw2vvm6;1"/>
+			<zone xml:id="FHL_007548705_IMG_042cont" ulx="205.03280639648438" uly="207.24266052246094" lrx="1876.5638427734375" lry="499.42083740234375"/>
+			<zone xml:id="FHL_007548705_IMG_042_L2" ulx="225.6439208984375" uly="797.751220703125" lrx="1876.697021484375" lry="1171.9898681640625"/>
+			<zone xml:id="FHL_007548705_IMG_042_L4" ulx="189.59693908691406" uly="1723.98583984375" lrx="1876.982666015625" lry="2524.267333984375"/>
+			<zone xml:id="FHL_007548705_IMG_042_R3" ulx="1880.365966796875" uly="1373.7852783203125" lrx="3498.39794921875" lry="2030.5374755859375"/>
+			<zone xml:id="FHL_007548705_IMG_042_R4" ulx="1917.0560302734375" uly="1968.1644287109375" lrx="3494.72900390625" lry="2602.902587890625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_044" ulx="0" uly="0" lrx="3632" lry="2916" sameAs="https://c4be3693-ae07-4fca-a6f0-bca51aeca51b/canvas/p41">
+			<label>044</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/4rbh91fc0m8t3fgs7ugzm35k4fam;1"/>
+			<zone xml:id="FHL_007548705_IMG_044_L3" ulx="173.03912353515625" uly="1328.676025390625" lrx="1830.57177734375" lry="1988.046142578125"/>
+			<zone xml:id="FHL_007548705_IMG_044_R3" ulx="1859.7152099609375" uly="1321.3902587890625" lrx="3451.67529296875" lry="1958.90283203125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_045" ulx="0" uly="0" lrx="3618" lry="2913" sameAs="https://36126d91-a082-4b23-80fe-5f60f34308e7/canvas/p43">
+			<label>045</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kgbnm9xx7290as7w4svw4qr04nvy;1"/>
+			<zone xml:id="FHL_007548705_IMG_045_R1" ulx="1859.8046875" uly="257.1529846191406" lrx="3474.659423828125" lry="779.7127075195312"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_046" ulx="0" uly="0" lrx="3636" lry="2827" sameAs="https://a3bbe011-c9f0-40dd-96f6-cda51cce8b35/canvas/p45">
+			<label>046</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kg8py46ch71j9kk8lq28ruvete7j;1"/>
+			<zone xml:id="FHL_007548705_IMG_046_L2" ulx="249.8154296875" uly="740.639404296875" lrx="1865.41015625" lry="1141.8028564453125"/>
+			<zone xml:id="FHL_007548705_IMG_046_L3" ulx="220.63990783691406" uly="1098.03955078125" lrx="1858.1162109375" lry="1484.615234375"/>
+			<zone xml:id="FHL_007548705_IMG_046_R4" ulx="1854.4693603515625" uly="1652.37451171875" lrx="3499.239501953125" lry="2286.942138671875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_047" ulx="0" uly="0" lrx="3618" lry="2922" sameAs="https://bfa48440-73f5-4739-a424-43fe28b701b0/canvas/p47">
+			<label>047</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/q39oyxq5rb60sxdm4a8kfix1l914;1"/>
+			<zone xml:id="FHL_007548705_IMG_047_R1" ulx="1841.66015625" uly="305.19964599609375" lrx="3427.48388671875" lry="907.5949096679688"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_048" ulx="0" uly="0" lrx="3653" lry="2968" sameAs="https://fc31fb65-cf1b-4266-88c6-8770e838bc8d/canvas/p49">
+			<label>048</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/20nci07t8q1gn7v0siuvf5u860qw;1"/>
+			<zone xml:id="FHL_007548705_IMG_048_L2" ulx="287.6233825683594" uly="921.5772094726562" lrx="1899.7799072265625" lry="1416.2161865234375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_051" ulx="0" uly="0" lrx="3573" lry="2885" sameAs="https://45a1c3a3-8018-4877-b5e8-117c8137a26b/canvas/p51">
+			<label>051</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ruj41uu2tavnp9wbd19tdlfm2rg9;1"/>
+			<zone xml:id="FHL_007548705_IMG_051_R1" ulx="1747.0784912109375" uly="139.806396484375" lrx="3431.44140625" lry="706.0390014648438"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_053" ulx="0" uly="0" lrx="3647" lry="2937" sameAs="https://91f775f1-0cd1-42a0-9171-5b1ed0275fd7/canvas/p53">
+			<label>053</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/aiwmij6ivaql9n4sqzp4k8zpt9vx;1"/>
+			<zone xml:id="FHL_007548705_IMG_053_L5" ulx="235.9393310546875" uly="1989.761474609375" lrx="1885.6856689453125" lry="2659.170654296875"/>
+			<zone xml:id="FHL_007548705_IMG_053_R1" ulx="1838.1319580078125" uly="226.61785888671875" lrx="3443.982666015625" lry="713.12841796875"/>
+			<zone xml:id="FHL_007548705_IMG_053_R3" ulx="1863.73779296875" uly="1009.42431640625" lrx="3498.852294921875" lry="1623.9639892578125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_054" ulx="0" uly="0" lrx="3653" lry="2992" sameAs="https://f86e444f-f8c4-417d-9301-0ec5476a1610/canvas/p55">
+			<label>054</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/2zw1gxqwsznglxlhsssvabxqla4e;1"/>
+			<zone xml:id="FHL_007548705_IMG_054_R1" ulx="1852.14794921875" uly="266.7306823730469" lrx="3478.96044921875" lry="757.7056274414062"/>
+			<zone xml:id="FHL_007548705_IMG_054_R3" ulx="1852.14794921875" uly="1065.48095703125" lrx="3555.904296875" lry="1571.11181640625"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="transcription">
+		<surface facs="#FHL_007548705_IMG_012">
+			<line>{left margin} Barbara</line>
+			<line>{left margin} Maria An[*toni]a</line>
+			<line>En sinco dias de el mes de marzo de mill</line>
+			<line>setesçientos y treinta años baptiçe solem-</line>
+			<line>nemente y puse los santos oleos a los sigui-</line>
+			<line>entes . . . yten a Barbara adulta de nacion</line>
+			<line>gentil fue su padrino Lorenzo Panadero item</line>
+			<line>a Maria Antonio adulta de nacion gentil</line>
+			<line>fue su padrino Miguel Iullapuñu y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Pedro Montaño {rubric}</line>
+			<line>{left margin} Barbara</line>
+			<line>{left margin} Maria Ascenciana</line>
+			<line>En treinta dias de el mes de marzo de mill</line>
+			<line>setecientos y treinta años baptice solennemente</line>
+			<line>y puse los santos oleos a las siguientes a Barba-</line>
+			<line>ra adulta de nacion gentil fueron sus padri-</line>
+			<line>nos Gregorio Chiguigui y Maria quedap[ILL]</line>
+			<line>[ILL] a Maria Ascenciana hija legitima de</line>
+			<line>Joseph Justo y de Antonia de Jojola fueron sus</line>
+			<line>padrinos Carlos y Augustina y para que con-</line>
+			<line>te lo firme ut supra.</line>
+			<line>Fray Pedro Montaño {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_013">
+			<line>{left margin} Antonio</line>
+			<line>En nuebe dias de el mes de julio de mill</line>
+			<line>setecientos y treinta años baptice solenne-</line>
+			<line>mente y puse los santos oleos a Antonio hijo legiti-</line>
+			<line>mo de Antonio Grole? y de Theresa Galle-</line>
+			<line>gos fueron sus padrinos Bernabe Baca</line>
+			<line>y Margarita Mata y para que conste lo-</line>
+			<line>firme ut supra.</line>
+			<line>Fray Pedro Montano {rubric}</line>
+			<line>{left margin} Antonia</line>
+			<line>En catorse dias de el mes de julio de mill</line>
+			<line>setecientos y treinta años baptice solemne-</line>
+			<line>mente y puse los santos oleos a Antonia de na-</line>
+			<line>cion jumana adulta fueron sus padri-</line>
+			<line>nos don Antonio de Chabes y dona Antonia Ba-</line>
+			<line>ca y para que conste lo firme ut supra.</line>
+			<line>Fray Pedro Montano {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_014">
+			<line>{left margin} Barbara</line>
+			<line>En esta Mission de San Augustin de la Ysleta en quince</line>
+			<line>dias del mes de octubre de mil setecientos y treinta años</line>
+			<line>baptise solemnemente a Barbara apacha de nacion</line>
+			<line>fue su madrina Micaela y para que conste lo firme ut</line>
+			<line>supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Juan Pedro</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>diez y seis de octubre de mil setecientos y treinta</line>
+			<line>años baptise solemnemente a Juan Pedro hi-</line>
+			<line>jo legitimo de Raymundo Jogola y de Francisca</line>
+			<line>fueron sus padrinos el capitan Juan Gonzales y do-</line>
+			<line>ña Maria Lopez y para que conste lo firme ut su-</line>
+			<line>pra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Gertrudes</line>
+			<line>En esta Mission de San Augustin de la Ysleta en quatro</line>
+			<line>dias del mes de diciembre de mil setecientos y treinta años</line>
+			<line>baptise solemnemente a Gertrudes apacha de nacion</line>
+			<line>fue su madrina doña Gertrudes y para que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Carlos Delgado (rubric}</line>
+			<line>{left margin} Cathalina</line>
+			<line>En esta Mission de San Augustin de la Ysleta en seis</line>
+			<line>dias del mes de diciembre de mil setecientos y treinta</line>
+			<line>años baptise solemnemente a Cathalina apacha</line>
+			<line>de nacion fue su padrino Felipe Gallegos y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_016">
+			<line>{left margin} Joseph</line>
+			<line>En esta Mission de San Agustin de la Ysleta en tres dias del</line>
+			<line>mes de mayo de mil setecientos y treinta y un años baptise</line>
+			<line>solemnemente a Joseph apache de nacion fue padrino</line>
+			<line>Joseph Norey y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_020">
+			<line>{left margin} Juan Ysidro</line>
+			<line>En esta Mission de San Augustin de la Yselta</line>
+			<line>en veinte y nuebe dias del mes de marzo de mil seteci-</line>
+			<line>entos y treinta y dos años baptise solemnemente</line>
+			<line>a Juan Ysidro hijo legitimo de Sebastian y de</line>
+			<line>Quiteria fueron sus padrinos Juanico y Micaela</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Pedro</line>
+			<line>En esta Mission de San Agustin de la Ysleta en primero</line>
+			<line>de julio de mil setecientos y treinta y dos años baptise so-</line>
+			<line>lemnemente a Pedro hijo de padres no conosidos fue-</line>
+			<line>ron sus padrinos Joseph Mariano y Micaela y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_021">
+			<line>{left margin} Maria Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>siete dias del mes de septiembre de mil setecientos y</line>
+			<line>treinta y dos años baptise solemnemente a Maria</line>
+			<line>Antonia (apacha de nacion) fueron sus padrinos</line>
+			<line>Juan y Maria Antonia y para que conste lo firme ut</line>
+			<line>supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Carlos</line>
+			<line>En esta Mission de San Augustin de la Ysleta en vein-</line>
+			<line>te y seis dias del mes de septembre de mil setecientos y treinta</line>
+			<line>y dos años baptise solemnemente a Carlos hijo del pa-</line>
+			<line>dres infieles fueron sus padrinos Joseph Mariano y</line>
+			<line>Micaela y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_022">
+			<line>{left margin} Miguel</line>
+			<line>En esta Mission de San Augustin de la Ysleta</line>
+			<line>en veinte y siete dias del mes de septiembre de mil setecien-</line>
+			<line>tos y treinta y dos años baptise solemnemente a</line>
+			<line>Miguel hijo de padres de infieles fue su padrino Mi-</line>
+			<line>guel y para conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_023">
+			<line>{left margin} Santiago</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte dias del mes de diciembre de mil seteçientos</line>
+			<line>y treinta y dos años baptise y puse los santos olios</line>
+			<line>a Santiago apache de nacion fue su padrino Xa-</line>
+			<line>bier y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_024">
+			<line>{left margin} Maria de la Concesion</line>
+			<line>En esta Mission de San Augustin de la Ysleta en vein-</line>
+			<line>te y cinco dias del mes de abril de mil setecientos y treinta</line>
+			<line>y tres años baptise solemnemente a Maria de la Con-</line>
+			<line>cepsion hija lejitima de Joseph el Juman y de Angeli-</line>
+			<line>na fueron sus padrinos Francisco y Maria La Guchuquiana y</line>
+			<line>para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Juan Anbrosio</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos di-</line>
+			<line>as del mes de mayo de mil setecientos y treinta y tres años</line>
+			<line>baptise solemnemente a Juan Ambrosio hijo de pa-</line>
+			<line>dres no conosidos fueron sus padrinos Mathias y Juana</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria Dorotea</line>
+			<line>En esta Mission de San Augustin de la Ysleta en viente</line>
+			<line>dias del mes de mayo de mil setecientos y treinta y tres años</line>
+			<line>baptise solemnemente a Maria Dorotea hija legiti-</line>
+			<line>ma de Raymundo Jojola y de Francisca fueron sus pa-</line>
+			<line>drinos Mathias y Juana y para que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en vein-</line>
+			<line>te y ciete dias del mes de mayo de mil setecientos y treinta</line>
+			<line>y tres años baptise en extrema a Maria hija de padres</line>
+			<line>no conosidos fue su madrina Micaela y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Barbara</line>
+			<line>En esta Mission de San Augustin de la Ysleta en tre-</line>
+			<line>inta y un dias del mes de mayo de mil setecientos y tre-</line>
+			<line>inta y tres años baptise en extrema necesidad a Bar-</line>
+			<line>bara apacha de nacion fue su madrina Maria y</line>
+			<line>para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_025">
+			<line>{left margin} Juan de la Cruz</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte dias del mes de julio de mil setecientos y treinta y</line>
+			<line>tres años baptise solemnemente a Juan de la Cruz</line>
+			<line>hijo de padres no conocidos fueron sus padrinos el ca-</line>
+			<line>pitan Juan Gonzales y doña Maria Lopez y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en veinte y (si)</line>
+			<line>siete dias del mes de julio de mil setecientos y treinta y tres</line>
+			<line>años baptise y puse los santos olios a Antonia (apac-</line>
+			<line>ha de nacion) fue su padrino Antonio Montoya y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Getrudes</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos dias</line>
+			<line>del mes de agosto de mil seteçientos y treinta y tres años bap-</line>
+			<line>tise solemnemente a Getrudes (apache de naçion) fue su</line>
+			<line>madrina doña Bernarda Baca y para que conste</line>
+			<line>lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_027">
+			<line>{left margin} Maria Jusepa</line>
+			<line>En esta mission de San Augustin de la Ysleta en-</line>
+			<line>catorze dias del mes de febrero de mil seteçientos y trein-</line>
+			<line>ta y quatro años baptise solemnemente a Maria</line>
+			<line>Jusepa apacha de nacion fueron sus padrinos Jua-</line>
+			<line>nico y Micaela y para que conste los firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_030">
+			<line>{left margin} Thomas</line>
+			<line>En dies y ocho dias del mes de septiembre en mil setecientos y treinta y sinco</line>
+			<line>años baptise solemnemente a Thomas de Villanueba hijo legitimo de Joseph</line>
+			<line>Fernandes y de Angelina fueron sus padrinos Phelipe Romero y Francisca Gongora y por que conste lo firme en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_031">
+			<line>{left margin} Manuela</line>
+			<line>De licensia parrochi en veinte y nuebe de marzo</line>
+			<line>de mil setecientos y treinta y seis años bapise solem-</line>
+			<line>nemente a Manuela adulta y apacha de naçion</line>
+			<line>fue su madrina Maria y para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria de los Dolores</line>
+			<line>En ocho dias del mes de abril de mil setecientos treinta y sies años baptise solemnemente a</line>
+			<line>Maria de los Dolores hija lexitima de Raimundo Joxola y de Fransisca fueron padrinos Joseph</line>
+			<line>Romero y doña Ana de Chabes y por que conste lo firme en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Maria Josepha</line>
+			<line>En veinte y dos dias del mes de abril de mil setecientos y treinta y seis años baptise solemne-</line>
+			<line>mente a Maria Josepha hija de padres no conosidos fue su madrina Agustina Jojola y por</line>
+			<line>que conste lo firme en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Juan Ysidro</line>
+			<line>En catorse dias del mes de mayo de mil setecientos y trienta y seis años baptise</line>
+			<line>solemnemente a Juan Ysidro hijo lexitimo de Bonifacio [Lussero?] y de Barbara Felisi-</line>
+			<line>ano fueron sue padrinos Joseph [Norci?] y Michaela Montoya y por que conste lo firme en</line>
+			<line>dicho dia mes y ano.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_032">
+			<line>{left margin} Maria</line>
+			<line>En veinte y sinco dias del mes de noviembre de mil seteci-</line>
+			<line>entos y treinta y seis años baptise y puse los santos</line>
+			<line>olios a Maria apacha de nacion fue su madrina</line>
+			<line>Juana Maria y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Agustin</line>
+			<line>En esta Mission de San Augustin de la Ysleta en ocho</line>
+			<line>dias del mes de diciembre de mil setecientos y treinta y seis años</line>
+			<line>baptise solemnemente a Augustin (apache de nacion)</line>
+			<line>fue padrino Micaela y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_034">
+			<line>{left margin} Joseph Antonio</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte y quatro de marzo de mil setecientos y treinta</line>
+			<line>y siete años baptise solemnemente a Joseph Antonio</line>
+			<line>hijo legitimo de Ana y de Bentura fueron sus pa-</line>
+			<line>drinos Geronimo Jiron y Damiana y para</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_036">
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_037">
+			<line>{left margin} Antonio</line>
+			<line>En la Mission de San Augustin de la Ysleta en veynte y un dias del</line>
+			<line>mes de junio de el año de mil setecientos y treynta y siete (venia parro-</line>
+			<line>chi] baptise solemnemente y puse los santos oleos y chrysma a Antonio collo-</line>
+			<line>te hijo de padres no conocidos fue su madrina Maria Xemes y para que</line>
+			<line>conste lo firme en dicha mission dicho dia mes y año.</line>
+			<line>Fray Juan Joseph de Oronzoro {rubric}</line>
+			<line>{left margin} Maria de la Assencion</line>
+			<line>En esta Mission de San Augustin de la Ysleta en sinco</line>
+			<line>dias del mes de julio de mil setecientos y treinta y sie-</line>
+			<line>te años le eche el agua en estrema necesidad a Maria</line>
+			<line>de la Assension apacha de nacion fue padrino Roza</line>
+			<line>de Olgin y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Santiago</line>
+			<line>En esta Mission de San Augustin de la Ysleta en veinte</line>
+			<line>y seis dias del mes de julio de mil setecientos y treinta y siete</line>
+			<line>años baptise solemnemente a Santiago hijo legitimo</line>
+			<line>de Sebastian y de Quiteria fue padrino Maria la Guchi-</line>
+			<line>quiana y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_039">
+			<line>{left margin} Juan Antonio</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>seis dias del mes de septimbre de mil setecientos y treinta y sie-</line>
+			<line>te años le eche el agua a Juan Antonio (en estrema) apa-</line>
+			<line>che de nacion y fue padrino Rosa de Olgin y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en qua-</line>
+			<line>tro dias del mes de octubre de mil setecientos y treinta</line>
+			<line>y siete años baptise solemnemente a Antonia</line>
+			<line>apacha de nacion fue padrino Antonio y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Augustina y Catharina apachas</line>
+			<line>En el pueblo y Mission de San Augustin de la Ysleta en ocho dias del mes de</line>
+			<line>noviembre de el año de mil setecientos y treynta y siete baptise solemnemente y puse los</line>
+			<line>santos oleo y chrysma a Agustina adulta apacha fue su madrina Gertrudis</line>
+			<line>de Peralta y a Catharina tambien apacha adulta y fue su madrina Catharina y pa-</line>
+			<line>ra que conste lo firme en dicho pueblo y mission dicho dia mes y año.</line>
+			<line>Fray Juan Joseph de Oronzoro {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_041">
+			<line>{left margin} Cathalina</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos</line>
+			<line>dias del mes de marzo de mil setecientos y treinta y</line>
+			<line>ocho años baptise solemnemente a Cathalina</line>
+			<line>(apacha de nacion) fue su madrina Juana Maria</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric]</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_042">
+			<line>{left margin} Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos</line>
+			<line>dias del mes de agosto de mil setecientos y treinta y</line>
+			<line>ocho años baptise solemnemente a Antonia (apa-</line>
+			<line>cha de nacion) fue su padrino Lorenço y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Thomas</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte dias del mes de septiembre de mil setecientos y tre-</line>
+			<line>inta y ocho años baptise solemnemente a Thomas</line>
+			<line>hijo legitimo de Raymundo Jogola y de Francisca</line>
+			<line>fueron sus padrinos Diego Domingo y doña Jua-</line>
+			<line>na de Chaves y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Juan Joseph</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>sinco dias del mes de octubre de mil setecientos y tre-</line>
+			<line>inta y ocho años baptise solemnemente a Juan</line>
+			<line>Joseph hijo de padres no conocidos fue su padrino</line>
+			<line>doña Ysabel Baca y para que conste</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_044">
+			<line>lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Mari(n)a Rosaura</line>
+			<line>En dies y nueve de octubre de setesientos y treinta y ocho</line>
+			<line>babtise solemnemente a Maria Rosaura hija lexitima de</line>
+			<line>Antonio y Maria cumanches de nasion fueron sus padri-</line>
+			<line>nos Bentura y Jasinta Baca y por que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Joseph Mariano Lopez {rubric}</line>
+			<line>{left margin} Crissotono</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>siete dias del mes de noviembre de mil seteçientos y treinta</line>
+			<line>y ocho años baptise solemnemente a Juan Crisos-</line>
+			<line>tomo hijo legitimo de Francisco Caraquis y de Maria</line>
+			<line>fueron sus padrinos Salvador y Maria y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria Juan Antonio Cristoval Juan Josepha</line>
+			<line>En esta Mission de San Augustin de la Ysleta</line>
+			<line>en dies y siete dias del mes de noviembre de mil setecien-</line>
+			<line>tos y treinta y ocho años baptise solemnemente</line>
+			<line>a los siguientes Maria Juan Antonio Cristoval Juan</line>
+			<line>Josepha (apaches de nacion) fue su padrino de to-</line>
+			<line>dos Antonio de Uribarri y para que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Jasinta Ursula</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>diez y nuebe dias del mes de noviembre de mil seteçientos</line>
+			<line>y treinta y ocho años baptise solemnemente a Ja-</line>
+			<line>sinta Ursula hija legitima de Bonifacio y de Bar-</line>
+			<line>bara fueron sus padrinos Raymundo y Francisca</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_045">
+			<line>{left margin} Barbara Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>siete dias del mes de marzo de mil setecientos y treinta</line>
+			<line>y nuebe años baptise solemnemente a Barba-</line>
+			<line>ra Antonia (apacha de nacion) fue su madrina</line>
+			<line>Chatalina jemes y para que conste lo firme ut</line>
+			<line>supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Ana Maria</line>
+			<line>{left margin} Barbara</line>
+			<line>En esta Mission de San Augustin de la Ysleta en veinte</line>
+			<line>y ocho dias del mes the marzo baptise solemnemente</line>
+			<line>a Ana Maria (apacha de nacion) fue su madrina</line>
+			<line>Ysabel ytem a Barbara (apacha de nacion) fue</line>
+			<line>su madrina Maria Francisca para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_046">
+			<line>{left margin} Antonio de la Trinidad</line>
+			<line>En esta Mission de San Augustin de la Ysle-</line>
+			<line>ta en veinte y quatro de mayo de mil setecientos y</line>
+			<line>treinta y nuebe años baptise solemnemente a Antonio</line>
+			<line>de la Trinidad (apache de nacion) fue padrino</line>
+			<line>Francisco para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_047">
+			<line>{left margin} Santiago parbulo apache</line>
+			<line>En ocho dias del mes de septiembre de mil setecientos</line>
+			<line>y treinta y nuebe años (de lisentia parrochi) baptise</line>
+			<line>solemnemente a Santiago de nacion apache parbulo</line>
+			<line>fue su padrino Thadio de Torres y porque conste lo firme</line>
+			<line>en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Antonia Barbara parbula apacha</line>
+			<line>En ocho dias del mes de septiembre de mil setecientos y treinta y</line>
+			<line>nuebe años (de lisentia parrochi) baptise solemnemente a</line>
+			<line>Antonia Barbara parbula de nacion apacha hija de padres in-</line>
+			<line>fieles fue su padrino Joseph Nevares y por que conste lo firme</line>
+			<line>en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Maria Thomasa</line>
+			<line>En esta Mission de San Augustin de la Ysleta di-</line>
+			<line>ez del mes de noviembre de mil setecientos y treinta y</line>
+			<line>nuebe años baptise solemnemente a Maria Thoma-</line>
+			<line>sa hija legitima de Ventura y de Jacinta fueron sus</line>
+			<line>padrinos Carlos y Chatalina gemes para que conste</line>
+			<line>lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_048">
+			<line>{left margin} Assensio Mariano</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>doze dias del mes de diciembre de mil seteçientos y treinta y nue-</line>
+			<line>be años baptise solemnemente a Assensio Mariano</line>
+			<line>hijo legitimo de Antonio y de Pascuala indios fueron</line>
+			<line>sus padrinos Bernardo de Chavez y Maria Montoya</line>
+			<line>para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_051">
+			<line>{left margin} Antonio Pasqual</line>
+			<line>En esta Mission de San Agustin de la Ysleta en veinte</line>
+			<line>y quatro de abril de mil seteçientos y quarenta años bapti-</line>
+			<line>se solemnemente a Antonio Pasqual hijo legitimo de</line>
+			<line>Sebastian y de Quiteria fueron padrinos Antonio y Ma-</line>
+			<line>ria la Chata para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_053">
+			<line>{left margin} Juana Maria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en qua-</line>
+			<line>tro dias del mes de febrero de mil seteçientos y quarenta</line>
+			<line>y un años baptise solemnemente a Juana Maria hija</line>
+			<line>legitima de Raymundo Jojola y de Francisca fueron sus</line>
+			<line>padrinos Juan [Dirujan?] y Maria para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_053">
+			<line>{left margin} Roza Maria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en diez dias del</line>
+			<line>mes de julio de mil seteçientos y quarenta y un años baptise</line>
+			<line>solemnemente a Roza Maria hija legitima de Brianda</line>
+			<line>y de Bernardo fueron sus padrinos Luiz Chaves y la Agui-</line>
+			<line>lara para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Quiteria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en on-</line>
+			<line>ze dias del mes de julio de mil seteçientos y quarenta y un</line>
+			<line>años baptise solemnemente a Quiteria hija legitima</line>
+			<line>de Ventura y de Ana fueron sus padrinos Diego Padilla</line>
+			<line>y Maria Luiza para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Rosa</line>
+			<line>En esta Mission de San Agustin de la Ysleta en treinta</line>
+			<line>dias del mes de agosto de mil seteçientos y quarenta</line>
+			<line>y un años baptise solemnemente a Rosa Apacha</line>
+			<line>(pues abiendo veinte años que doña Ysabel Chaves le e-</line>
+			<line>cho el agua por omission de sus amos le faltaba las demas</line>
+			<line>ceremonias que ordena Nuestra Santa Madre de la Yglesia) fue</line>
+			<line>su madrina Maria La Guchuquiana para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_054">
+			<line>{left margin} Maria de los Dolores coyota</line>
+			<line>En esta mission de San Augustin de la Ysleta en dies</line>
+			<line>y nuebe dias del mes de noviembre de mil seteçientos y quarenta y</line>
+			<line>un años baptise solemnemente a Maria de los Dolores</line>
+			<line>hija legitima de Quintana y de Petrona coyotes fueron</line>
+			<line>sus padrinos Cayetano Torres y Maria Gongora para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{margin} Maria Juliana</line>
+			<line>En esta mission de San Augustin de la Ysleta vein-</line>
+			<line>te y seis dias del mes de noviembre seteçientos y quarenta</line>
+			<line>y un años baptise solemnemente a Maria Juliana</line>
+			<line>hija legitima de Ventura y de Jasinta fue su madrina</line>
+			<line>Micaela para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+	</sourceDoc>
+</TEI>

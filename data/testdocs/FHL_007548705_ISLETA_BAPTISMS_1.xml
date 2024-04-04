@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>FHL_007548705_ISLETA_BAPTISMS_1</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://admin.nativeboundunbound.org/public/29bace80-af0e-013b-6a36-5e810cf25fdc/manifest?visit_id=1.80846725689143" xml:id="images">
+		<surface xml:id="FHL_007548705_IMG_012" ulx="0" uly="0" lrx="3558" lry="2926" sameAs="https://c5c214ac-01c7-403e-8045-dd9cbfd3521a/canvas/p1">
+			<label>012</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kv92h4i3wvnpyyfserlswojzdtr0;1"/>
+			<zone xml:id="FHL_007548705_IMG_012_L4" ulx="147.70188903808594" uly="1904.311279296875" lrx="1741.326904296875" lry="2197.322998046875"/>
+			<zone xml:id="FHL_007548705_IMG_012_L5" ulx="174.6111297607422" uly="2197.322998046875" lrx="1732.357177734375" lry="2612.92138671875"/>
+			<zone xml:id="FHL_007548705_IMG_012_R1" ulx="1814.2808837890625" uly="295.138671875" lrx="3437.80517578125" lry="1305.7301025390625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_013" ulx="0" uly="0" lrx="3549" lry="2908" sameAs="https://6d780b6d-7f42-4361-a906-6d123f25d23a/canvas/p3">
+			<label>013</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xrj22ql7aobhujk93iqenk67m9ar;1"/>
+			<zone xml:id="FHL_007548705_IMG_013_L2" ulx="180.13401794433594" uly="1385.406005859375" lrx="1798.9554443359375" lry="2148.888427734375"/>
+			<zone xml:id="FHL_007548705_IMG_013_L3" ulx="212.3435821533203" uly="2133.9765625" lrx="1781.0614013671875" lry="2611.153076171875"/>
+			<zone xml:id="FHL_007548705_IMG_013_L3CONT" ulx="1849.0592041015625" uly="240.182373046875" lrx="3438.6533203125" lry="559.294189453125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_014" ulx="0" uly="0" lrx="3573" lry="2889" sameAs="https://74e0be35-c5f3-4b29-a334-5544082f66b5/canvas/p5">
+			<label>014</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/16roppp0br2pm7w080tfo5we1d3b;1"/>
+			<zone xml:id="FHL_007548705_IMG_014_L2" ulx="167.44488525390625" uly="819.1945190429688" lrx="1843.94873046875" lry="1426.8236083984375"/>
+			<zone xml:id="FHL_007548705_IMG_014_L3" ulx="188.89804077148438" uly="1398.76220703125" lrx="1846.068115234375" lry="2181.314697265625"/>
+			<zone xml:id="FHL_007548705_IMG_014_R1" ulx="1847.2955322265625" uly="535.8062744140625" lrx="3449.2265625" lry="1078.98974609375"/>
+			<zone xml:id="FHL_007548705_IMG_014_R2" ulx="1841.1578369140625" uly="1083.2861328125" lrx="3424.676025390625" lry="1721.603515625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_016" ulx="0" uly="0" lrx="3512" lry="2925" sameAs="https://6447c738-9be8-4458-be3b-d8d75d9b84c0/canvas/p7">
+			<label>016</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/88uodcpxjld0alsqsixvsys6li1j;1"/>
+			<zone xml:id="FHL_007548705_IMG_016_L3" ulx="188.29037475585938" uly="1845.5736083984375" lrx="1793.7760009765625" lry="2403.36181640625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_020" ulx="0" uly="0" lrx="3546" lry="2924" sameAs="https://005e5cf3-a94c-42e9-8815-54c66a651539/canvas/p9">
+			<label>020</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/5hod1cxp7txarotd48cp8s1flqij;1"/>
+			<zone xml:id="FHL_007548705_IMG_020_L1" ulx="182.41107177734375" uly="251.58700561523438" lrx="1817.7265625" lry="1070.6424560546875"/>
+			<zone xml:id="FHL_007548705_IMG_020_R2" ulx="1814.93115234375" uly="1294.8343505859375" lrx="3419.4970703125" lry="1865.0982666015625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_021" ulx="0" uly="0" lrx="3556" lry="2878" sameAs="https://99b28fff-2d7f-462d-b8fd-ebb56d5f1ec3/canvas/p11">
+			<label>021</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/6s90i48qe49ojji7xjhjtc1x5uqp;1"/>
+			<zone xml:id="FHL_007548705_IMG_021_R2" ulx="1821.6280517578125" uly="1137.188232421875" lrx="3429.298583984375" lry="1866.317626953125"/>
+			<zone xml:id="FHL_007548705_IMG_021_R3" ulx="1839.5576171875" uly="1848.98583984375" lrx="3420.333984375" lry="2557.197509765625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_022" ulx="0" uly="0" lrx="3603" lry="2929" sameAs="https://211fe076-54e3-4562-82e1-33b0aab12ac6/canvas/p13">
+			<label>022</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/wzzvk65uyn362qa1kmt5bcyc61o5;1"/>
+			<zone xml:id="FHL_007548705_IMG_022_L1" ulx="196.99044799804688" uly="254.81741333007812" lrx="1877.105224609375" lry="896.0612182617188"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_023" ulx="0" uly="0" lrx="3519" lry="2897" sameAs="https://ffdc9c1a-2078-4a95-b2e4-02b3f275ef19/canvas/p15">
+			<label>023</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/is28z2zi1fjc7fcitsstx8s5euxn;1"/>
+			<zone xml:id="FHL_007548705_IMG_023_L1" ulx="169.73985290527344" uly="236.07144165039062" lrx="1793.2113037109375" lry="910.300048828125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_024" ulx="0" uly="0" lrx="3609" lry="2942" sameAs="https://5d86cd21-78e1-4ffb-ad8b-05b6bf6c814a/canvas/p17">
+			<label>024</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qmsemci902mtdqa0k1eqxpolk40x;1"/>
+			<zone xml:id="FHL_007548705_IMG_024_L2" ulx="231.6793212890625" uly="1181.2938232421875" lrx="1840.9241943359375" lry="1946.5791015625"/>
+			<zone xml:id="FHL_007548705_IMG_024_L3" ulx="190.96371459960938" uly="1824.111083984375" lrx="1825.9564208984375" lry="2635.17041015625"/>
+			<zone xml:id="FHL_007548705_IMG_024_R1" ulx="1868.86962890625" uly="280.1587219238281" lrx="3473.822998046875" lry="923.8566284179688"/>
+			<zone xml:id="FHL_007548705_IMG_024_R2" ulx="1843.1217041015625" uly="880.9434204101562" lrx="3516.736328125" lry="1507.47607421875"/>
+			<zone xml:id="FHL_007548705_IMG_024_R3" ulx="1804.4998779296875" uly="1408.7757568359375" lrx="3508.153564453125" lry="2069.638916015625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_025" ulx="0" uly="0" lrx="3663" lry="3049" sameAs="https://98a5fef7-5846-41d4-aae2-69e29b1b7e47/canvas/p19">
+			<label>025</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yxnl2zuh8jltt1oxcb5p28e5k1ci;1"/>
+			<zone xml:id="FHL_007548705_IMG_025_R1" ulx="1888.367919921875" uly="310.5867919921875" lrx="3511.293212890625" lry="997.3773193359375"/>
+			<zone xml:id="FHL_007548705_IMG_025_R2" ulx="1862.12109375" uly="940.50927734375" lrx="3528.791015625" lry="1474.193603515625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_027" ulx="0" uly="0" lrx="3554" lry="2925" sameAs="https://852ebfa3-23ec-46b9-b4c8-09f5bf9f862b/canvas/p21">
+			<label>027</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xsmnqih7zr5ic9qf6trdkjl2veef;1"/>
+			<zone xml:id="FHL_007548705_IMG_027_L4" ulx="194.2758331298828" uly="2080.974609375" lrx="1858.988037109375" lry="2686.97265625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_030" ulx="0" uly="0" lrx="3585" lry="2891" sameAs="https://ba59f71d-2521-4e34-bc96-811e84d4ac1c/canvas/p23">
+			<label>030</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/odljeo9q8hfr5rcsmkkz4o9l8798;1"/>
+			<zone xml:id="FHL_007548705_IMG_030_R5" ulx="1828.6988525390625" uly="1090.89892578125" lrx="3475.569580078125" lry="1392.945068359375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_031" ulx="0" uly="0" lrx="3589" lry="2926" sameAs="https://860a0cf5-eb5b-49f7-9372-2f69a7143519/canvas/p25">
+			<label>031</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/1ie9xqsrqse1yx3c3ws7hnc2yt4q;1"/>
+			<zone xml:id="FHL_007548705_IMG_031_L10" ulx="207.7843780517578" uly="2273.001953125" lrx="1835.24560546875" lry="2669.3857421875"/>
+			<zone xml:id="FHL_007548705_IMG_031_L10CONT" ulx="1801.111572265625" uly="203.20944213867188" lrx="3443.818359375" lry="508.1202087402344"/>
+			<zone xml:id="FHL_007548705_IMG_031_R2" ulx="1802.7384033203125" uly="658.2504272460938" lrx="3462.3681640625" lry="920.3885498046875"/>
+			<zone xml:id="FHL_007548705_IMG_031_R3" ulx="1797.7666015625" uly="888.83203125" lrx="3481.00634765625" lry="1080.488037109375"/>
+			<zone xml:id="FHL_007548705_IMG_031_R7" ulx="1837.6973876953125" uly="1684.387451171875" lrx="3490.005126953125" lry="1965.1717529296875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_032" ulx="0" uly="0" lrx="3569" lry="2846" sameAs="https://aca5bc4c-aa63-4de7-9752-06c75db3fa1a/canvas/p27">
+			<label>032</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/b8z5saxfgfr0fobktqob7gamgsk0;1"/>
+			<zone xml:id="FHL_007548705_IMG_032_L5" ulx="141.3997039794922" uly="1764.8651123046875" lrx="1831.03662109375" lry="2538.0888671875"/>
+			<zone xml:id="FHL_007548705_IMG_032_R2" ulx="1791.6595458984375" uly="737.47998046875" lrx="3466.9775390625" lry="1199.266357421875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_034" ulx="0" uly="0" lrx="3605" lry="2996" sameAs="https://ddec06c5-db7b-47a5-bd54-68e40964ab4a/canvas/p29">
+			<label>034</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/tni6t8hhqwxr7bpavex923frwr4n;1"/>
+			<zone xml:id="FHL_007548705_IMG_034_R4" ulx="1813.3475341796875" uly="2128.96533203125" lrx="3483.869140625" lry="2725.580322265625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_035_CONT" ulx="0" uly="0" lrx="3712" lry="3094" sameAs="https://38c85579-c061-4b75-a4a9-2289f7b4b837/canvas/p1">
+			<label>035</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/s637nvv7r38rm2a4zaulxqsu1ivx;1"/>
+			<zone xml:id="FHL_007548705_IMG_035CONT" ulx="361.5943908691406" uly="239.3950653076172" lrx="1953.934326171875" lry="634.7596435546875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_036" ulx="0" uly="0" lrx="3655" lry="2926" sameAs="https://9d4ccff3-832d-4559-b7c6-667fdb87f3f2/canvas/p31">
+			<label>036</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qldjf7x86vdc9g5e84o8r1ndfbhu;1"/>
+			<zone xml:id="FHL_007548705_IMG_036_L3" ulx="199.79689025878906" uly="1292.5311279296875" lrx="1911.81787109375" lry="1728.7847900390625"/>
+			<zone xml:id="FHL_007548705_IMG_036_L4" ulx="174.13490295410156" uly="1710.454833984375" lrx="1875.157958984375" lry="2286.0166015625"/>
+			<zone xml:id="FHL_007548705_IMG_036_R1" ulx="1849.4959716796875" uly="475.0135192871094" lrx="3517.525146484375" lry="1021.2472534179688"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_037" ulx="0" uly="0" lrx="3725" lry="3087" sameAs="https://25df72f6-34bd-4778-98b5-be7706b7c48a/canvas/p33">
+			<label>037</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/p7scdsagvmtfmeon2t8asln5xafa;1"/>
+			<zone xml:id="FHL_007548705_IMG_037_L1" ulx="270.8751220703125" uly="1268.8885498046875" lrx="1918.54296875" lry="1862.9456787109375"/>
+			<zone xml:id="FHL_007548705_IMG_037_L2" ulx="240.98544311523438" uly="1743.3870849609375" lrx="1877.4447021484375" lry="2516.7822265625"/>
+			<zone xml:id="FHL_007548705_IMG_037_R1" ulx="1974.586181640625" uly="372.1985778808594" lrx="3573.683349609375" lry="786.917724609375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_039" ulx="0" uly="0" lrx="3624" lry="2939" sameAs="https://dccc39f7-a324-4fe1-a8db-581ffc36f7d5/canvas/p35">
+			<label>039</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/8yxi97lmbqzw46qnp6mpnbvftry5;1"/>
+			<zone xml:id="FHL_007548705_IMG_039_L1" ulx="223.54664611816406" uly="257.25927734375" lrx="1844.7142333984375" lry="867.9232788085938"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_041" ulx="0" uly="0" lrx="3630" lry="2923" sameAs="https://450f664f-ce6f-4dec-9313-9041d2df14f3/canvas/p37">
+			<label>041</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/7m3kmkphwvtlun707t8so7thqbfx;1"/>
+			<zone xml:id="FHL_007548705_IMG_041_L3" ulx="249.40318298339844" uly="1197.532958984375" lrx="1913.3048095703125" lry="1841.976318359375"/>
+			<zone xml:id="FHL_007548705_IMG_041_R3" ulx="1913.3048095703125" uly="1437.8338623046875" lrx="3511.669677734375" lry="2122.327392578125"/>
+			<zone xml:id="FHL_007548705_IMG_041_R4" ulx="1889.6387939453125" uly="2115.04541015625" lrx="3506.208251953125" lry="2613.851806640625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_042" ulx="0" uly="0" lrx="3658" lry="2898" sameAs="https://19e478c1-f434-4934-8871-73cfc606e0d8/canvas/p39">
+			<label>042</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qdevxwwc78e2bd2zemyahnw2vvm6;1"/>
+			<zone xml:id="FHL_007548705_IMG_042cont" ulx="205.03280639648438" uly="207.24266052246094" lrx="1876.5638427734375" lry="499.42083740234375"/>
+			<zone xml:id="FHL_007548705_IMG_042_L2" ulx="225.6439208984375" uly="797.751220703125" lrx="1876.697021484375" lry="1171.9898681640625"/>
+			<zone xml:id="FHL_007548705_IMG_042_L4" ulx="189.59693908691406" uly="1723.98583984375" lrx="1876.982666015625" lry="2524.267333984375"/>
+			<zone xml:id="FHL_007548705_IMG_042_R3" ulx="1880.365966796875" uly="1373.7852783203125" lrx="3498.39794921875" lry="2030.5374755859375"/>
+			<zone xml:id="FHL_007548705_IMG_042_R4" ulx="1917.0560302734375" uly="1968.1644287109375" lrx="3494.72900390625" lry="2602.902587890625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_044" ulx="0" uly="0" lrx="3632" lry="2916" sameAs="https://c4be3693-ae07-4fca-a6f0-bca51aeca51b/canvas/p41">
+			<label>044</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/4rbh91fc0m8t3fgs7ugzm35k4fam;1"/>
+			<zone xml:id="FHL_007548705_IMG_044_L3" ulx="173.03912353515625" uly="1328.676025390625" lrx="1830.57177734375" lry="1988.046142578125"/>
+			<zone xml:id="FHL_007548705_IMG_044_R3" ulx="1859.7152099609375" uly="1321.3902587890625" lrx="3451.67529296875" lry="1958.90283203125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_045" ulx="0" uly="0" lrx="3618" lry="2913" sameAs="https://36126d91-a082-4b23-80fe-5f60f34308e7/canvas/p43">
+			<label>045</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kgbnm9xx7290as7w4svw4qr04nvy;1"/>
+			<zone xml:id="FHL_007548705_IMG_045_R1" ulx="1859.8046875" uly="257.1529846191406" lrx="3474.659423828125" lry="779.7127075195312"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_046" ulx="0" uly="0" lrx="3636" lry="2827" sameAs="https://a3bbe011-c9f0-40dd-96f6-cda51cce8b35/canvas/p45">
+			<label>046</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kg8py46ch71j9kk8lq28ruvete7j;1"/>
+			<zone xml:id="FHL_007548705_IMG_046_L2" ulx="249.8154296875" uly="740.639404296875" lrx="1865.41015625" lry="1141.8028564453125"/>
+			<zone xml:id="FHL_007548705_IMG_046_L3" ulx="220.63990783691406" uly="1098.03955078125" lrx="1858.1162109375" lry="1484.615234375"/>
+			<zone xml:id="FHL_007548705_IMG_046_R4" ulx="1854.4693603515625" uly="1652.37451171875" lrx="3499.239501953125" lry="2286.942138671875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_047" ulx="0" uly="0" lrx="3618" lry="2922" sameAs="https://bfa48440-73f5-4739-a424-43fe28b701b0/canvas/p47">
+			<label>047</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/q39oyxq5rb60sxdm4a8kfix1l914;1"/>
+			<zone xml:id="FHL_007548705_IMG_047_R1" ulx="1841.66015625" uly="305.19964599609375" lrx="3427.48388671875" lry="907.5949096679688"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_048" ulx="0" uly="0" lrx="3653" lry="2968" sameAs="https://fc31fb65-cf1b-4266-88c6-8770e838bc8d/canvas/p49">
+			<label>048</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/20nci07t8q1gn7v0siuvf5u860qw;1"/>
+			<zone xml:id="FHL_007548705_IMG_048_L2" ulx="287.6233825683594" uly="921.5772094726562" lrx="1899.7799072265625" lry="1416.2161865234375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_051" ulx="0" uly="0" lrx="3573" lry="2885" sameAs="https://45a1c3a3-8018-4877-b5e8-117c8137a26b/canvas/p51">
+			<label>051</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ruj41uu2tavnp9wbd19tdlfm2rg9;1"/>
+			<zone xml:id="FHL_007548705_IMG_051_R1" ulx="1747.0784912109375" uly="139.806396484375" lrx="3431.44140625" lry="706.0390014648438"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_053" ulx="0" uly="0" lrx="3647" lry="2937" sameAs="https://91f775f1-0cd1-42a0-9171-5b1ed0275fd7/canvas/p53">
+			<label>053</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/aiwmij6ivaql9n4sqzp4k8zpt9vx;1"/>
+			<zone xml:id="FHL_007548705_IMG_053_L5" ulx="235.9393310546875" uly="1989.761474609375" lrx="1885.6856689453125" lry="2659.170654296875"/>
+			<zone xml:id="FHL_007548705_IMG_053_R1" ulx="1838.1319580078125" uly="226.61785888671875" lrx="3443.982666015625" lry="713.12841796875"/>
+			<zone xml:id="FHL_007548705_IMG_053_R3" ulx="1863.73779296875" uly="1009.42431640625" lrx="3498.852294921875" lry="1623.9639892578125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_054" ulx="0" uly="0" lrx="3653" lry="2992" sameAs="https://f86e444f-f8c4-417d-9301-0ec5476a1610/canvas/p55">
+			<label>054</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/2zw1gxqwsznglxlhsssvabxqla4e;1"/>
+			<zone xml:id="FHL_007548705_IMG_054_R1" ulx="1852.14794921875" uly="266.7306823730469" lrx="3478.96044921875" lry="757.7056274414062"/>
+			<zone xml:id="FHL_007548705_IMG_054_R3" ulx="1852.14794921875" uly="1065.48095703125" lrx="3555.904296875" lry="1571.11181640625"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="transcription">
+		<surface facs="#FHL_007548705_IMG_012">
+			<line>{left margin} Barbara</line>
+			<line>{left margin} Maria An[*toni]a</line>
+			<line>En sinco dias de el mes de marzo de mill</line>
+			<line>setesçientos y treinta años baptiçe solem-</line>
+			<line>nemente y puse los santos oleos a los sigui-</line>
+			<line>entes . . . yten a Barbara adulta de nacion</line>
+			<line>gentil fue su padrino Lorenzo Panadero item</line>
+			<line>a Maria Antonio adulta de nacion gentil</line>
+			<line>fue su padrino Miguel Iullapuñu y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Pedro Montaño {rubric}</line>
+			<line>{left margin} Barbara</line>
+			<line>{left margin} Maria Ascenciana</line>
+			<line>En treinta dias de el mes de marzo de mill</line>
+			<line>setecientos y treinta años baptice solennemente</line>
+			<line>y puse los santos oleos a las siguientes a Barba-</line>
+			<line>ra adulta de nacion gentil fueron sus padri-</line>
+			<line>nos Gregorio Chiguigui y Maria quedap[ILL]</line>
+			<line>[ILL] a Maria Ascenciana hija legitima de</line>
+			<line>Joseph Justo y de Antonia de Jojola fueron sus</line>
+			<line>padrinos Carlos y Augustina y para que con-</line>
+			<line>te lo firme ut supra.</line>
+			<line>Fray Pedro Montaño {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_013">
+			<line>{left margin} Antonio</line>
+			<line>En nuebe dias de el mes de julio de mill</line>
+			<line>setecientos y treinta años baptice solenne-</line>
+			<line>mente y puse los santos oleos a Antonio hijo legiti-</line>
+			<line>mo de Antonio Grole? y de Theresa Galle-</line>
+			<line>gos fueron sus padrinos Bernabe Baca</line>
+			<line>y Margarita Mata y para que conste lo-</line>
+			<line>firme ut supra.</line>
+			<line>Fray Pedro Montano {rubric}</line>
+			<line>{left margin} Antonia</line>
+			<line>En catorse dias de el mes de julio de mill</line>
+			<line>setecientos y treinta años baptice solemne-</line>
+			<line>mente y puse los santos oleos a Antonia de na-</line>
+			<line>cion jumana adulta fueron sus padri-</line>
+			<line>nos don Antonio de Chabes y dona Antonia Ba-</line>
+			<line>ca y para que conste lo firme ut supra.</line>
+			<line>Fray Pedro Montano {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_014">
+			<line>{left margin} Barbara</line>
+			<line>En esta Mission de San Augustin de la Ysleta en quince</line>
+			<line>dias del mes de octubre de mil setecientos y treinta años</line>
+			<line>baptise solemnemente a Barbara apacha de nacion</line>
+			<line>fue su madrina Micaela y para que conste lo firme ut</line>
+			<line>supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Juan Pedro</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>diez y seis de octubre de mil setecientos y treinta</line>
+			<line>años baptise solemnemente a Juan Pedro hi-</line>
+			<line>jo legitimo de Raymundo Jogola y de Francisca</line>
+			<line>fueron sus padrinos el capitan Juan Gonzales y do-</line>
+			<line>ña Maria Lopez y para que conste lo firme ut su-</line>
+			<line>pra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Gertrudes</line>
+			<line>En esta Mission de San Augustin de la Ysleta en quatro</line>
+			<line>dias del mes de diciembre de mil setecientos y treinta años</line>
+			<line>baptise solemnemente a Gertrudes apacha de nacion</line>
+			<line>fue su madrina doña Gertrudes y para que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Carlos Delgado (rubric}</line>
+			<line>{left margin} Cathalina</line>
+			<line>En esta Mission de San Augustin de la Ysleta en seis</line>
+			<line>dias del mes de diciembre de mil setecientos y treinta</line>
+			<line>años baptise solemnemente a Cathalina apacha</line>
+			<line>de nacion fue su padrino Felipe Gallegos y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_016">
+			<line>{left margin} Joseph</line>
+			<line>En esta Mission de San Agustin de la Ysleta en tres dias del</line>
+			<line>mes de mayo de mil setecientos y treinta y un años baptise</line>
+			<line>solemnemente a Joseph apache de nacion fue padrino</line>
+			<line>Joseph Norey y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_020">
+			<line>{left margin} Juan Ysidro</line>
+			<line>En esta Mission de San Augustin de la Yselta</line>
+			<line>en veinte y nuebe dias del mes de marzo de mil seteci-</line>
+			<line>entos y treinta y dos años baptise solemnemente</line>
+			<line>a Juan Ysidro hijo legitimo de Sebastian y de</line>
+			<line>Quiteria fueron sus padrinos Juanico y Micaela</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Pedro</line>
+			<line>En esta Mission de San Agustin de la Ysleta en primero</line>
+			<line>de julio de mil setecientos y treinta y dos años baptise so-</line>
+			<line>lemnemente a Pedro hijo de padres no conosidos fue-</line>
+			<line>ron sus padrinos Joseph Mariano y Micaela y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_021">
+			<line>{left margin} Maria Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>siete dias del mes de septiembre de mil setecientos y</line>
+			<line>treinta y dos años baptise solemnemente a Maria</line>
+			<line>Antonia (apacha de nacion) fueron sus padrinos</line>
+			<line>Juan y Maria Antonia y para que conste lo firme ut</line>
+			<line>supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Carlos</line>
+			<line>En esta Mission de San Augustin de la Ysleta en vein-</line>
+			<line>te y seis dias del mes de septembre de mil setecientos y treinta</line>
+			<line>y dos años baptise solemnemente a Carlos hijo del pa-</line>
+			<line>dres infieles fueron sus padrinos Joseph Mariano y</line>
+			<line>Micaela y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_022">
+			<line>{left margin} Miguel</line>
+			<line>En esta Mission de San Augustin de la Ysleta</line>
+			<line>en veinte y siete dias del mes de septiembre de mil setecien-</line>
+			<line>tos y treinta y dos años baptise solemnemente a</line>
+			<line>Miguel hijo de padres de infieles fue su padrino Mi-</line>
+			<line>guel y para conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_023">
+			<line>{left margin} Santiago</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte dias del mes de diciembre de mil seteçientos</line>
+			<line>y treinta y dos años baptise y puse los santos olios</line>
+			<line>a Santiago apache de nacion fue su padrino Xa-</line>
+			<line>bier y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_024">
+			<line>{left margin} Maria de la Concesion</line>
+			<line>En esta Mission de San Augustin de la Ysleta en vein-</line>
+			<line>te y cinco dias del mes de abril de mil setecientos y treinta</line>
+			<line>y tres años baptise solemnemente a Maria de la Con-</line>
+			<line>cepsion hija lejitima de Joseph el Juman y de Angeli-</line>
+			<line>na fueron sus padrinos Francisco y Maria La Guchuquiana y</line>
+			<line>para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Juan Anbrosio</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos di-</line>
+			<line>as del mes de mayo de mil setecientos y treinta y tres años</line>
+			<line>baptise solemnemente a Juan Ambrosio hijo de pa-</line>
+			<line>dres no conosidos fueron sus padrinos Mathias y Juana</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria Dorotea</line>
+			<line>En esta Mission de San Augustin de la Ysleta en viente</line>
+			<line>dias del mes de mayo de mil setecientos y treinta y tres años</line>
+			<line>baptise solemnemente a Maria Dorotea hija legiti-</line>
+			<line>ma de Raymundo Jojola y de Francisca fueron sus pa-</line>
+			<line>drinos Mathias y Juana y para que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en vein-</line>
+			<line>te y ciete dias del mes de mayo de mil setecientos y treinta</line>
+			<line>y tres años baptise en extrema a Maria hija de padres</line>
+			<line>no conosidos fue su madrina Micaela y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Barbara</line>
+			<line>En esta Mission de San Augustin de la Ysleta en tre-</line>
+			<line>inta y un dias del mes de mayo de mil setecientos y tre-</line>
+			<line>inta y tres años baptise en extrema necesidad a Bar-</line>
+			<line>bara apacha de nacion fue su madrina Maria y</line>
+			<line>para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_025">
+			<line>{left margin} Juan de la Cruz</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte dias del mes de julio de mil setecientos y treinta y</line>
+			<line>tres años baptise solemnemente a Juan de la Cruz</line>
+			<line>hijo de padres no conocidos fueron sus padrinos el ca-</line>
+			<line>pitan Juan Gonzales y doña Maria Lopez y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en veinte y (si)</line>
+			<line>siete dias del mes de julio de mil setecientos y treinta y tres</line>
+			<line>años baptise y puse los santos olios a Antonia (apac-</line>
+			<line>ha de nacion) fue su padrino Antonio Montoya y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Getrudes</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos dias</line>
+			<line>del mes de agosto de mil seteçientos y treinta y tres años bap-</line>
+			<line>tise solemnemente a Getrudes (apache de naçion) fue su</line>
+			<line>madrina doña Bernarda Baca y para que conste</line>
+			<line>lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_027">
+			<line>{left margin} Maria Jusepa</line>
+			<line>En esta mission de San Augustin de la Ysleta en-</line>
+			<line>catorze dias del mes de febrero de mil seteçientos y trein-</line>
+			<line>ta y quatro años baptise solemnemente a Maria</line>
+			<line>Jusepa apacha de nacion fueron sus padrinos Jua-</line>
+			<line>nico y Micaela y para que conste los firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_030">
+			<line>{left margin} Thomas</line>
+			<line>En dies y ocho dias del mes de septiembre en mil setecientos y treinta y sinco</line>
+			<line>años baptise solemnemente a Thomas de Villanueba hijo legitimo de Joseph</line>
+			<line>Fernandes y de Angelina fueron sus padrinos Phelipe Romero y Francisca Gongora y por que conste lo firme en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_031">
+			<line>{left margin} Manuela</line>
+			<line>De licensia parrochi en veinte y nuebe de marzo</line>
+			<line>de mil setecientos y treinta y seis años bapise solem-</line>
+			<line>nemente a Manuela adulta y apacha de naçion</line>
+			<line>fue su madrina Maria y para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria de los Dolores</line>
+			<line>En ocho dias del mes de abril de mil setecientos treinta y sies años baptise solemnemente a</line>
+			<line>Maria de los Dolores hija lexitima de Raimundo Joxola y de Fransisca fueron padrinos Joseph</line>
+			<line>Romero y doña Ana de Chabes y por que conste lo firme en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Maria Josepha</line>
+			<line>En veinte y dos dias del mes de abril de mil setecientos y treinta y seis años baptise solemne-</line>
+			<line>mente a Maria Josepha hija de padres no conosidos fue su madrina Agustina Jojola y por</line>
+			<line>que conste lo firme en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Juan Ysidro</line>
+			<line>En catorse dias del mes de mayo de mil setecientos y trienta y seis años baptise</line>
+			<line>solemnemente a Juan Ysidro hijo lexitimo de Bonifacio [Lussero?] y de Barbara Felisi-</line>
+			<line>ano fueron sue padrinos Joseph [Norci?] y Michaela Montoya y por que conste lo firme en</line>
+			<line>dicho dia mes y ano.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_032">
+			<line>{left margin} Maria</line>
+			<line>En veinte y sinco dias del mes de noviembre de mil seteci-</line>
+			<line>entos y treinta y seis años baptise y puse los santos</line>
+			<line>olios a Maria apacha de nacion fue su madrina</line>
+			<line>Juana Maria y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Agustin</line>
+			<line>En esta Mission de San Augustin de la Ysleta en ocho</line>
+			<line>dias del mes de diciembre de mil setecientos y treinta y seis años</line>
+			<line>baptise solemnemente a Augustin (apache de nacion)</line>
+			<line>fue padrino Micaela y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_034">
+			<line>{left margin} Joseph Antonio</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte y quatro de marzo de mil setecientos y treinta</line>
+			<line>y siete años baptise solemnemente a Joseph Antonio</line>
+			<line>hijo legitimo de Ana y de Bentura fueron sus pa-</line>
+			<line>drinos Geronimo Jiron y Damiana y para</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_036">
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_037">
+			<line>{left margin} Antonio</line>
+			<line>En la Mission de San Augustin de la Ysleta en veynte y un dias del</line>
+			<line>mes de junio de el año de mil setecientos y treynta y siete (venia parro-</line>
+			<line>chi] baptise solemnemente y puse los santos oleos y chrysma a Antonio collo-</line>
+			<line>te hijo de padres no conocidos fue su madrina Maria Xemes y para que</line>
+			<line>conste lo firme en dicha mission dicho dia mes y año.</line>
+			<line>Fray Juan Joseph de Oronzoro {rubric}</line>
+			<line>{left margin} Maria de la Assencion</line>
+			<line>En esta Mission de San Augustin de la Ysleta en sinco</line>
+			<line>dias del mes de julio de mil setecientos y treinta y sie-</line>
+			<line>te años le eche el agua en estrema necesidad a Maria</line>
+			<line>de la Assension apacha de nacion fue padrino Roza</line>
+			<line>de Olgin y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Santiago</line>
+			<line>En esta Mission de San Augustin de la Ysleta en veinte</line>
+			<line>y seis dias del mes de julio de mil setecientos y treinta y siete</line>
+			<line>años baptise solemnemente a Santiago hijo legitimo</line>
+			<line>de Sebastian y de Quiteria fue padrino Maria la Guchi-</line>
+			<line>quiana y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_039">
+			<line>{left margin} Juan Antonio</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>seis dias del mes de septimbre de mil setecientos y treinta y sie-</line>
+			<line>te años le eche el agua a Juan Antonio (en estrema) apa-</line>
+			<line>che de nacion y fue padrino Rosa de Olgin y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en qua-</line>
+			<line>tro dias del mes de octubre de mil setecientos y treinta</line>
+			<line>y siete años baptise solemnemente a Antonia</line>
+			<line>apacha de nacion fue padrino Antonio y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Augustina y Catharina apachas</line>
+			<line>En el pueblo y Mission de San Augustin de la Ysleta en ocho dias del mes de</line>
+			<line>noviembre de el año de mil setecientos y treynta y siete baptise solemnemente y puse los</line>
+			<line>santos oleo y chrysma a Agustina adulta apacha fue su madrina Gertrudis</line>
+			<line>de Peralta y a Catharina tambien apacha adulta y fue su madrina Catharina y pa-</line>
+			<line>ra que conste lo firme en dicho pueblo y mission dicho dia mes y año.</line>
+			<line>Fray Juan Joseph de Oronzoro {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_041">
+			<line>{left margin} Cathalina</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos</line>
+			<line>dias del mes de marzo de mil setecientos y treinta y</line>
+			<line>ocho años baptise solemnemente a Cathalina</line>
+			<line>(apacha de nacion) fue su madrina Juana Maria</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric]</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_042">
+			<line>{left margin} Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en dos</line>
+			<line>dias del mes de agosto de mil setecientos y treinta y</line>
+			<line>ocho años baptise solemnemente a Antonia (apa-</line>
+			<line>cha de nacion) fue su padrino Lorenço y para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Thomas</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>veinte dias del mes de septiembre de mil setecientos y tre-</line>
+			<line>inta y ocho años baptise solemnemente a Thomas</line>
+			<line>hijo legitimo de Raymundo Jogola y de Francisca</line>
+			<line>fueron sus padrinos Diego Domingo y doña Jua-</line>
+			<line>na de Chaves y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Juan Joseph</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>sinco dias del mes de octubre de mil setecientos y tre-</line>
+			<line>inta y ocho años baptise solemnemente a Juan</line>
+			<line>Joseph hijo de padres no conocidos fue su padrino</line>
+			<line>doña Ysabel Baca y para que conste</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_044">
+			<line>lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Mari(n)a Rosaura</line>
+			<line>En dies y nueve de octubre de setesientos y treinta y ocho</line>
+			<line>babtise solemnemente a Maria Rosaura hija lexitima de</line>
+			<line>Antonio y Maria cumanches de nasion fueron sus padri-</line>
+			<line>nos Bentura y Jasinta Baca y por que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Joseph Mariano Lopez {rubric}</line>
+			<line>{left margin} Crissotono</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>siete dias del mes de noviembre de mil seteçientos y treinta</line>
+			<line>y ocho años baptise solemnemente a Juan Crisos-</line>
+			<line>tomo hijo legitimo de Francisco Caraquis y de Maria</line>
+			<line>fueron sus padrinos Salvador y Maria y para</line>
+			<line>que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Maria Juan Antonio Cristoval Juan Josepha</line>
+			<line>En esta Mission de San Augustin de la Ysleta</line>
+			<line>en dies y siete dias del mes de noviembre de mil setecien-</line>
+			<line>tos y treinta y ocho años baptise solemnemente</line>
+			<line>a los siguientes Maria Juan Antonio Cristoval Juan</line>
+			<line>Josepha (apaches de nacion) fue su padrino de to-</line>
+			<line>dos Antonio de Uribarri y para que conste lo firme</line>
+			<line>ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Jasinta Ursula</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>diez y nuebe dias del mes de noviembre de mil seteçientos</line>
+			<line>y treinta y ocho años baptise solemnemente a Ja-</line>
+			<line>sinta Ursula hija legitima de Bonifacio y de Bar-</line>
+			<line>bara fueron sus padrinos Raymundo y Francisca</line>
+			<line>y para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_045">
+			<line>{left margin} Barbara Antonia</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>siete dias del mes de marzo de mil setecientos y treinta</line>
+			<line>y nuebe años baptise solemnemente a Barba-</line>
+			<line>ra Antonia (apacha de nacion) fue su madrina</line>
+			<line>Chatalina jemes y para que conste lo firme ut</line>
+			<line>supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Ana Maria</line>
+			<line>{left margin} Barbara</line>
+			<line>En esta Mission de San Augustin de la Ysleta en veinte</line>
+			<line>y ocho dias del mes the marzo baptise solemnemente</line>
+			<line>a Ana Maria (apacha de nacion) fue su madrina</line>
+			<line>Ysabel ytem a Barbara (apacha de nacion) fue</line>
+			<line>su madrina Maria Francisca para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_046">
+			<line>{left margin} Antonio de la Trinidad</line>
+			<line>En esta Mission de San Augustin de la Ysle-</line>
+			<line>ta en veinte y quatro de mayo de mil setecientos y</line>
+			<line>treinta y nuebe años baptise solemnemente a Antonio</line>
+			<line>de la Trinidad (apache de nacion) fue padrino</line>
+			<line>Francisco para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_047">
+			<line>{left margin} Santiago parbulo apache</line>
+			<line>En ocho dias del mes de septiembre de mil setecientos</line>
+			<line>y treinta y nuebe años (de lisentia parrochi) baptise</line>
+			<line>solemnemente a Santiago de nacion apache parbulo</line>
+			<line>fue su padrino Thadio de Torres y porque conste lo firme</line>
+			<line>en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Antonia Barbara parbula apacha</line>
+			<line>En ocho dias del mes de septiembre de mil setecientos y treinta y</line>
+			<line>nuebe años (de lisentia parrochi) baptise solemnemente a</line>
+			<line>Antonia Barbara parbula de nacion apacha hija de padres in-</line>
+			<line>fieles fue su padrino Joseph Nevares y por que conste lo firme</line>
+			<line>en dicho dia mes y año.</line>
+			<line>Fray Manuel Zambrano {rubric}</line>
+			<line>{left margin} Maria Thomasa</line>
+			<line>En esta Mission de San Augustin de la Ysleta di-</line>
+			<line>ez del mes de noviembre de mil setecientos y treinta y</line>
+			<line>nuebe años baptise solemnemente a Maria Thoma-</line>
+			<line>sa hija legitima de Ventura y de Jacinta fueron sus</line>
+			<line>padrinos Carlos y Chatalina gemes para que conste</line>
+			<line>lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_048">
+			<line>{left margin} Assensio Mariano</line>
+			<line>En esta Mission de San Augustin de la Ysleta en</line>
+			<line>doze dias del mes de diciembre de mil seteçientos y treinta y nue-</line>
+			<line>be años baptise solemnemente a Assensio Mariano</line>
+			<line>hijo legitimo de Antonio y de Pascuala indios fueron</line>
+			<line>sus padrinos Bernardo de Chavez y Maria Montoya</line>
+			<line>para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_051">
+			<line>{left margin} Antonio Pasqual</line>
+			<line>En esta Mission de San Agustin de la Ysleta en veinte</line>
+			<line>y quatro de abril de mil seteçientos y quarenta años bapti-</line>
+			<line>se solemnemente a Antonio Pasqual hijo legitimo de</line>
+			<line>Sebastian y de Quiteria fueron padrinos Antonio y Ma-</line>
+			<line>ria la Chata para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_053">
+			<line>{left margin} Juana Maria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en qua-</line>
+			<line>tro dias del mes de febrero de mil seteçientos y quarenta</line>
+			<line>y un años baptise solemnemente a Juana Maria hija</line>
+			<line>legitima de Raymundo Jojola y de Francisca fueron sus</line>
+			<line>padrinos Juan [Dirujan?] y Maria para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_053">
+			<line>{left margin} Roza Maria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en diez dias del</line>
+			<line>mes de julio de mil seteçientos y quarenta y un años baptise</line>
+			<line>solemnemente a Roza Maria hija legitima de Brianda</line>
+			<line>y de Bernardo fueron sus padrinos Luiz Chaves y la Agui-</line>
+			<line>lara para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Quiteria</line>
+			<line>En esta Mission de San Augustin de la Ysleta en on-</line>
+			<line>ze dias del mes de julio de mil seteçientos y quarenta y un</line>
+			<line>años baptise solemnemente a Quiteria hija legitima</line>
+			<line>de Ventura y de Ana fueron sus padrinos Diego Padilla</line>
+			<line>y Maria Luiza para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{left margin} Rosa</line>
+			<line>En esta Mission de San Agustin de la Ysleta en treinta</line>
+			<line>dias del mes de agosto de mil seteçientos y quarenta</line>
+			<line>y un años baptise solemnemente a Rosa Apacha</line>
+			<line>(pues abiendo veinte años que doña Ysabel Chaves le e-</line>
+			<line>cho el agua por omission de sus amos le faltaba las demas</line>
+			<line>ceremonias que ordena Nuestra Santa Madre de la Yglesia) fue</line>
+			<line>su madrina Maria La Guchuquiana para que conste lo</line>
+			<line>firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+		<surface facs="#FHL_007548705_IMG_054">
+			<line>{left margin} Maria de los Dolores coyota</line>
+			<line>En esta mission de San Augustin de la Ysleta en dies</line>
+			<line>y nuebe dias del mes de noviembre de mil seteçientos y quarenta y</line>
+			<line>un años baptise solemnemente a Maria de los Dolores</line>
+			<line>hija legitima de Quintana y de Petrona coyotes fueron</line>
+			<line>sus padrinos Cayetano Torres y Maria Gongora para que</line>
+			<line>conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+			<line>{margin} Maria Juliana</line>
+			<line>En esta mission de San Augustin de la Ysleta vein-</line>
+			<line>te y seis dias del mes de noviembre seteçientos y quarenta</line>
+			<line>y un años baptise solemnemente a Maria Juliana</line>
+			<line>hija legitima de Ventura y de Jasinta fue su madrina</line>
+			<line>Micaela para que conste lo firme ut supra.</line>
+			<line>Fray Carlos Delgado {rubric}</line>
+		</surface>
+	</sourceDoc>
+</TEI>
