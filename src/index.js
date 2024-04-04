@@ -1,5 +1,6 @@
 const path = require('path')
 const fs = require('fs')
+require('dotenv').config()
 
 const { processTEI } = require('./process')
 
@@ -12,8 +13,11 @@ function run(options) {
     // load the TEI file and process it
     const { targetPath, outputPath } = options
     const xml = fs.readFileSync(targetPath, "utf8")
-    const outputXML = processTEI(xml)
-    fs.writeFileSync(outputPath, outputXML, "utf8")
+    processTEI(xml).then((outputXML) => {
+        fs.writeFileSync(outputPath, outputXML, "utf8")
+    }).catch((err) => {
+        console.log(err)
+    })
 }
 
 function getResourceIDFromPath(targetPath) {
@@ -43,7 +47,7 @@ function processArguments() {
     }
     if( args[3] ) { 
         config.outputPath = processUserPath(args[3])
-        const resourceID = getResourceIDFromPath(targetPath)
+        const resourceID = getResourceIDFromPath(config.targetPath)
         if( resourceID ) {
             config.outputPath = `${config.outputPath}/${resourceID}.xml`
         }
@@ -61,11 +65,7 @@ function nbuGenAI() {
     if( options.mode === 'help' ) {
         displayHelp()
     } else {
-        run(options).then(() => {
-            console.log('NBU GenAI finished.')
-        }, (err) => {
-            console.log(`${err}: ${err.stack}`)
-        })
+        run(options)
     }
 }
 

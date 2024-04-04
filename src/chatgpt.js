@@ -1,34 +1,13 @@
-const { Configuration, OpenAIApi } = require("openai");
+const OpenAI = require("openai");
+const openai = new OpenAI({ apiKey: process.env.CHATGPT_API_KEY });
 
-// Set up the OpenAI API configuration
-const configuration = new Configuration({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+async function chatGPT(prompt) {
+  const completion = await openai.chat.completions.create({
+    messages: [{ role: "system", content: prompt }],
+    model: "gpt-3.5-turbo",
+  });
 
-// Create a new OpenAIApi instance with the configuration
-const openai = new OpenAIApi(configuration);
-
-async function chatgpt(prompt) {
-  try {
-    const response = await openai.createChatCompletion({
-      model: "gpt-4",
-      messages: [
-        {
-          role: "system",
-          content: "You are a helpful assistant.",
-        },
-        {
-          role: "user",
-          content: prompt,
-        },
-      ],
-    });
-
-    // Record the response
-    return response.data.choices[0].message.content
-  } catch (error) {
-    console.error("Error sending prompt to ChatGPT API:", error);
-  }
+  return completion.choices[0];
 }
 
-module.exports.chatgpt = chatgpt;
+module.exports.chatGPT = chatGPT;
