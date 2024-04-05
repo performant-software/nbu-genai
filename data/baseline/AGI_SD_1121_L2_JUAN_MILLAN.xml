@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>AGI_SD_1121_L2_JUAN_MILLAN</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://admin.nativeboundunbound.org/public/562a02e0-ffea-013b-67a0-6aa15c6e30ac/manifest?visit_id=7.3423576434702635" xml:id="images">
+		<surface xml:id="AGI_SD_1121_L2_085R" ulx="0" uly="0" lrx="818" lry="1166" sameAs="https://7418ae93-2c9f-4e56-9f98-fdba2d8bbee2/canvas/p1">
+			<label>085R</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/zgls9523vqcxxkxtmu1h2owrt04b;1"/>
+		</surface>
+		<surface xml:id="AGI_SD_1121_L2_085V" ulx="0" uly="0" lrx="818" lry="1166" sameAs="https://dd5f52fd-1b25-4c29-b947-63c4141bf251/canvas/p2">
+			<label>085V</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ji6ve5wkg4c2fd3949i0g9p8gw36;1"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="transcription">
+		<surface facs="#AGI_SD_1121_L2_085R">
+			<line>{right margin} 85</line>
+			<line>{center} La Reyna</line>
+			<line>{left margin} Garçia yndio</line>
+			<line>Lugartenyente de nuestro governador de la Ysla Fernandina llamada</line>
+			<line>Cuba Joan Myllan vezino desa ysla me ha hecho</line>
+			<line>relaçion que el tiene un yndio que se dize Garçia el</line>
+			<line>qual diz que si se casase seria muy buen cristiano</line>
+			<line>e me suplico le diese licencia para que se pudiese casar con</line>
+			<line>qualquier yndia quel quisiese que no fuese esclava quel</line>
+			<line>le haria casa y labrança en que biviese o como</line>
+			<line>la my merçed fuese e yo acatando lo susodicho tovelo</line>
+			<line>por bien por ende yo vos mando que proveays</line>
+		</surface>
+		<surface facs="#AGI_SD_1121_L2_085V">
+			<line>que al dicho Garçia yndio se le de la yndia quel</line>
+			<line>pidiere por muger para que se case y vele con ella a ley</line>
+			<line>y vendiçion como lo manda la Santa Madre Iglesia sin</line>
+			<line>que en ello nadie le ponga estorvo alguno con</line>
+			<line>tanto que la dicha yndia no sea esclava ny su pa-</line>
+			<line>rienta e no fagades ende al fecha en la villa</line>
+			<line>de Valladolid a ocho dias del mes de otubre de</line>
+			<line>myll e quinientos e treynta e seys años yo la Reyna</line>
+			<line>refrendada y señalada de los dichos.</line>
+		</surface>
+	</sourceDoc>
+</TEI>
