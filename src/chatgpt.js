@@ -7,7 +7,7 @@ async function chatGPT(prompt) {
     model: "gpt-4-turbo-preview",
   });
 
-  return completion.choices[0];
+  return completion.choices[0].message.content
 }
 
 module.exports.chatGPT = chatGPT;

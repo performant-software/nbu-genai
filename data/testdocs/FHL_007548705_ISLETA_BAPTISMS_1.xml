@@ -12,188 +12,339 @@
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
-	<facsimile sameAs="https://admin.nativeboundunbound.org/public/29bace80-af0e-013b-6a36-5e810cf25fdc/manifest?visit_id=1.80846725689143" xml:id="images">
-		<surface xml:id="FHL_007548705_IMG_012" ulx="0" uly="0" lrx="3558" lry="2926" sameAs="https://c5c214ac-01c7-403e-8045-dd9cbfd3521a/canvas/p1">
-			<label>012</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kv92h4i3wvnpyyfserlswojzdtr0;1"/>
-			<zone xml:id="FHL_007548705_IMG_012_L4" ulx="147.70188903808594" uly="1904.311279296875" lrx="1741.326904296875" lry="2197.322998046875"/>
-			<zone xml:id="FHL_007548705_IMG_012_L5" ulx="174.6111297607422" uly="2197.322998046875" lrx="1732.357177734375" lry="2612.92138671875"/>
-			<zone xml:id="FHL_007548705_IMG_012_R1" ulx="1814.2808837890625" uly="295.138671875" lrx="3437.80517578125" lry="1305.7301025390625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_013" ulx="0" uly="0" lrx="3549" lry="2908" sameAs="https://6d780b6d-7f42-4361-a906-6d123f25d23a/canvas/p3">
-			<label>013</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xrj22ql7aobhujk93iqenk67m9ar;1"/>
-			<zone xml:id="FHL_007548705_IMG_013_L2" ulx="180.13401794433594" uly="1385.406005859375" lrx="1798.9554443359375" lry="2148.888427734375"/>
-			<zone xml:id="FHL_007548705_IMG_013_L3" ulx="212.3435821533203" uly="2133.9765625" lrx="1781.0614013671875" lry="2611.153076171875"/>
-			<zone xml:id="FHL_007548705_IMG_013_L3CONT" ulx="1849.0592041015625" uly="240.182373046875" lrx="3438.6533203125" lry="559.294189453125"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_014" ulx="0" uly="0" lrx="3573" lry="2889" sameAs="https://74e0be35-c5f3-4b29-a334-5544082f66b5/canvas/p5">
-			<label>014</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/16roppp0br2pm7w080tfo5we1d3b;1"/>
-			<zone xml:id="FHL_007548705_IMG_014_L2" ulx="167.44488525390625" uly="819.1945190429688" lrx="1843.94873046875" lry="1426.8236083984375"/>
-			<zone xml:id="FHL_007548705_IMG_014_L3" ulx="188.89804077148438" uly="1398.76220703125" lrx="1846.068115234375" lry="2181.314697265625"/>
-			<zone xml:id="FHL_007548705_IMG_014_R1" ulx="1847.2955322265625" uly="535.8062744140625" lrx="3449.2265625" lry="1078.98974609375"/>
-			<zone xml:id="FHL_007548705_IMG_014_R2" ulx="1841.1578369140625" uly="1083.2861328125" lrx="3424.676025390625" lry="1721.603515625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_016" ulx="0" uly="0" lrx="3512" lry="2925" sameAs="https://6447c738-9be8-4458-be3b-d8d75d9b84c0/canvas/p7">
-			<label>016</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/88uodcpxjld0alsqsixvsys6li1j;1"/>
-			<zone xml:id="FHL_007548705_IMG_016_L3" ulx="188.29037475585938" uly="1845.5736083984375" lrx="1793.7760009765625" lry="2403.36181640625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_020" ulx="0" uly="0" lrx="3546" lry="2924" sameAs="https://005e5cf3-a94c-42e9-8815-54c66a651539/canvas/p9">
-			<label>020</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/5hod1cxp7txarotd48cp8s1flqij;1"/>
-			<zone xml:id="FHL_007548705_IMG_020_L1" ulx="182.41107177734375" uly="251.58700561523438" lrx="1817.7265625" lry="1070.6424560546875"/>
-			<zone xml:id="FHL_007548705_IMG_020_R2" ulx="1814.93115234375" uly="1294.8343505859375" lrx="3419.4970703125" lry="1865.0982666015625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_021" ulx="0" uly="0" lrx="3556" lry="2878" sameAs="https://99b28fff-2d7f-462d-b8fd-ebb56d5f1ec3/canvas/p11">
-			<label>021</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/6s90i48qe49ojji7xjhjtc1x5uqp;1"/>
-			<zone xml:id="FHL_007548705_IMG_021_R2" ulx="1821.6280517578125" uly="1137.188232421875" lrx="3429.298583984375" lry="1866.317626953125"/>
-			<zone xml:id="FHL_007548705_IMG_021_R3" ulx="1839.5576171875" uly="1848.98583984375" lrx="3420.333984375" lry="2557.197509765625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_022" ulx="0" uly="0" lrx="3603" lry="2929" sameAs="https://211fe076-54e3-4562-82e1-33b0aab12ac6/canvas/p13">
-			<label>022</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/wzzvk65uyn362qa1kmt5bcyc61o5;1"/>
-			<zone xml:id="FHL_007548705_IMG_022_L1" ulx="196.99044799804688" uly="254.81741333007812" lrx="1877.105224609375" lry="896.0612182617188"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_023" ulx="0" uly="0" lrx="3519" lry="2897" sameAs="https://ffdc9c1a-2078-4a95-b2e4-02b3f275ef19/canvas/p15">
-			<label>023</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/is28z2zi1fjc7fcitsstx8s5euxn;1"/>
-			<zone xml:id="FHL_007548705_IMG_023_L1" ulx="169.73985290527344" uly="236.07144165039062" lrx="1793.2113037109375" lry="910.300048828125"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_024" ulx="0" uly="0" lrx="3609" lry="2942" sameAs="https://5d86cd21-78e1-4ffb-ad8b-05b6bf6c814a/canvas/p17">
-			<label>024</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qmsemci902mtdqa0k1eqxpolk40x;1"/>
-			<zone xml:id="FHL_007548705_IMG_024_L2" ulx="231.6793212890625" uly="1181.2938232421875" lrx="1840.9241943359375" lry="1946.5791015625"/>
-			<zone xml:id="FHL_007548705_IMG_024_L3" ulx="190.96371459960938" uly="1824.111083984375" lrx="1825.9564208984375" lry="2635.17041015625"/>
-			<zone xml:id="FHL_007548705_IMG_024_R1" ulx="1868.86962890625" uly="280.1587219238281" lrx="3473.822998046875" lry="923.8566284179688"/>
-			<zone xml:id="FHL_007548705_IMG_024_R2" ulx="1843.1217041015625" uly="880.9434204101562" lrx="3516.736328125" lry="1507.47607421875"/>
-			<zone xml:id="FHL_007548705_IMG_024_R3" ulx="1804.4998779296875" uly="1408.7757568359375" lrx="3508.153564453125" lry="2069.638916015625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_025" ulx="0" uly="0" lrx="3663" lry="3049" sameAs="https://98a5fef7-5846-41d4-aae2-69e29b1b7e47/canvas/p19">
-			<label>025</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yxnl2zuh8jltt1oxcb5p28e5k1ci;1"/>
-			<zone xml:id="FHL_007548705_IMG_025_R1" ulx="1888.367919921875" uly="310.5867919921875" lrx="3511.293212890625" lry="997.3773193359375"/>
-			<zone xml:id="FHL_007548705_IMG_025_R2" ulx="1862.12109375" uly="940.50927734375" lrx="3528.791015625" lry="1474.193603515625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_027" ulx="0" uly="0" lrx="3554" lry="2925" sameAs="https://852ebfa3-23ec-46b9-b4c8-09f5bf9f862b/canvas/p21">
-			<label>027</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xsmnqih7zr5ic9qf6trdkjl2veef;1"/>
-			<zone xml:id="FHL_007548705_IMG_027_L4" ulx="194.2758331298828" uly="2080.974609375" lrx="1858.988037109375" lry="2686.97265625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_030" ulx="0" uly="0" lrx="3585" lry="2891" sameAs="https://ba59f71d-2521-4e34-bc96-811e84d4ac1c/canvas/p23">
-			<label>030</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/odljeo9q8hfr5rcsmkkz4o9l8798;1"/>
-			<zone xml:id="FHL_007548705_IMG_030_R5" ulx="1828.6988525390625" uly="1090.89892578125" lrx="3475.569580078125" lry="1392.945068359375"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_031" ulx="0" uly="0" lrx="3589" lry="2926" sameAs="https://860a0cf5-eb5b-49f7-9372-2f69a7143519/canvas/p25">
-			<label>031</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/1ie9xqsrqse1yx3c3ws7hnc2yt4q;1"/>
-			<zone xml:id="FHL_007548705_IMG_031_L10" ulx="207.7843780517578" uly="2273.001953125" lrx="1835.24560546875" lry="2669.3857421875"/>
-			<zone xml:id="FHL_007548705_IMG_031_L10CONT" ulx="1801.111572265625" uly="203.20944213867188" lrx="3443.818359375" lry="508.1202087402344"/>
-			<zone xml:id="FHL_007548705_IMG_031_R2" ulx="1802.7384033203125" uly="658.2504272460938" lrx="3462.3681640625" lry="920.3885498046875"/>
-			<zone xml:id="FHL_007548705_IMG_031_R3" ulx="1797.7666015625" uly="888.83203125" lrx="3481.00634765625" lry="1080.488037109375"/>
-			<zone xml:id="FHL_007548705_IMG_031_R7" ulx="1837.6973876953125" uly="1684.387451171875" lrx="3490.005126953125" lry="1965.1717529296875"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_032" ulx="0" uly="0" lrx="3569" lry="2846" sameAs="https://aca5bc4c-aa63-4de7-9752-06c75db3fa1a/canvas/p27">
-			<label>032</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/b8z5saxfgfr0fobktqob7gamgsk0;1"/>
-			<zone xml:id="FHL_007548705_IMG_032_L5" ulx="141.3997039794922" uly="1764.8651123046875" lrx="1831.03662109375" lry="2538.0888671875"/>
-			<zone xml:id="FHL_007548705_IMG_032_R2" ulx="1791.6595458984375" uly="737.47998046875" lrx="3466.9775390625" lry="1199.266357421875"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_034" ulx="0" uly="0" lrx="3605" lry="2996" sameAs="https://ddec06c5-db7b-47a5-bd54-68e40964ab4a/canvas/p29">
-			<label>034</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/tni6t8hhqwxr7bpavex923frwr4n;1"/>
-			<zone xml:id="FHL_007548705_IMG_034_R4" ulx="1813.3475341796875" uly="2128.96533203125" lrx="3483.869140625" lry="2725.580322265625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_035_CONT" ulx="0" uly="0" lrx="3712" lry="3094" sameAs="https://38c85579-c061-4b75-a4a9-2289f7b4b837/canvas/p1">
-			<label>035</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/s637nvv7r38rm2a4zaulxqsu1ivx;1"/>
-			<zone xml:id="FHL_007548705_IMG_035CONT" ulx="361.5943908691406" uly="239.3950653076172" lrx="1953.934326171875" lry="634.7596435546875"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_036" ulx="0" uly="0" lrx="3655" lry="2926" sameAs="https://9d4ccff3-832d-4559-b7c6-667fdb87f3f2/canvas/p31">
-			<label>036</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qldjf7x86vdc9g5e84o8r1ndfbhu;1"/>
-			<zone xml:id="FHL_007548705_IMG_036_L3" ulx="199.79689025878906" uly="1292.5311279296875" lrx="1911.81787109375" lry="1728.7847900390625"/>
-			<zone xml:id="FHL_007548705_IMG_036_L4" ulx="174.13490295410156" uly="1710.454833984375" lrx="1875.157958984375" lry="2286.0166015625"/>
-			<zone xml:id="FHL_007548705_IMG_036_R1" ulx="1849.4959716796875" uly="475.0135192871094" lrx="3517.525146484375" lry="1021.2472534179688"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_037" ulx="0" uly="0" lrx="3725" lry="3087" sameAs="https://25df72f6-34bd-4778-98b5-be7706b7c48a/canvas/p33">
-			<label>037</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/p7scdsagvmtfmeon2t8asln5xafa;1"/>
-			<zone xml:id="FHL_007548705_IMG_037_L1" ulx="270.8751220703125" uly="1268.8885498046875" lrx="1918.54296875" lry="1862.9456787109375"/>
-			<zone xml:id="FHL_007548705_IMG_037_L2" ulx="240.98544311523438" uly="1743.3870849609375" lrx="1877.4447021484375" lry="2516.7822265625"/>
-			<zone xml:id="FHL_007548705_IMG_037_R1" ulx="1974.586181640625" uly="372.1985778808594" lrx="3573.683349609375" lry="786.917724609375"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_039" ulx="0" uly="0" lrx="3624" lry="2939" sameAs="https://dccc39f7-a324-4fe1-a8db-581ffc36f7d5/canvas/p35">
-			<label>039</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/8yxi97lmbqzw46qnp6mpnbvftry5;1"/>
-			<zone xml:id="FHL_007548705_IMG_039_L1" ulx="223.54664611816406" uly="257.25927734375" lrx="1844.7142333984375" lry="867.9232788085938"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_041" ulx="0" uly="0" lrx="3630" lry="2923" sameAs="https://450f664f-ce6f-4dec-9313-9041d2df14f3/canvas/p37">
-			<label>041</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/7m3kmkphwvtlun707t8so7thqbfx;1"/>
-			<zone xml:id="FHL_007548705_IMG_041_L3" ulx="249.40318298339844" uly="1197.532958984375" lrx="1913.3048095703125" lry="1841.976318359375"/>
-			<zone xml:id="FHL_007548705_IMG_041_R3" ulx="1913.3048095703125" uly="1437.8338623046875" lrx="3511.669677734375" lry="2122.327392578125"/>
-			<zone xml:id="FHL_007548705_IMG_041_R4" ulx="1889.6387939453125" uly="2115.04541015625" lrx="3506.208251953125" lry="2613.851806640625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_042" ulx="0" uly="0" lrx="3658" lry="2898" sameAs="https://19e478c1-f434-4934-8871-73cfc606e0d8/canvas/p39">
-			<label>042</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qdevxwwc78e2bd2zemyahnw2vvm6;1"/>
-			<zone xml:id="FHL_007548705_IMG_042cont" ulx="205.03280639648438" uly="207.24266052246094" lrx="1876.5638427734375" lry="499.42083740234375"/>
-			<zone xml:id="FHL_007548705_IMG_042_L2" ulx="225.6439208984375" uly="797.751220703125" lrx="1876.697021484375" lry="1171.9898681640625"/>
-			<zone xml:id="FHL_007548705_IMG_042_L4" ulx="189.59693908691406" uly="1723.98583984375" lrx="1876.982666015625" lry="2524.267333984375"/>
-			<zone xml:id="FHL_007548705_IMG_042_R3" ulx="1880.365966796875" uly="1373.7852783203125" lrx="3498.39794921875" lry="2030.5374755859375"/>
-			<zone xml:id="FHL_007548705_IMG_042_R4" ulx="1917.0560302734375" uly="1968.1644287109375" lrx="3494.72900390625" lry="2602.902587890625"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_044" ulx="0" uly="0" lrx="3632" lry="2916" sameAs="https://c4be3693-ae07-4fca-a6f0-bca51aeca51b/canvas/p41">
-			<label>044</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/4rbh91fc0m8t3fgs7ugzm35k4fam;1"/>
-			<zone xml:id="FHL_007548705_IMG_044_L3" ulx="173.03912353515625" uly="1328.676025390625" lrx="1830.57177734375" lry="1988.046142578125"/>
-			<zone xml:id="FHL_007548705_IMG_044_R3" ulx="1859.7152099609375" uly="1321.3902587890625" lrx="3451.67529296875" lry="1958.90283203125"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_045" ulx="0" uly="0" lrx="3618" lry="2913" sameAs="https://36126d91-a082-4b23-80fe-5f60f34308e7/canvas/p43">
-			<label>045</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kgbnm9xx7290as7w4svw4qr04nvy;1"/>
-			<zone xml:id="FHL_007548705_IMG_045_R1" ulx="1859.8046875" uly="257.1529846191406" lrx="3474.659423828125" lry="779.7127075195312"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_046" ulx="0" uly="0" lrx="3636" lry="2827" sameAs="https://a3bbe011-c9f0-40dd-96f6-cda51cce8b35/canvas/p45">
-			<label>046</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kg8py46ch71j9kk8lq28ruvete7j;1"/>
-			<zone xml:id="FHL_007548705_IMG_046_L2" ulx="249.8154296875" uly="740.639404296875" lrx="1865.41015625" lry="1141.8028564453125"/>
-			<zone xml:id="FHL_007548705_IMG_046_L3" ulx="220.63990783691406" uly="1098.03955078125" lrx="1858.1162109375" lry="1484.615234375"/>
-			<zone xml:id="FHL_007548705_IMG_046_R4" ulx="1854.4693603515625" uly="1652.37451171875" lrx="3499.239501953125" lry="2286.942138671875"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_047" ulx="0" uly="0" lrx="3618" lry="2922" sameAs="https://bfa48440-73f5-4739-a424-43fe28b701b0/canvas/p47">
-			<label>047</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/q39oyxq5rb60sxdm4a8kfix1l914;1"/>
-			<zone xml:id="FHL_007548705_IMG_047_R1" ulx="1841.66015625" uly="305.19964599609375" lrx="3427.48388671875" lry="907.5949096679688"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_048" ulx="0" uly="0" lrx="3653" lry="2968" sameAs="https://fc31fb65-cf1b-4266-88c6-8770e838bc8d/canvas/p49">
-			<label>048</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/20nci07t8q1gn7v0siuvf5u860qw;1"/>
-			<zone xml:id="FHL_007548705_IMG_048_L2" ulx="287.6233825683594" uly="921.5772094726562" lrx="1899.7799072265625" lry="1416.2161865234375"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_051" ulx="0" uly="0" lrx="3573" lry="2885" sameAs="https://45a1c3a3-8018-4877-b5e8-117c8137a26b/canvas/p51">
-			<label>051</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ruj41uu2tavnp9wbd19tdlfm2rg9;1"/>
-			<zone xml:id="FHL_007548705_IMG_051_R1" ulx="1747.0784912109375" uly="139.806396484375" lrx="3431.44140625" lry="706.0390014648438"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_053" ulx="0" uly="0" lrx="3647" lry="2937" sameAs="https://91f775f1-0cd1-42a0-9171-5b1ed0275fd7/canvas/p53">
-			<label>053</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/aiwmij6ivaql9n4sqzp4k8zpt9vx;1"/>
-			<zone xml:id="FHL_007548705_IMG_053_L5" ulx="235.9393310546875" uly="1989.761474609375" lrx="1885.6856689453125" lry="2659.170654296875"/>
-			<zone xml:id="FHL_007548705_IMG_053_R1" ulx="1838.1319580078125" uly="226.61785888671875" lrx="3443.982666015625" lry="713.12841796875"/>
-			<zone xml:id="FHL_007548705_IMG_053_R3" ulx="1863.73779296875" uly="1009.42431640625" lrx="3498.852294921875" lry="1623.9639892578125"/>
-		</surface>
-		<surface xml:id="FHL_007548705_IMG_054" ulx="0" uly="0" lrx="3653" lry="2992" sameAs="https://f86e444f-f8c4-417d-9301-0ec5476a1610/canvas/p55">
-			<label>054</label>
-			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/2zw1gxqwsznglxlhsssvabxqla4e;1"/>
-			<zone xml:id="FHL_007548705_IMG_054_R1" ulx="1852.14794921875" uly="266.7306823730469" lrx="3478.96044921875" lry="757.7056274414062"/>
-			<zone xml:id="FHL_007548705_IMG_054_R3" ulx="1852.14794921875" uly="1065.48095703125" lrx="3555.904296875" lry="1571.11181640625"/>
-		</surface>
-	</facsimile>
+	<text xml:id="translation">
+		<body>
+			<pb facs="#FHL_007548705_IMG_012"/>
+			<div facs="#FHL_007548705_IMG_012_L4 #FHL_007548705_IMG_012_L5" sameAs="#event_1" type="Baptism">
+				<head>{left margin} Bárbara</head>
+				<head>{left margin} María Antonia</head>
+				<p>On the fifth day of the month of March of the year one thousand seven hundred and thirty: I solemnly baptized and placed the holy oils on the following individuals: . . . Also, Bárbara, adult woman of a gentile nation. Her godfather was Lorenzo Panadero. Also, María Antonia, adult woman of a gentile nation. Her godfather was Miguel Iullapuñu, and I signed it for the record, as stated above.</p>
+				<signed>Fray Pedro Montaño {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_012_R1" sameAs="#event_2" type="Baptism">
+				<head>{left margin} Bárbara</head>
+				<head>{left margin} María Asenciana</head>
+				<p>On the thirtieth day of the month of March of the year one thousand seven hundred and thirty: I solemnly baptized and placed the holy oils on the following individuals: Bárbara, adult woman of a gentile nation. The godparents were Gregory Chiguigui and María Quedap[ILL] María Asenciana, legitimate daughter of José Justo and Antonia de Jojola. Her godparents were Carlos and Agustina, and I signed it for the record, as stated above.</p>
+				<signed>Fray Pedro Montaño {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_013"/>
+			<div facs="#FHL_007548705_IMG_013_L2" sameAs="#event_3" type="Baptism">
+				<head>{left margin} Antonio</head>
+				<p>On the ninth day of the month of July of the year seven hundred and thirty: I solemnly baptized and placed the holy oils on Antonio, legitimate son of Antonio Gurulé and Teresa Gallegos. Her godparents were Bernabé Baca and Margarita Mata, and I signed it for the record, as stated above.</p>
+				<signed>Fray Pedro Montaño {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_013_L3 #FHL_007548705_IMG_013_L3CONT" sameAs="#event_4" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>On the fourteenth day of the month of July of the year one thousand seven hundred and thirty: I solemnly baptized and placed the holy oils on Antonia, Jumana, an adult woman. Her godparents were Don Antonio de Chávez and Doña Antonia Baca, and I signed it for the record, as stated above.</p>
+				<signed>Fray Pedro Montaño {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_014"/>
+			<div facs="#FHL_007548705_IMG_014_L2" sameAs="#event_0001" type="Baptism">
+				<head>{left margin} Barbara</head>
+				<p>At this Mission of San Agustín de la Isleta on the fifteenth day of the month of October of the year one thousand seven hundred and thirty: I solemnly baptized Bárbara, Apache. Her godmother was Micaela, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_014_L3" sameAs="#event_0002" type="Baptism">
+				<head>{left margin} Juan Pedro</head>
+				<p>At this Mission of San Agustín de la Isleta on the sixteenth day of the month of October of the year one thousand and thirty: I solemnly baptized Juan Pedro, legitimate child of Raymundo Jojola and Francisca. His godparents were Captain Juan González and Doña María López, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_014_R1" sameAs="#event_0003" type="Baptism">
+				<head>{left margin} Gertrudis</head>
+				<p>At this Mission of San Agustín de la Isleta on the fourth day of the month of December of the year one thousand seven hundred and thirty: I solemnly baptized Gertrudis, Apache. Her godmother was Doña Gertrudis, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado (rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_014_R2" sameAs="#event_0004" type="Baptism">
+				<head>{left margin} Catalina</head>
+				<p>At this Mission of San Agustín de la Isleta on the sixth day of the month of December of the year one thousand seven hundred and thirty: I solemnly baptized Catalina, Apache. Her godfather was Felipe Gallegos, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_016"/>
+			<div facs="#FHL_007548705_IMG_016_L3" sameAs="#event_0005" type="Baptism">
+				<head>{left margin} José</head>
+				<p>In this Mission of San Agustín de la Isleta on the third day of the month of May of the year one thousand seven hundred and thirty-one: I solemnly baptized José, Apache. His godfather was José Norey, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_020"/>
+			<div facs="#FHL_007548705_IMG_020_L1" sameAs="#event_0006" type="Baptism">
+				<head>{left margin} Juan Isidro</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-ninth day of the month of March of the year one thousand and thirty-two: I solemnly baptized Juan Isidro, legitimate son of Sebastián and Quiteria. His godparents were Juanico and Micaela, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_020_R2" sameAs="#event_0007" type="Baptism">
+				<head>{left margin} Pedro</head>
+				<p>At this Mission of San Agustín de la Isleta on the first of July of the year one thousand seven hundred and thirty-two: I solemnly baptized Pedro, son of unknown parents. His godparents were José Mariano and Micaela, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_021"/>
+			<div facs="#FHL_007548705_IMG_021_R2" sameAs="#event_0008" type="Baptism">
+				<head>{left margin} María Antonia</head>
+				<p>At this Mission of San Agustín de la Isleta on the seventh day of the month of September of the year one thousand seven hundred and thirty-two: I solemnly baptized María Antonia, Apache. Her godparents were Juan and María Antonia, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_021_R3" sameAs="#event_0009" type="Baptism">
+				<head>{left margin} Carlos</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-sixth day of the month of September of the year one thousand seven hundred and thirty-two: I solemnly baptized Carlos, son of gentile parents. His godparents were José Mariano and Micaela, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_022"/>
+			<div facs="#FHL_007548705_IMG_022_L1" sameAs="#event_0010" type="Baptism">
+				<head>{left margin} Miguel</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-sixth day of the month of September of the year one thousand seven hundred and thirty-two: I solemnly baptized Miguel, son of gentile parents. His godfather was Miguel, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_023"/>
+			<div facs="#FHL_007548705_IMG_023_L1" sameAs="#event_0011" type="Baptism">
+				<head>{left margin} Santiago</head>
+				<p>At this Mission of San Agustín de la Isleta on the twentieth day of the month of December of the year one thousand seven hundred and thirty-two: I baptized and placed the holy oils on Santiago, Apache. His godfather was Javier, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_024"/>
+			<div facs="#FHL_007548705_IMG_024_L2" sameAs="#event_0012" type="Baptism">
+				<head>{left margin} María de la Concepción</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-fifth day of the month of April of the year one thousand seven hundred and thirty-three: I solemnly baptized María de la Concepción, legitimate daughter of José, the Jumano Indian, and Angelina. Her godparents were Francisco and María la Guchuquiana, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_L3" sameAs="#event_0013" type="Baptism">
+				<head>{left margin} Juan Ambrosio</head>
+				<p>At this Mission of San Agustín de la Isleta on the second day of the month of May of the year one thousand seven hundred and thirty-three: I solemnly baptized Juan Ambrosio, son of unknown parents. His godparents were Matías and Juana, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_R1" sameAs="#event_0014" type="Baptism">
+				<head>{left margin} María Dorotea</head>
+				<p>At this Mission of San Agustín de la Isleta on the twentieth day of the month of May of the year one thousand seven hundred and thirty-three: I solemnly baptized María Dorotea, legitimate daughter of Raymundo Jojola and Francisca. Her godparents were Matías and Juana, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_R2" sameAs="#event_0015" type="Baptism">
+				<head>{left margin} María</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-seventh day of the month of May of the yar one thousand seven hundred and thirty-three: I solemnly baptized María in extreme unction, daughter of unknown parents. Her godmother was Micaela, and I signed it for the record, ut supra.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_024_R3" sameAs="#event_0016" type="Baptism">
+				<head>{left margin} Bárbara</head>
+				<p>At this Mission of San Agustín de la Isleta on the thirty-first day of the month of May of the year one thousand seven hundred and thirty-three: I baptized Bárbara in extreme need, Apache. Her godmother was María, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_025"/>
+			<div facs="#FHL_007548705_IMG_025_R1" sameAs="#event_0017" type="Baptism">
+				<head>{left margin} Juan de la Cruz</head>
+				<p>At this Mission of San Agustín de la Isleta on the twentieth day of the month of July of the year one thousand seven hundred and thirty-three: I solemnly baptized Juan de la Cruz, son of unknown parents. His godparents were Captain Juan González and Doña María López, and I signed it for the record, ut supra.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_025_R2" sameAs="#event_0018" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-seventh day of the month of July of the year one thousand seven hundred and thirty-three: I baptized and placed the holy oils on Antonia, Apache. Her godfather was Antonio Montoya, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_027"/>
+			<div facs="#FHL_007548705_IMG_027_L4" sameAs="#event_0019" type="Baptism">
+				<head>{left margin} María Josefa</head>
+				<p>At this Mission of San Agustín de la Isleta on the fourteenth day of the month of February of the year one thousand seven hundred and thirty-four: I solemnly baptized María Josefa, Apache. Her godparents were Juanico and Micaela, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_030"/>
+			<div facs="#FHL_007548705_IMG_030_R5" sameAs="#event_0020" type="Baptism">
+				<head>{left margin} Tomás</head>
+				<p>On the eighteenth day of the month of September of the year one thousand seven hundred and thirty-five: I solemnly baptized Tomás de Villanueva, legitimate son of José Fernández and Angelina. His godparents were Felipe Romero and Francisca Góngora, and I signed it for the record on said day, month, and year.</p>
+				<signed>Fray Manuel Zambrano {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_031"/>
+			<div facs="#FHL_007548705_IMG_031_L10 #FHL_007548705_IMG_031_L10CONT" sameAs="#event_0021" type="Baptism">
+				<head>{left margin} Manuela</head>
+				<p>With permission of the parish priest on the twenty-ninth of March of the year one thousand seven hundred and thirty-three: I solemnly baptized Manuela, an adult Apache woman. Her godmother was María, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_031_R2" sameAs="#event_0022" type="Baptism">
+				<head>{left margin} María de los Dolores</head>
+				<p>On the eighth day of the month of April of the year one thousand seven hundred and thirty-six: I solemnly baptized María de los Dolores, legitimate daughter of Raymundo Jojola and Francisca. The godparents were José Romero and Doña Ana de Chávez, and I signed it for the record on said day, month, and year.</p>
+				<signed>Fray Manuel Zambrano {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_031_R3" sameAs="#event_0023" type="Baptism">
+				<head>{left margin} María Josefa</head>
+				<p>On the twenty-second day of the month of April of the year one thousand seven hundred and thirty-six: I solemnly baptized María Josefa, daughter of unknown parents. Her godmother was Agustina Jojola, and I signed it for the record on said day, month, and year.</p>
+				<signed>Fray Manuel Zambrano {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_031_R7" sameAs="#event_0024" type="Baptism">
+				<head>{left margin} Juan Isidro</head>
+				<p>On the fourteenth day of the month of May of the year one thousand seven hundred and thirty-six: I solemnly baptized Juan Isidro, legitimate son of Bonifacio [Lucero?] and Bárbara Feliciano. The godparents were José [Norcí?] and Micaela Montoya, and I signed it for the record on said day, month, and year.</p>
+				<signed>Fray Manuel Zambrano {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_032"/>
+			<div facs="#FHL_007548705_IMG_032_L5" sameAs="#event_0025" type="Baptism">
+				<head>{left margin} María</head>
+				<p>On the twenty-fifth day of the month of November of the year one thousand seven hundred and thirty-six: I baptized and placed the holy oils on María, Apache. Her godmother was Juana María, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_032_R2" sameAs="#event_0026" type="Baptism">
+				<head>{left margin} Agustín</head>
+				<p>At this Mission of San Agustín de la Isleta on the eighth day of the month of December of the year one thousand seven hundred and thirty-six: I solemnly baptized Agustín, Apache. His godparent was Micaela, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_034"/>
+			<div facs="#FHL_007548705_IMG_034_R4 #FHL_007548705_IMG_035CONT" sameAs="#event_0027" type="Baptism">
+				<head>{left margin} José Antonio</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-fourth day of March of the year one thousand seven hundred and thirty-seven: I solemnly baptized José Antonio, legitimate son of Ana and Ventura. His godparents were Gerónimo Jirón and Damiana, and</p>
+				<pb facs="#FHL_007548705_IMG_035_CONT"/>
+				<p>I signed it for the record, as stated above.</p>
+				<p>Fray Carlos Delgado {rubric}</p>
+			</div>
+			<pb facs="#FHL_007548705_IMG_036"/>
+			<div facs="#FHL_007548705_IMG_036_L3" sameAs="#event_0028" type="Baptism">
+				<head>{left margin} Antonio</head>
+				<p>At Mission of San Agustín de la Isleta on the twenty-second day of the month of June of the year one thousand seven hundred and thirty-seven: With permission of the parish priest, I solemnly baptized and placed the holy oils and chrism on Antonio, coyote, son of unknown parents. His godmother was María Jémez, and I signed it for the record at said mission on said day, month, and year.</p>
+				<signed>Fray Juan José de Oronzoro {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_036_L4" sameAs="#event_0029" type="Baptism">
+				<head>{left margin} María de la Asención</head>
+				<p>At this Mission of San Agustín de la Isleta on the fifth day of the month of July of the year one thousand seven hundred and thirty-seven: I put holy water on María de la Asención, Apache, due to her extreme need. Her godparent was Rosa Holguín, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_036_R1" sameAs="#event_0030" type="Baptism">
+				<head>{left margin} Santiago</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-sixth day of the month of July of the year one thousand seven hundred and thirty-seven: I solemnly baptized Santiago, legitimate son of Sebastián and Quiteria. The godparent was María la Guchiquiana, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_037"/>
+			<div facs="#FHL_007548705_IMG_037_L1" sameAs="#event_0031" type="Baptism">
+				<head>{left margin} Juan Antonio</head>
+				<p>At this Mission of San Agustín de la Isleta on the sixth day of the month of September of the year one thousand seven hundred and thirty-seven: I put holy water on Juan Antonio, Apache, due to extreme need. His godparent was Rosa de Holguín, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_037_L2" sameAs="#event_0032" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>At this Mission of San Agustín de la Isleta on the fourth day of the month of October of the year one thousand seven hundred and thirty-seven: I solemnly baptized Antonia, Apache. Her godfather was Antonio, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_037_R1" sameAs="#event_0033" type="Baptism">
+				<head>{left margin} Agustina and Catarina, Apaches</head>
+				<p>At the town and Mission of San Agustín de la Isleta on the eighth day of the month of November of the year one thousand seven hundred and thirty-seven: I solemnly baptized and placed the holy oils and chrism on Agustina, adult Apache woman, whose godmother was Gertrudis de Peralta, and Catarina, also an adult Apache woman, whose godmother was Catarina, and I signed it for the record at said town and mission on said day, month, and year.</p>
+				<signed>Fray Juan José de Oronzoro {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_039"/>
+			<div facs="#FHL_007548705_IMG_039_L1" sameAs="#event_0034" type="Baptism">
+				<head>{left margin} Catalina</head>
+				<p>At this Mission of San Agustín de la Isleta on the second day of the month of March of the year one thousand seven hundred and thirty-eight: I solemnly baptized Catalina, Apache. Her godmother was Juana María, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_041"/>
+			<div facs="#FHL_007548705_IMG_041_L3" sameAs="#event_0035" type="Baptism">
+				<head>{left margin} Antonia</head>
+				<p>At this Mission of San Agustín de la Isleta on the second day of August of the year one thousand seven hundred and thirty-eight: I solemnly baptized Antonia, Apache. Her godfather was Lorenzo, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_041_R3" sameAs="#event_0036" type="Baptism">
+				<head>{left margin} Tomás</head>
+				<p>At this Mission of San Agustín de la Isleta on the twentieth day of the month of September of the year one thousand seven hundred and thirty-eight: I solemnly baptized Tomás, legitimate son of Raymundo Jojola and Francisca. His godparents were Diego Domingo and Doña Juana de Chávez, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_041_R4 #FHL_007548705_IMG_042cont" sameAs="#event_0037" type="Baptism">
+				<head>{left margin} Juan José</head>
+				<p>At this Mission of San Agustín de la Isleta on the fifth day of the month of October of the year one thousand seven hundred and thirty-eight: I solemnly baptized Juan José, son of unknown parents. His godparent was Doña Isabel Baca, and I signed it</p>
+				<pb facs="#FHL_007548705_IMG_042"/>
+				<p>for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_L2" sameAs="#event_0038" type="Baptism">
+				<head>{left margin} Maria Rosaura</head>
+				<p>On the nineteenth day of the month of October of the year one thousand seven hundred and thirty-eight: I solemnly baptized María Rosaura, legitimate daughter of Antonio and María, Comanches. Her godparents were Ventura and Jacinta Baca, and I signed it for the record, ut supra.</p>
+				<signed>Fray José Mariano López {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_L4" sameAs="#event_0039" type="Baptism">
+				<head>{left margin} Crisóstomo</head>
+				<p>At this Mission of San Agustín de la Isleta on the seventh day of the month of November of the year one thousand seven hundred and thirty-eight: I solemnly baptized Juan Crisóstomo, legitimate son of Francisco Caraquis and María. His godparents were Salvador and María, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_R3" sameAs="#event_0040" type="Baptism">
+				<head>{left margin} Maria, Juan Antonio, Cristóbal, Juan, Josefa</head>
+				<p>At this Mission of San Agustín de la Isleta on the seventeenth day of the month of November of the year one thousand seven hundred and thirty-eight: I solemnly baptized the following individuals: María, Juan Antonio, Cristóbal, Juan, Josefa, all Apaches. The godfather for all of them was Antonio de Ulibarrí, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_042_R4" sameAs="#event_0041" type="Baptism">
+				<head>{left margin} Jacinta Úrsula</head>
+				<p>At this Mission of San Agustín de la Isleta on the nineteenth day of the month of November of the year one thousand seven hundred and thirty-eight: I solemnly baptized Jacinta Úrsula, legitimate daughter of Bonifacio and Bárbara. Her godparents were Raymundo and Francisca, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_044"/>
+			<div facs="#FHL_007548705_IMG_044_L3" sameAs="#event_0042" type="Baptism">
+				<head>{left margin} Bárbara Antonia</head>
+				<p>At this Mission of San Agustín de la Isleta on the seventh day of the month of March of the year one thousand seven hundred and thirty-nine: I solemnly baptized Bárbara Antonia, Apache. Her godmother was Catalina Jémez and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_044_R3" sameAs="#event_0043" type="Baptism">
+				<head>{left margin} Ana María</head>
+				<head>{left margin} Bárbara</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-eighth day of the month of March: I solemnly baptized Ana María, Apache. Her godmother was Isabel. Also, I baptized Bárbara, Apache. Her godmother was María Francisca, and I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_045"/>
+			<div facs="#FHL_007548705_IMG_045_R1" sameAs="#event_0044" type="Baptism">
+				<head>{left margin} Antonio de la Trinidad</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-fourth of May of the year one thousand seven hundred and thirty-nine: I solemnly baptized Antonio de la Trinidad, Apache. His godfather was Francisco. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_046"/>
+			<div facs="#FHL_007548705_IMG_046_L2" sameAs="#event_0045" type="Baptism">
+				<head>{left margin} Santiago, Apache infant</head>
+				<p>On the eighth day of the month of September of the year one thousand seven hundred and thirty-nine: With permission of the parish priest, I solemnly baptized Santiago, Apache infant. His godfather was Tadeo de Torres, and I signed it for the record on said day, month, and year.</p>
+				<signed>Fray Manuel Zambrano {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_046_L3" sameAs="#event_0046" type="Baptism">
+				<head>{left margin} Antonia Barbara, Apache infant</head>
+				<p>On the eighth day of the month of September of the year one thousand seven hundred and thirty-eight: With the permission of the parish priest, I solemnly baptized Antonia Bárbara, an infant girl of the Apache nation, the daughter of infidel parents. Her godfather was José Nevárez, and I signed it for the record on said day, month, and year.</p>
+				<signed>Fray Manuel Zambrano {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_046_R4" sameAs="#event_0047" type="Baptism">
+				<head>{left margin} María Tomasa</head>
+				<p>At this Mission of San Agustín de la Isleta on the tenth of November of the year one thousand seven hundred and thirty-nine: I solemnly baptized María Tomasa, legitimate daughter of Ventura and Jacinta. Her godparents were Carlos and Catalina Jémez. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_047"/>
+			<div facs="#FHL_007548705_IMG_047_R1" sameAs="#event_0048" type="Baptism">
+				<head>{left margin} Asencio Mariano</head>
+				<p>At this Mission of San Agustín de la Isleta on the twelfth day of the month of December of the year one thousand seven hundred and thirty-nine: I solemnly baptized Asencio Mariano, legitimate son of Antonio and Pascuala, Indians. His godparents were Bernardo de Chávez and María Montoya. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_048"/>
+			<div facs="#FHL_007548705_IMG_048_L2" sameAs="#event_0049" type="Baptism">
+				<head>{left margin} Antonio Pascual</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-fourth of April of the year one thousand seven hundred and forty: I solemnly baptized Antonio Pascual, legitimate son of Sebastián and Quiteria. The godparents were Antonio and María la Chata. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_051"/>
+			<div facs="#FHL_007548705_IMG_051_R1" sameAs="#event_0050" type="Baptism">
+				<head>{left margin} Juana María</head>
+				<p>At this Mission of San Agustín de la Isleta on the fourth day of the month of February of the year one thousand seven hundred and forty-one: I solemnly baptized Juana María, legitimate daughter of Raymundo Jojola and Francisca. Her godparents were Juan [Dirujan?] and María. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_053"/>
+			<div facs="#FHL_007548705_IMG_053_L5" sameAs="#event_0051" type="Baptism">
+				<head>{left margin} Rosa María</head>
+				<p>At this Mission of San Agustín de la Isleta on the tenth day of the month of July of the year one thousand seven hundred and forty-one: I solemnly baptized Rosa María, legitimate daughter of Brianda and Bernardo. Her godparents were Luis Chávez and La Aguilara. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_053_R1" sameAs="#event_0052" type="Baptism">
+				<head>{left margin} Quiteria</head>
+				<p>At this Mission of San Agustín de la Isleta on the eleventh day of the month of July of the year one thousand seven hundred and forty-one: I solemnly baptized Quiteria, legitimate daughter of Ventura and Ana. Her godparents were Diego Padilla and María Luisa. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_053_R3" sameAs="#event_0053" type="Baptism">
+				<head>{left margin} Rosa</head>
+				<p>At this Mission of San Agustín de la Isleta on the thirtieth day of the month of August of the year one thousand seven hundred and forty-one: I solemnly baptized Rosa, an Apache woman (it had been twenty years since Doña Isabel Chávez had holy water placed on her, but the other ceremonies that our Holy Mother Church orders had not taken place). Her godmother was María la Guchuquiana. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<pb facs="#FHL_007548705_IMG_054"/>
+			<div facs="#FHL_007548705_IMG_054_R1" sameAs="#event_0054" type="Baptism">
+				<head>{left margin} María de los Dolores, coyota</head>
+				<p>At this Mission of San Agustín de la Isleta on the nineteenth day of the month of November of the year one thousand seven hundred and forty-one: I solemnly baptized María de los Dolores, legitimate daughter of Quintana and Petrona, coyotes. Her godparents were Cayetano Torres and María Góngora. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+			<div facs="#FHL_007548705_IMG_054_R3" sameAs="#event_0055" type="Baptism">
+				<head>{margin} María Juliana</head>
+				<p>At this Mission of San Agustín de la Isleta on the twenty-sixth day of the month of November of the year one thousand seven hundred and forty-one: I solemnly baptized María Juliana, legitimate daughter of Ventura and Jacinta. Her godmother was Micaela. I signed it for the record, as stated above.</p>
+				<signed>Fray Carlos Delgado {rubric}</signed>
+			</div>
+		</body>
+	</text>
 	<sourceDoc xml:id="transcription">
 		<surface facs="#FHL_007548705_IMG_012">
 			<line>{left margin} Barbara</line>
@@ -700,4 +851,186 @@
 			<line>Fray Carlos Delgado {rubric}</line>
 		</surface>
 	</sourceDoc>
+	<facsimile sameAs="https://admin.nativeboundunbound.org/public/29bace80-af0e-013b-6a36-5e810cf25fdc/manifest?visit_id=1.80846725689143" xml:id="images">
+		<surface xml:id="FHL_007548705_IMG_012" ulx="0" uly="0" lrx="3558" lry="2926" sameAs="https://c5c214ac-01c7-403e-8045-dd9cbfd3521a/canvas/p1">
+			<label>012</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kv92h4i3wvnpyyfserlswojzdtr0;1"/>
+			<zone xml:id="FHL_007548705_IMG_012_L4" ulx="147.70188903808594" uly="1904.311279296875" lrx="1741.326904296875" lry="2197.322998046875"/>
+			<zone xml:id="FHL_007548705_IMG_012_L5" ulx="174.6111297607422" uly="2197.322998046875" lrx="1732.357177734375" lry="2612.92138671875"/>
+			<zone xml:id="FHL_007548705_IMG_012_R1" ulx="1814.2808837890625" uly="295.138671875" lrx="3437.80517578125" lry="1305.7301025390625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_013" ulx="0" uly="0" lrx="3549" lry="2908" sameAs="https://6d780b6d-7f42-4361-a906-6d123f25d23a/canvas/p3">
+			<label>013</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xrj22ql7aobhujk93iqenk67m9ar;1"/>
+			<zone xml:id="FHL_007548705_IMG_013_L2" ulx="180.13401794433594" uly="1385.406005859375" lrx="1798.9554443359375" lry="2148.888427734375"/>
+			<zone xml:id="FHL_007548705_IMG_013_L3" ulx="212.3435821533203" uly="2133.9765625" lrx="1781.0614013671875" lry="2611.153076171875"/>
+			<zone xml:id="FHL_007548705_IMG_013_L3CONT" ulx="1849.0592041015625" uly="240.182373046875" lrx="3438.6533203125" lry="559.294189453125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_014" ulx="0" uly="0" lrx="3573" lry="2889" sameAs="https://74e0be35-c5f3-4b29-a334-5544082f66b5/canvas/p5">
+			<label>014</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/16roppp0br2pm7w080tfo5we1d3b;1"/>
+			<zone xml:id="FHL_007548705_IMG_014_L2" ulx="167.44488525390625" uly="819.1945190429688" lrx="1843.94873046875" lry="1426.8236083984375"/>
+			<zone xml:id="FHL_007548705_IMG_014_L3" ulx="188.89804077148438" uly="1398.76220703125" lrx="1846.068115234375" lry="2181.314697265625"/>
+			<zone xml:id="FHL_007548705_IMG_014_R1" ulx="1847.2955322265625" uly="535.8062744140625" lrx="3449.2265625" lry="1078.98974609375"/>
+			<zone xml:id="FHL_007548705_IMG_014_R2" ulx="1841.1578369140625" uly="1083.2861328125" lrx="3424.676025390625" lry="1721.603515625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_016" ulx="0" uly="0" lrx="3512" lry="2925" sameAs="https://6447c738-9be8-4458-be3b-d8d75d9b84c0/canvas/p7">
+			<label>016</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/88uodcpxjld0alsqsixvsys6li1j;1"/>
+			<zone xml:id="FHL_007548705_IMG_016_L3" ulx="188.29037475585938" uly="1845.5736083984375" lrx="1793.7760009765625" lry="2403.36181640625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_020" ulx="0" uly="0" lrx="3546" lry="2924" sameAs="https://005e5cf3-a94c-42e9-8815-54c66a651539/canvas/p9">
+			<label>020</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/5hod1cxp7txarotd48cp8s1flqij;1"/>
+			<zone xml:id="FHL_007548705_IMG_020_L1" ulx="182.41107177734375" uly="251.58700561523438" lrx="1817.7265625" lry="1070.6424560546875"/>
+			<zone xml:id="FHL_007548705_IMG_020_R2" ulx="1814.93115234375" uly="1294.8343505859375" lrx="3419.4970703125" lry="1865.0982666015625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_021" ulx="0" uly="0" lrx="3556" lry="2878" sameAs="https://99b28fff-2d7f-462d-b8fd-ebb56d5f1ec3/canvas/p11">
+			<label>021</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/6s90i48qe49ojji7xjhjtc1x5uqp;1"/>
+			<zone xml:id="FHL_007548705_IMG_021_R2" ulx="1821.6280517578125" uly="1137.188232421875" lrx="3429.298583984375" lry="1866.317626953125"/>
+			<zone xml:id="FHL_007548705_IMG_021_R3" ulx="1839.5576171875" uly="1848.98583984375" lrx="3420.333984375" lry="2557.197509765625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_022" ulx="0" uly="0" lrx="3603" lry="2929" sameAs="https://211fe076-54e3-4562-82e1-33b0aab12ac6/canvas/p13">
+			<label>022</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/wzzvk65uyn362qa1kmt5bcyc61o5;1"/>
+			<zone xml:id="FHL_007548705_IMG_022_L1" ulx="196.99044799804688" uly="254.81741333007812" lrx="1877.105224609375" lry="896.0612182617188"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_023" ulx="0" uly="0" lrx="3519" lry="2897" sameAs="https://ffdc9c1a-2078-4a95-b2e4-02b3f275ef19/canvas/p15">
+			<label>023</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/is28z2zi1fjc7fcitsstx8s5euxn;1"/>
+			<zone xml:id="FHL_007548705_IMG_023_L1" ulx="169.73985290527344" uly="236.07144165039062" lrx="1793.2113037109375" lry="910.300048828125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_024" ulx="0" uly="0" lrx="3609" lry="2942" sameAs="https://5d86cd21-78e1-4ffb-ad8b-05b6bf6c814a/canvas/p17">
+			<label>024</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qmsemci902mtdqa0k1eqxpolk40x;1"/>
+			<zone xml:id="FHL_007548705_IMG_024_L2" ulx="231.6793212890625" uly="1181.2938232421875" lrx="1840.9241943359375" lry="1946.5791015625"/>
+			<zone xml:id="FHL_007548705_IMG_024_L3" ulx="190.96371459960938" uly="1824.111083984375" lrx="1825.9564208984375" lry="2635.17041015625"/>
+			<zone xml:id="FHL_007548705_IMG_024_R1" ulx="1868.86962890625" uly="280.1587219238281" lrx="3473.822998046875" lry="923.8566284179688"/>
+			<zone xml:id="FHL_007548705_IMG_024_R2" ulx="1843.1217041015625" uly="880.9434204101562" lrx="3516.736328125" lry="1507.47607421875"/>
+			<zone xml:id="FHL_007548705_IMG_024_R3" ulx="1804.4998779296875" uly="1408.7757568359375" lrx="3508.153564453125" lry="2069.638916015625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_025" ulx="0" uly="0" lrx="3663" lry="3049" sameAs="https://98a5fef7-5846-41d4-aae2-69e29b1b7e47/canvas/p19">
+			<label>025</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yxnl2zuh8jltt1oxcb5p28e5k1ci;1"/>
+			<zone xml:id="FHL_007548705_IMG_025_R1" ulx="1888.367919921875" uly="310.5867919921875" lrx="3511.293212890625" lry="997.3773193359375"/>
+			<zone xml:id="FHL_007548705_IMG_025_R2" ulx="1862.12109375" uly="940.50927734375" lrx="3528.791015625" lry="1474.193603515625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_027" ulx="0" uly="0" lrx="3554" lry="2925" sameAs="https://852ebfa3-23ec-46b9-b4c8-09f5bf9f862b/canvas/p21">
+			<label>027</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xsmnqih7zr5ic9qf6trdkjl2veef;1"/>
+			<zone xml:id="FHL_007548705_IMG_027_L4" ulx="194.2758331298828" uly="2080.974609375" lrx="1858.988037109375" lry="2686.97265625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_030" ulx="0" uly="0" lrx="3585" lry="2891" sameAs="https://ba59f71d-2521-4e34-bc96-811e84d4ac1c/canvas/p23">
+			<label>030</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/odljeo9q8hfr5rcsmkkz4o9l8798;1"/>
+			<zone xml:id="FHL_007548705_IMG_030_R5" ulx="1828.6988525390625" uly="1090.89892578125" lrx="3475.569580078125" lry="1392.945068359375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_031" ulx="0" uly="0" lrx="3589" lry="2926" sameAs="https://860a0cf5-eb5b-49f7-9372-2f69a7143519/canvas/p25">
+			<label>031</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/1ie9xqsrqse1yx3c3ws7hnc2yt4q;1"/>
+			<zone xml:id="FHL_007548705_IMG_031_L10" ulx="207.7843780517578" uly="2273.001953125" lrx="1835.24560546875" lry="2669.3857421875"/>
+			<zone xml:id="FHL_007548705_IMG_031_L10CONT" ulx="1801.111572265625" uly="203.20944213867188" lrx="3443.818359375" lry="508.1202087402344"/>
+			<zone xml:id="FHL_007548705_IMG_031_R2" ulx="1802.7384033203125" uly="658.2504272460938" lrx="3462.3681640625" lry="920.3885498046875"/>
+			<zone xml:id="FHL_007548705_IMG_031_R3" ulx="1797.7666015625" uly="888.83203125" lrx="3481.00634765625" lry="1080.488037109375"/>
+			<zone xml:id="FHL_007548705_IMG_031_R7" ulx="1837.6973876953125" uly="1684.387451171875" lrx="3490.005126953125" lry="1965.1717529296875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_032" ulx="0" uly="0" lrx="3569" lry="2846" sameAs="https://aca5bc4c-aa63-4de7-9752-06c75db3fa1a/canvas/p27">
+			<label>032</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/b8z5saxfgfr0fobktqob7gamgsk0;1"/>
+			<zone xml:id="FHL_007548705_IMG_032_L5" ulx="141.3997039794922" uly="1764.8651123046875" lrx="1831.03662109375" lry="2538.0888671875"/>
+			<zone xml:id="FHL_007548705_IMG_032_R2" ulx="1791.6595458984375" uly="737.47998046875" lrx="3466.9775390625" lry="1199.266357421875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_034" ulx="0" uly="0" lrx="3605" lry="2996" sameAs="https://ddec06c5-db7b-47a5-bd54-68e40964ab4a/canvas/p29">
+			<label>034</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/tni6t8hhqwxr7bpavex923frwr4n;1"/>
+			<zone xml:id="FHL_007548705_IMG_034_R4" ulx="1813.3475341796875" uly="2128.96533203125" lrx="3483.869140625" lry="2725.580322265625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_035_CONT" ulx="0" uly="0" lrx="3712" lry="3094" sameAs="https://38c85579-c061-4b75-a4a9-2289f7b4b837/canvas/p1">
+			<label>035</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/s637nvv7r38rm2a4zaulxqsu1ivx;1"/>
+			<zone xml:id="FHL_007548705_IMG_035CONT" ulx="361.5943908691406" uly="239.3950653076172" lrx="1953.934326171875" lry="634.7596435546875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_036" ulx="0" uly="0" lrx="3655" lry="2926" sameAs="https://9d4ccff3-832d-4559-b7c6-667fdb87f3f2/canvas/p31">
+			<label>036</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qldjf7x86vdc9g5e84o8r1ndfbhu;1"/>
+			<zone xml:id="FHL_007548705_IMG_036_L3" ulx="199.79689025878906" uly="1292.5311279296875" lrx="1911.81787109375" lry="1728.7847900390625"/>
+			<zone xml:id="FHL_007548705_IMG_036_L4" ulx="174.13490295410156" uly="1710.454833984375" lrx="1875.157958984375" lry="2286.0166015625"/>
+			<zone xml:id="FHL_007548705_IMG_036_R1" ulx="1849.4959716796875" uly="475.0135192871094" lrx="3517.525146484375" lry="1021.2472534179688"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_037" ulx="0" uly="0" lrx="3725" lry="3087" sameAs="https://25df72f6-34bd-4778-98b5-be7706b7c48a/canvas/p33">
+			<label>037</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/p7scdsagvmtfmeon2t8asln5xafa;1"/>
+			<zone xml:id="FHL_007548705_IMG_037_L1" ulx="270.8751220703125" uly="1268.8885498046875" lrx="1918.54296875" lry="1862.9456787109375"/>
+			<zone xml:id="FHL_007548705_IMG_037_L2" ulx="240.98544311523438" uly="1743.3870849609375" lrx="1877.4447021484375" lry="2516.7822265625"/>
+			<zone xml:id="FHL_007548705_IMG_037_R1" ulx="1974.586181640625" uly="372.1985778808594" lrx="3573.683349609375" lry="786.917724609375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_039" ulx="0" uly="0" lrx="3624" lry="2939" sameAs="https://dccc39f7-a324-4fe1-a8db-581ffc36f7d5/canvas/p35">
+			<label>039</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/8yxi97lmbqzw46qnp6mpnbvftry5;1"/>
+			<zone xml:id="FHL_007548705_IMG_039_L1" ulx="223.54664611816406" uly="257.25927734375" lrx="1844.7142333984375" lry="867.9232788085938"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_041" ulx="0" uly="0" lrx="3630" lry="2923" sameAs="https://450f664f-ce6f-4dec-9313-9041d2df14f3/canvas/p37">
+			<label>041</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/7m3kmkphwvtlun707t8so7thqbfx;1"/>
+			<zone xml:id="FHL_007548705_IMG_041_L3" ulx="249.40318298339844" uly="1197.532958984375" lrx="1913.3048095703125" lry="1841.976318359375"/>
+			<zone xml:id="FHL_007548705_IMG_041_R3" ulx="1913.3048095703125" uly="1437.8338623046875" lrx="3511.669677734375" lry="2122.327392578125"/>
+			<zone xml:id="FHL_007548705_IMG_041_R4" ulx="1889.6387939453125" uly="2115.04541015625" lrx="3506.208251953125" lry="2613.851806640625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_042" ulx="0" uly="0" lrx="3658" lry="2898" sameAs="https://19e478c1-f434-4934-8871-73cfc606e0d8/canvas/p39">
+			<label>042</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/qdevxwwc78e2bd2zemyahnw2vvm6;1"/>
+			<zone xml:id="FHL_007548705_IMG_042cont" ulx="205.03280639648438" uly="207.24266052246094" lrx="1876.5638427734375" lry="499.42083740234375"/>
+			<zone xml:id="FHL_007548705_IMG_042_L2" ulx="225.6439208984375" uly="797.751220703125" lrx="1876.697021484375" lry="1171.9898681640625"/>
+			<zone xml:id="FHL_007548705_IMG_042_L4" ulx="189.59693908691406" uly="1723.98583984375" lrx="1876.982666015625" lry="2524.267333984375"/>
+			<zone xml:id="FHL_007548705_IMG_042_R3" ulx="1880.365966796875" uly="1373.7852783203125" lrx="3498.39794921875" lry="2030.5374755859375"/>
+			<zone xml:id="FHL_007548705_IMG_042_R4" ulx="1917.0560302734375" uly="1968.1644287109375" lrx="3494.72900390625" lry="2602.902587890625"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_044" ulx="0" uly="0" lrx="3632" lry="2916" sameAs="https://c4be3693-ae07-4fca-a6f0-bca51aeca51b/canvas/p41">
+			<label>044</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/4rbh91fc0m8t3fgs7ugzm35k4fam;1"/>
+			<zone xml:id="FHL_007548705_IMG_044_L3" ulx="173.03912353515625" uly="1328.676025390625" lrx="1830.57177734375" lry="1988.046142578125"/>
+			<zone xml:id="FHL_007548705_IMG_044_R3" ulx="1859.7152099609375" uly="1321.3902587890625" lrx="3451.67529296875" lry="1958.90283203125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_045" ulx="0" uly="0" lrx="3618" lry="2913" sameAs="https://36126d91-a082-4b23-80fe-5f60f34308e7/canvas/p43">
+			<label>045</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kgbnm9xx7290as7w4svw4qr04nvy;1"/>
+			<zone xml:id="FHL_007548705_IMG_045_R1" ulx="1859.8046875" uly="257.1529846191406" lrx="3474.659423828125" lry="779.7127075195312"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_046" ulx="0" uly="0" lrx="3636" lry="2827" sameAs="https://a3bbe011-c9f0-40dd-96f6-cda51cce8b35/canvas/p45">
+			<label>046</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/kg8py46ch71j9kk8lq28ruvete7j;1"/>
+			<zone xml:id="FHL_007548705_IMG_046_L2" ulx="249.8154296875" uly="740.639404296875" lrx="1865.41015625" lry="1141.8028564453125"/>
+			<zone xml:id="FHL_007548705_IMG_046_L3" ulx="220.63990783691406" uly="1098.03955078125" lrx="1858.1162109375" lry="1484.615234375"/>
+			<zone xml:id="FHL_007548705_IMG_046_R4" ulx="1854.4693603515625" uly="1652.37451171875" lrx="3499.239501953125" lry="2286.942138671875"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_047" ulx="0" uly="0" lrx="3618" lry="2922" sameAs="https://bfa48440-73f5-4739-a424-43fe28b701b0/canvas/p47">
+			<label>047</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/q39oyxq5rb60sxdm4a8kfix1l914;1"/>
+			<zone xml:id="FHL_007548705_IMG_047_R1" ulx="1841.66015625" uly="305.19964599609375" lrx="3427.48388671875" lry="907.5949096679688"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_048" ulx="0" uly="0" lrx="3653" lry="2968" sameAs="https://fc31fb65-cf1b-4266-88c6-8770e838bc8d/canvas/p49">
+			<label>048</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/20nci07t8q1gn7v0siuvf5u860qw;1"/>
+			<zone xml:id="FHL_007548705_IMG_048_L2" ulx="287.6233825683594" uly="921.5772094726562" lrx="1899.7799072265625" lry="1416.2161865234375"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_051" ulx="0" uly="0" lrx="3573" lry="2885" sameAs="https://45a1c3a3-8018-4877-b5e8-117c8137a26b/canvas/p51">
+			<label>051</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ruj41uu2tavnp9wbd19tdlfm2rg9;1"/>
+			<zone xml:id="FHL_007548705_IMG_051_R1" ulx="1747.0784912109375" uly="139.806396484375" lrx="3431.44140625" lry="706.0390014648438"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_053" ulx="0" uly="0" lrx="3647" lry="2937" sameAs="https://91f775f1-0cd1-42a0-9171-5b1ed0275fd7/canvas/p53">
+			<label>053</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/aiwmij6ivaql9n4sqzp4k8zpt9vx;1"/>
+			<zone xml:id="FHL_007548705_IMG_053_L5" ulx="235.9393310546875" uly="1989.761474609375" lrx="1885.6856689453125" lry="2659.170654296875"/>
+			<zone xml:id="FHL_007548705_IMG_053_R1" ulx="1838.1319580078125" uly="226.61785888671875" lrx="3443.982666015625" lry="713.12841796875"/>
+			<zone xml:id="FHL_007548705_IMG_053_R3" ulx="1863.73779296875" uly="1009.42431640625" lrx="3498.852294921875" lry="1623.9639892578125"/>
+		</surface>
+		<surface xml:id="FHL_007548705_IMG_054" ulx="0" uly="0" lrx="3653" lry="2992" sameAs="https://f86e444f-f8c4-417d-9301-0ec5476a1610/canvas/p55">
+			<label>054</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/2zw1gxqwsznglxlhsssvabxqla4e;1"/>
+			<zone xml:id="FHL_007548705_IMG_054_R1" ulx="1852.14794921875" uly="266.7306823730469" lrx="3478.96044921875" lry="757.7056274414062"/>
+			<zone xml:id="FHL_007548705_IMG_054_R3" ulx="1852.14794921875" uly="1065.48095703125" lrx="3555.904296875" lry="1571.11181640625"/>
+		</surface>
+	</facsimile>
 </TEI>
